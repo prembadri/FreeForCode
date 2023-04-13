@@ -1,0 +1,47 @@
+﻿## ❇️   40 Youtube channels to learn coding for free
+
+|Sno|Language| Channel  |
+|--|--|--|
+|1|C         | [Jacob Sorber](https://www.youtube.com/@JacobSorber) |
+|2|C++|[The Chernop;/](https://www.youtube.com/@TheCherno)
+|3|Java|[Amigoscode](https://www.youtube.com/@amigoscode)
+|4|C#|[kudvenkat](https://www.youtube.com/@Csharp-video-tutorialsBlogspot)
+|5|PHP|[Program With Gio](https://www.youtube.com/@ProgramWithGio)
+|6|Python|[Corey Schafer](https://www.youtube.com/@coreyms)
+|7|Rust|[NoBoilerplate](https://www.youtube.com/@NoBoilerplate)
+|8|Golang|[TechWithTim](https://www.youtube.com/@TechWithTim)
+|9|Kotlin|[PhilippLackner](https://www.youtube.com/@PhilippLackner)
+|10|Swift|[CodeWithChris](https://www.youtube.com/@CodeWithChris)
+|11|JavaScript|[developedbyed](https://www.youtube.com/@developedbyed)
+|12|JavaScript|[akshaymarch7](https://www.youtube.com/@akshaymarch7)
+|13|HTML/CSS|[KevinPowell](https://www.youtube.com/@KevinPowell)
+|14|SQL|[joeyblue1](https://www.youtube.com/@joeyblue1)
+|15|Node.js|[TraversyMedia](https://www.youtube.com/@TraversyMedia)
+|16|React|[DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode)
+|17|Vue|[VueMastery](https://www.youtube.com/@VueMastery)
+|18|Django|[CodingEntrepreneurs](https://www.youtube.com/@CodingEntrepreneurs)
+|19|Laravel|[LaravelDaily](https://www.youtube.com/@LaravelDaily)
+|20|Spring|[SpringSourceDev](https://www.youtube.com/@SpringSourceDev)
+|21|SpringBoot|[Amigoscode](https://www.youtube.com/@amigoscode)
+|22|FullStack|[TraversyMedia](https://www.youtube.com/@TraversyMedia)
+|23|FullStack|[NetNinja](https://www.youtube.com/@NetNinja)
+|24|FullStack|[DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode)
+|25|DSA|[mycodeschool](https://www.youtube.com/@mycodeschool)
+|26|DSA|[abdul_bari](https://www.youtube.com/@abdul_bari)
+|27|DSA|[takeUforward](https://www.youtube.com/@takeUforward)
+|28|DSA|[JennyslecturesCSIT](https://www.youtube.com/@JennyslecturesCSIT)
+|29|Projects|[WebDevSimplified](https://www.youtube.com/@WebDevSimplified)
+|30|UI Design|[developedbyed](https://www.youtube.com/@developedbyed)
+|31|Mathematics|[3blue1brown](https://www.youtube.com/@3blue1brown)
+|32|Mathematics|[profrobbob](https://www.youtube.com/@profrobbob)
+|33|Mathematics|[prof-g](https://www.youtube.com/@prof-g)
+|34|MachineLearning|[sentdex](https://www.youtube.com/@sentdex)
+|35|MachineLearning|[Deeplearningai](https://www.youtube.com/@Deeplearningai)
+|36|MachineLearning|[statquest](https://www.youtube.com/@statquest)
+|37|MSExcel|[excelisfun](https://www.youtube.com/@excelisfun)
+|38|Tableau|[TableauTim](https://www.youtube.com/@TableauTim)
+|39|PowerBI|[GuyInACube](https://www.youtube.com/@GuyInACube)
+|40|FreeEducation|[freecodecamp](https://www.youtube.com/@freecodecamp)
+
+
+
