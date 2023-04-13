@@ -1,4 +1,4 @@
-# Free For Coding
+# Free For Code
 
 Developers and Open Source authors now have a massive amount of services offering free, but it can be hard to find them all to make informed decisions.
 
@@ -375,6 +375,7 @@ Grafana
 |38|Tableau|[TableauTim](https://www.youtube.com/@TableauTim)
 |39|PowerBI|[GuyInACube](https://www.youtube.com/@GuyInACube)
 |40|FreeEducation|[freecodecamp](https://www.youtube.com/@freecodecamp)
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 # AWS UDEMY Free Cources
