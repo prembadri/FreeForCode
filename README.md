@@ -11,10 +11,6 @@ If you want to add. Create MD File. Create a PR. we will Update the weblinks.
 STOP 🛑 throwing away your money 💰 on expensive video tutorials when you can learn for FREE!!
 
 # Table of Contents
-
-This repo for saving some useful scripts, websites links, etc., which makes our daily life easy and new learns
-I will keep on adding some scripts. Happy Learning ! Happy Codding
-
    * [Programming Cheat Codes](#Programming-Cheat-Codes)
    * [Azure Free Cource](#Azure-Free-Courses)
    * [Youtube Chanels for DevOps](#Youtube-Chanels-for-DevOps)
