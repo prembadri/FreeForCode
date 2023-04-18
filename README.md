@@ -2,24 +2,24 @@
 
 Developers and Open Source authors now have a massive amount of services offering free, but it can be hard to find them all to make informed decisions.
 
-This is list of links where we can learn cources for free and get material for free
+This is list of links where we can learn courses for free and get material for free
 
-This repo for saving websites links, free cource links, which makes our daily life easy and new learns We will keep on adding some scripts. Happy Learning ! Happy Codding
+This repo for saving websites links, free course links, which makes our daily life easy and new learns We will keep on adding some scripts. Happy Learning ! Happy Codding
 
-If you want to add. Create MD File. Create a PR. we will Update the weblinks.
+If you want to add. Create MD File. Create a PR. we will Update the web links.
 
 STOP 🛑 throwing away your money 💰 on expensive video tutorials when you can learn for FREE!!
 
 ## Table of Contents
    * [Programming Cheat Codes](##Programming-Cheat-Codes)
-   * [Azure Free Cource](##Azure-Free-Courses)
-   * [Youtube Chanels for DevOps](##Youtube-Chanels-for-DevOps)
+   * [Azure Free Courses](##Azure-Free-Courses)
+   * [Youtube Channels for DevOps](##Youtube-Channels-for-DevOps)
    * [Some Git Repository for Learning](##Some-Git-Repository-for-Learning)
    * [Youtube Channel for Codding](##Youtube-Channel-for-Codding)
-   * [AWS UDEMY Free Cources](##AWS-UDEMY-Free-Cources)
+   * [AWS UDEMY Free Courses](##AWS-UDEMY-Free-Courses)
    * [Free Cloud Computing with Certificate](##Free-Cloud-Computing-with-Certificate)
    * [Code Practice](##Code-Practice)
-   * [Free Cources Websites](##Free-Cources-Websites)
+   * [Free Courses Websites](##Free-Courses-Websites)
 
 ## Programming Cheat Codes
 
@@ -118,7 +118,7 @@ Here is the list of FREE Udemy tutorials for mastering Azure cloud computing.
 1. Create a 3-Tier Application Using Azure Virtual Machines : https://lnkd.in/ezUvVNMM
 
 **[⬆️ Back to Top](##table-of-contents)**
-## Youtube Chanels for DevOps
+## Youtube Channels for DevOps
 
 ⭐️Note: This tutorial should be followed, the way I numbered it.  
   
@@ -244,7 +244,7 @@ COMPLETE DEVOPS TUTORIAL:
 
 **[⬆️ Back to Top](##table-of-contents)**
 
-## AWS UDEMY Free Cources
+## AWS UDEMY Free Courses
   
 1. AWS Certified Solutions Architect Associate Introduction :[https://lnkd.in/d4eR5gsW](https://lnkd.in/d4eR5gsW "https://lnkd.in/d4er5gsw")  
 2. Amazon Web Services - Learning and Implementing AWS Solution :[https://lnkd.in/dATppQUa](https://lnkd.in/dATppQUa "https://lnkd.in/datppqua")  
@@ -317,7 +317,7 @@ Understanding Cloud
  8. [InterviewBit](https://www.interviewbit.com/)
 
 **[⬆️ Back to Top](##table-of-contents)**
-## Free Cources Websites
+## Free Courses Websites
 
 1. digitaldefynd: https://digitaldefynd.com/
 2. Class Central: https://lnkd.in/dpjCRVxn
