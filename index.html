@@ -44,6 +44,18 @@
               defaultTheme : "light",
               codeFontFamily : "Roboto Mono, Monaco, courier, monospace",
               bodyFontSize: "15px"
+            },
+            loadFooter: true,
+            timeUpdater: {
+              text: "> Last Updated on {docsify-updated}",
+              formatUpdated: "{YYYY}/{MM}/{DD}",
+              
+            },
+            share: {
+              reddit: true,
+              linkedin: true,
+              facebook: true,
+              twitter: true,
             }
           }
         </script>
@@ -52,7 +64,9 @@
         <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
         <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
         <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript"></script>
-    
+        <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
+        <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
         <style>
           blockquote:first-of-type {
             background-color: rgba(235, 248, 242, 0.363);

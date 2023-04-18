@@ -10,18 +10,18 @@ If you want to add. Create MD File. Create a PR. we will Update the web links.
 
 STOP 🛑 throwing away your money 💰 on expensive video tutorials when you can learn for FREE!!
 
-## Table of Contents
-   * [Programming Cheat Codes](##Programming-Cheat-Codes)
-   * [Azure Free Courses](##Azure-Free-Courses)
-   * [Youtube Channels for DevOps](##Youtube-Channels-for-DevOps)
-   * [Some Git Repository for Learning](##Some-Git-Repository-for-Learning)
-   * [Youtube Channel for Codding](##Youtube-Channel-for-Codding)
-   * [AWS UDEMY Free Courses](##AWS-UDEMY-Free-Courses)
-   * [Free Cloud Computing with Certificate](##Free-Cloud-Computing-with-Certificate)
-   * [Code Practice](##Code-Practice)
-   * [Free Courses Websites](##Free-Courses-Websites)
+# Table of Contents
+   * [Programming Cheat Codes](#Programming-Cheat-Codes)
+   * [Azure Free Courses](#Azure-Free-Courses)
+   * [Youtube Channels for DevOps](#Youtube-Channels-for-DevOps)
+   * [Some Git Repository for Learning](#Some-Git-Repository-for-Learning)
+   * [Youtube Channel for Codding](#Youtube-Channel-for-Codding)
+   * [AWS UDEMY Free Courses](#AWS-UDEMY-Free-Courses)
+   * [Free Cloud Computing with Certificate](#Free-Cloud-Computing-with-Certificate)
+   * [Code Practice](#Code-Practice)
+   * [Free Courses Websites](#Free-Courses-Websites)
 
-## Programming Cheat Codes
+# Programming Cheat Codes
 
 Use the links and enjoying codding. Happy lerning.
 
@@ -73,9 +73,9 @@ Use the links and enjoying codding. Happy lerning.
 46. GPT-3 GitHub Repository: https://lnkd.in/g56cQQPD
 47. Chat GPT Cheat Sheet : https://lnkd.in/e43cDB9q
 
-**[⬆️ Back to Top](##table-of-contents)**
+**[⬆️ Back to Top](#Table-of-Contents)**
 
-## Azure Free Courses
+# Azure Free Courses
 
 Here is the list of FREE Udemy tutorials for mastering Azure cloud computing.
 
@@ -117,8 +117,8 @@ Here is the list of FREE Udemy tutorials for mastering Azure cloud computing.
 1. Modern Data Architecture using Microsoft Azure : https://lnkd.in/eiQ7UFh5
 1. Create a 3-Tier Application Using Azure Virtual Machines : https://lnkd.in/ezUvVNMM
 
-**[⬆️ Back to Top](##table-of-contents)**
-## Youtube Channels for DevOps
+**[⬆️ Back to Top](#Table-of-Contents)**
+# Youtube Channels for DevOps
 
 ⭐️Note: This tutorial should be followed, the way I numbered it.  
   
@@ -171,9 +171,9 @@ COMPLETE DEVOPS TUTORIAL:
 |19|Grafana|[https://lnkd.in/ddAV7_-p](https://lnkd.in/ddAV7_-p)|
 |||[https://lnkd.in/dRwfE7A4](https://lnkd.in/dRwfE7A4)|
 
-**[⬆️ Back to Top](##table-of-contents)**
+**[⬆️ Back to Top](#Table-of-Contents)**
 
-## Some Git Repository for Learning
+# Some Git Repository for Learning
 
 1. how-web-works: https://lnkd.in/dVAt8sCa
 2. developer-roadmap: https://lnkd.in/dJAXGZtu
@@ -196,8 +196,8 @@ COMPLETE DEVOPS TUTORIAL:
 19. the-art-of-command-line : https://lnkd.in/dZFqj79h
 20. front-end-collection: https://lnkd.in/drsB99Ev
 
-**[⬆️ Back to Top](##table-of-contents)**
-## Youtube Channel for Codding
+**[⬆️ Back to Top](#Table-of-Contents)**
+# Youtube Channel for Codding
 
 |Sno|Language| Channel  |
 |--|--|--|
@@ -242,9 +242,9 @@ COMPLETE DEVOPS TUTORIAL:
 |39|PowerBI|[GuyInACube](https://www.youtube.com/@GuyInACube)
 |40|FreeEducation|[freecodecamp](https://www.youtube.com/@freecodecamp)
 
-**[⬆️ Back to Top](##table-of-contents)**
+**[⬆️ Back to Top](#Table-of-Contents)**
 
-## AWS UDEMY Free Courses
+# AWS UDEMY Free Courses
   
 1. AWS Certified Solutions Architect Associate Introduction :[https://lnkd.in/d4eR5gsW](https://lnkd.in/d4eR5gsW "https://lnkd.in/d4er5gsw")  
 2. Amazon Web Services - Learning and Implementing AWS Solution :[https://lnkd.in/dATppQUa](https://lnkd.in/dATppQUa "https://lnkd.in/datppqua")  
@@ -273,8 +273,8 @@ COMPLETE DEVOPS TUTORIAL:
 25. All About AWS Lambda and Serverless   : [https://lnkd.in/dip9ZWm5](https://lnkd.in/dip9ZWm5 "https://lnkd.in/dip9zwm5")  
 26. Serverless computing in AWS   : [https://lnkd.in/dGsj5JTm](https://lnkd.in/dGsj5JTm "https://lnkd.in/dgsj5jtm")
 
-**[⬆️ Back to Top](##table-of-contents)**
-## Free Cloud Computing with Certificate
+**[⬆️ Back to Top](#Table-of-Contents)**
+# Free Cloud Computing with Certificate
 
 Understanding Cloud
 
@@ -304,8 +304,8 @@ Understanding Cloud
 24. Virtual Cloud Computing :[https://lnkd.in/dSg7NJNW](https://lnkd.in/dSg7NJNW)  
 25. Cloud Engineer Roles and Responsibilities :[https://lnkd.in/dKVtHDWJ](https://lnkd.in/dKVtHDWJ)
 
-**[⬆️ Back to Top](##table-of-contents)**
-## Code Practice
+**[⬆️ Back to Top](#Table-of-Contents)**
+# Code Practice
 
  1. [LeetCode](https://leetcode.com/)
  2. [HackerRank](https://www.hackerrank.com/)
@@ -317,10 +317,10 @@ Understanding Cloud
  8. [InterviewBit](https://www.interviewbit.com/)
 
 **[⬆️ Back to Top](##table-of-contents)**
-## Free Courses Websites
+# Free Courses Websites
 
 1. digitaldefynd: https://digitaldefynd.com/
 2. Class Central: https://lnkd.in/dpjCRVxn
 3. MOOC: https://www.mooc.org/
 
-**[⬆️ Back to Top](##table-of-contents)**
+**[⬆️ Back to Top](#Table-of-Contents)**
