@@ -319,8 +319,11 @@ Understanding Cloud
 **[⬆️ Back to Top](##table-of-contents)**
 # Free Courses Websites
 
-1. digitaldefynd: https://digitaldefynd.com/
-2. Class Central: https://lnkd.in/dpjCRVxn
-3. MOOC: https://www.mooc.org/
+|Sno|Platform Name|Link|Comments|
+|--|--|--|--|
+|1|digitaldefynd|https://digitaldefynd.com/| You can find All kind of Courses 
+|2|Class Central| https://lnkd.in/dpjCRVxn| You can find All kind of Courses 
+|3|MOOC| https://www.mooc.org/| You can find All kind of Courses 
+|4|EggHead| https://egghead.io/| Full Stack 
 
 **[⬆️ Back to Top](#Table-of-Contents)**
