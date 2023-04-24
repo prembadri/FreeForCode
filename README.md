@@ -23,7 +23,9 @@ STOP 🛑 throwing away your money 💰 on expensive video tutorials when you ca
    * [Excel Courses](#Excel-Courses)
    * [Data Engineering Courses](#Data-Engineering-Courses)
    * [API Courses](#API-Courses)
+   * [Free Data Analytics Course](#Free-Data-Analytics-Course)
    * [Other Miscellaneous](#Other-Miscellaneous)
+   
 
 
 # Programming Cheat Codes
@@ -455,3 +457,22 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 1. Speechify - Listen to any text, anytime: https://speechify.com
 1. LovoAI - Generate realistic voiceovers: https://lovo.ai
 1. MediaAI - Revolutionize your audio experience: https://www.ai-media.tv
+
+
+# Free Data Analytics Course
+
+1. 🚀Excel :It is used to store, organize, and manipulate data in a tabular format, with rows and columns.
+   1. 🎙️https://bit.ly/3YDmr0e
+   1. Project 🪢http://bit.ly/3TmKO02
+
+1. 🚀SQL: It is used to perform various operations on relational databases, such as creating, modifying, and deleting tables, inserting, updating, and deleting records, and retrieving data using queries.
+   1. 🎙️http://bit.ly/3WI9tgq
+   2. Project 🪢https://bit.ly/3lVZ7wk
+
+1. 🚀Python :Python is a powerful programming language that can be used for a variety of analytics tasks.
+   1. 🎙️ https://bit.ly/3RPVYtr
+   1. Project 🪢 https://bit.ly/40TNxRQ
+1. 🚀Power BI :It is designed to help users gain insights into their data and make better business decisions.
+
+   1. 🎙️https://bit.ly/3XDVCaG
+   1. Project : 🪢https://bit.ly/3o61tJH
