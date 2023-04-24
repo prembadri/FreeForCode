@@ -396,7 +396,7 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 12. Designing APIs with Postman- https://lnkd.in/ezue3d4B
 13. Testing APIs with Postman - https://lnkd.in/eCPnGTGi
 
- # Other Miscellaneous
+# Other Miscellaneous
 
  💻 𝗖𝗼𝗱𝗶𝗻𝗴:
 1. Copilot - Your smart coding assistant: https://lnkd.in/dzekWja7
