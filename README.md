@@ -21,6 +21,7 @@ STOP 🛑 throwing away your money 💰 on expensive video tutorials when you ca
    * [Code Practice](#Code-Practice)
    * [Free Courses Websites](#Free-Courses-Websites)
    * [Excel Courses](#Excel-Courses)
+   * [Data Engineering Courses](#Data-Engineering-Courses)
 
 # Programming Cheat Codes
 
@@ -352,3 +353,29 @@ Understanding Cloud
 1. Goal seek function in Excel- https://lnkd.in/gcCR2jeB
 
 **[⬆️ Back to Top](#Table-of-Contents)**
+
+# Data Engineering Courses
+
+ 1. Master Python: https://lnkd.in/e5rCbvP8
+ 2. Learn SQL: https://lnkd.in/efMKFkfX
+ 3. Learn MySQL: https://lnkd.in/efk-Mi3c
+ 4. Learn MongoDB: https://lnkd.in/eMKPWtqX
+ 5. Dominate PySpark: https://lnkd.in/exwA2hKz
+ 6. Learn Bash, Airflow & Kafka: https://lnkd.in/eyN6u2yd
+ 7. Learn Git & GitHub: https://lnkd.in/eX_Q8s99
+ 8. Learn CICD basics: https://lnkd.in/epKGivFY
+ 9. Decode Data Warehousing: https://lnkd.in/eKnVbFAB
+10. Learn DBT: : https://lnkd.in/eG9eaEuE
+11. Learn Data Lakes: https://lnkd.in/eQ9xxAJT
+12. Learn DataBricks: https://lnkd.in/ePZpCv86
+13. Learn Azure Databricks: https://lnkd.in/eBij4akJ
+14. Learn Snowflake: https://lnkd.in/erETmtFU
+15. Learn Apache NiFi: http://bit.ly/43btwYy
+16. Learn Debezium: http://bit.ly/3K6W5gL
+
+Boost Your expertise & Portfolio with 5 Must-Try Projects:
+1. Reddit ETL Pipeline - https://lnkd.in/ekmgzGc8
+2. Surfline Dashboard - https://lnkd.in/e6AdaDzz
+3. Finnhub Streaming Data Pipeline - https://lnkd.in/eCF5kZvE
+4. Audiophile End-To-End ELT Pipeline - https://lnkd.in/ercYzXtX
+5. Streamify - https://lnkd.in/ePiEwH5k
