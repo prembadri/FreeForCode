@@ -420,7 +420,7 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 
 # Other Miscellaneous
 
-### The below links can be change to paid asap.
+📄 🚀💻 The below links can be change to paid asap.
 
  💻 𝗖𝗼𝗱𝗶𝗻𝗴:
 1. Copilot - Your smart coding assistant: https://lnkd.in/dzekWja7
