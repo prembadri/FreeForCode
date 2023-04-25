@@ -477,3 +477,6 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 1. Speechify - Listen to any text, anytime: https://speechify.com
 1. LovoAI - Generate realistic voiceovers: https://lovo.ai
 1. MediaAI - Revolutionize your audio experience: https://www.ai-media.tv
+
+
+<a href="https://www.buymeacoffee.com/badriprem" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
