@@ -1,4 +1,4 @@
-# Free For Code
+[![FreeForCodeBanner](./Free%20For%20Code.gif)](https://prembadri.github.io/FreeForCode/#/)
 
 Developers and Open Source authors now have a massive amount of services offering free, but it can be hard to find them all to make informed decisions.
 
@@ -10,7 +10,7 @@ If you want to add. Create MD File. Create a PR. we will Update the web links.
 
 STOP 🛑 throwing away your money 💰 on expensive video tutorials when you can learn for FREE!!
 
-# Table of Contents
+<!-- # Table of Contents
    * [Programming Cheat Codes](#Programming-Cheat-Codes)
    * [Azure Free Courses](#Azure-Free-Courses)
    * [Youtube Channels for DevOps](#Youtube-Channels-for-DevOps)
@@ -24,7 +24,7 @@ STOP 🛑 throwing away your money 💰 on expensive video tutorials when you ca
    * [Data Engineering Courses](#Data-Engineering-Courses)
    * [API Courses](#API-Courses)
    * [Free Data Analytics Course](#Free-Data-Analytics-Course)
-   * [Other Miscellaneous](#Other-Miscellaneous)
+   * [Other Miscellaneous](#Other-Miscellaneous) -->
    
 
 
