@@ -417,13 +417,36 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 # Free Virtual Internship Data Analytics
 |Sno.|Company|Link|
 |--|--|--|
-|1.|KPMG Data Analytics Internship| https://lnkd.in/eUBvyFmd
-|2.|BCG Data Science & Analytics|https://lnkd.in/e2eC27AR
-|3.|TATA Data Visualization Internship| https://lnkd.in/eX-dT6HE
-|4.|Accenture Data Analytics|https://lnkd.in/eG2RV3rZ
-|5.|General Electric Data Analytics|https://lnkd.in/eAm6wEyT
-|6.|PwC Power BI| https://lnkd.in/eKFs7n-n
-|7.|Quantium Data Analytics|https://lnkd.in/eT3YuB-U
+|1.|KPMG Data Analytics Internship|https://lnkd.in/eUBvyFmd|
+|2.|BCG Data Science & Analytics|https://lnkd.in/e2eC27AR|
+|3.|TATA Data Visualization Internship| https://lnkd.in/eX-dT6HE|
+|4.|Accenture Data Analytics|https://lnkd.in/eG2RV3rZ|
+|5.|General Electric Data Analytics|https://lnkd.in/eAm6wEyT|
+|6.|PwC Power BI| https://lnkd.in/eKFs7n-n|
+|7.|Quantium Data Analytics|https://lnkd.in/eT3YuB-U|
+
+# Google Free Online Courses
+
+|Sno|Course|Link|
+|--|--|--|
+|1|Google Project Management|https://lnkd.in/d-ryKzQJ|
+|2|Agile Project Management|https://lnkd.in/dqcuC-4P|
+|3|Project Execution: Running the Project|https://lnkd.in/dqAQbVrs|
+|4|Foundations of Project Management|https://lnkd.in/dNV-FpWX
+|5|Project Initiation: Starting a Successful Project|https://lnkd.in/duwy6peT
+|6|Project Planning: Putting It All Together|https://lnkd.in/dP9fFsVK
+|7|Google Analytics for Power Users|https://lnkd.in/d2uW7AhP
+|8|Fundamentals of digital marketing|https://lnkd.in/dprBe6CB
+|9|Python Basics for Data Analysis|https://lnkd.in/d9FUWPGc
+|10|Data Science Foundations|https://lnkd.in/dqwYK7Rp
+|11|Advanced Google Analytics|https://lnkd.in/d4zHUvJ9
+|12|Google Cloud Computing Foundations:|https://lnkd.in/d5krrR8q
+|13|Google Cloud Computing Foundations:|https://lnkd.in/ddF9qDtg
+|14|Data, ML, and AI in Google Cloud|https://lnkd.in/dWhMx5Xc
+|15|Google Cloud Computing Foundations: Networking and Security in Google Cloud|https://lnkd.in/dYN_J3xA
+|16|Machine Learning Crash Course|https://lnkd.in/dRp6kTtJ
+|17|Basics of Machine Learning|https://lnkd.in/dwxfQVn8
+|18|Data Science with Python|https://lnkd.in/d3xrXj6w|
 
 # Other Miscellaneous
 
