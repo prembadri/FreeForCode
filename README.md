@@ -401,22 +401,29 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 13. Testing APIs with Postman - https://lnkd.in/eCPnGTGi
 
 # Free Data Analytics Course
+|Sno.|Course|Tutorials|Projects |
+|--|--|--|--|
+|1.|Excel|https://bit.ly/3YDmr0e|http://bit.ly/3TmKO02|
+|||https://lnkd.in/eWmC2vf8|https://lnkd.in/ew5y5KP7|
+|2.|SQL|http://bit.ly/3WI9tgq|https://bit.ly/3lVZ7wk|
+|||https://lnkd.in/epAFJzJB|https://lnkd.in/eq9jqcBq|
+|3.|Python|https://bit.ly/3RPVYtr|https://bit.ly/40TNxRQ|
+|||https://lnkd.in/eh4gTQQ2|https://lnkd.in/emzcrzTX|
+|4.|Power BI|https://bit.ly/3XDVCaG|https://bit.ly/3o61tJH|
+|||https://bit.ly/npowerbi|http://bit.ly/3Xjpn0v
+|5.|Basic Statistics|https://lnkd.in/emKawHBs||
+|6.|Projects|https://lnkd.in/eVFWpmFg|https://lnkd.in/epd_9Bx8|
 
-1. 🚀Excel :It is used to store, organize, and manipulate data in a tabular format, with rows and columns.
-   1. 🎙️https://bit.ly/3YDmr0e
-   1. Project 🪢http://bit.ly/3TmKO02
-
-1. 🚀SQL: It is used to perform various operations on relational databases, such as creating, modifying, and deleting tables, inserting, updating, and deleting records, and retrieving data using queries.
-   1. 🎙️http://bit.ly/3WI9tgq
-   2. Project 🪢https://bit.ly/3lVZ7wk
-
-1. 🚀Python :Python is a powerful programming language that can be used for a variety of analytics tasks.
-   1. 🎙️ https://bit.ly/3RPVYtr
-   1. Project 🪢 https://bit.ly/40TNxRQ
-1. 🚀Power BI :It is designed to help users gain insights into their data and make better business decisions.
-
-   1. 🎙️https://bit.ly/3XDVCaG
-   1. Project : 🪢https://bit.ly/3o61tJH
+# Free Virtual Internship Data Analytics
+|Sno.|Company|Link|
+|--|--|--|
+|1.|KPMG Data Analytics Internship| https://lnkd.in/eUBvyFmd
+|2.|BCG Data Science & Analytics|https://lnkd.in/e2eC27AR
+|3.|TATA Data Visualization Internship| https://lnkd.in/eX-dT6HE
+|4.|Accenture Data Analytics|https://lnkd.in/eG2RV3rZ
+|5.|General Electric Data Analytics|https://lnkd.in/eAm6wEyT
+|6.|PwC Power BI| https://lnkd.in/eKFs7n-n
+|7.|Quantium Data Analytics|https://lnkd.in/eT3YuB-U
 
 # Other Miscellaneous
 
