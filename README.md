@@ -361,29 +361,35 @@ Understanding Cloud
 
 # Data Engineering Courses
 
+ 1. DE Roadmap: https://lnkd.in/dZBfE3Eq
  1. Master Python: https://lnkd.in/e5rCbvP8
- 2. Learn SQL: https://lnkd.in/efMKFkfX
- 3. Learn MySQL: https://lnkd.in/efk-Mi3c
- 4. Learn MongoDB: https://lnkd.in/eMKPWtqX
- 5. Dominate PySpark: https://lnkd.in/exwA2hKz
- 6. Learn Bash, Airflow & Kafka: https://lnkd.in/eyN6u2yd
- 7. Learn Git & GitHub: https://lnkd.in/eX_Q8s99
- 8. Learn CICD basics: https://lnkd.in/epKGivFY
- 9. Decode Data Warehousing: https://lnkd.in/eKnVbFAB
-10. Learn DBT: : https://lnkd.in/eG9eaEuE
-11. Learn Data Lakes: https://lnkd.in/eQ9xxAJT
-12. Learn DataBricks: https://lnkd.in/ePZpCv86
-13. Learn Azure Databricks: https://lnkd.in/eBij4akJ
-14. Learn Snowflake: https://lnkd.in/erETmtFU
-15. Learn Apache NiFi: http://bit.ly/43btwYy
-16. Learn Debezium: http://bit.ly/3K6W5gL
+ 1. Learn SQL: https://lnkd.in/efMKFkfX
+ 1. Learn MySQL: https://lnkd.in/efk-Mi3c
+ 1. Learn MongoDB: https://lnkd.in/eMKPWtqX
+ 1. Dominate PySpark: https://lnkd.in/exwA2hKz
+ 1. Learn Bash, Airflow & Kafka: https://lnkd.in/eyN6u2yd
+ 1. Learn Git & GitHub: https://lnkd.in/eX_Q8s99
+ 1. Learn CICD basics: https://lnkd.in/epKGivFY
+ 1. Decode Data Warehousing: https://lnkd.in/eKnVbFAB
+1. Learn DBT: : https://lnkd.in/eG9eaEuE
+1. Learn Data Lakes: https://lnkd.in/eQ9xxAJT
+1. Learn DataBricks: https://lnkd.in/ePZpCv86
+1. Learn Azure Databricks: https://lnkd.in/eBij4akJ
+1. Learn Snowflake: https://lnkd.in/erETmtFU
+1. Learn Apache NiFi: http://bit.ly/43btwYy
+1. Learn Debezium: http://bit.ly/3K6W5gL
 
 Boost Your expertise & Portfolio with 5 Must-Try Projects:
 1. Reddit ETL Pipeline - https://lnkd.in/ekmgzGc8
-2. Surfline Dashboard - https://lnkd.in/e6AdaDzz
-3. Finnhub Streaming Data Pipeline - https://lnkd.in/eCF5kZvE
-4. Audiophile End-To-End ELT Pipeline - https://lnkd.in/ercYzXtX
-5. Streamify - https://lnkd.in/ePiEwH5k
+1. Surfline Dashboard - https://lnkd.in/e6AdaDzz
+1. Finnhub Streaming Data Pipeline - https://lnkd.in/eCF5kZvE
+1. Audiophile End-To-End ELT Pipeline - https://lnkd.in/ercYzXtX
+1. Streamify - https://lnkd.in/ePiEwH5k
+1. ETL Pipeline on AWS Cloud: https://lnkd.in/d4iy9Dgd
+1. Covid Data Analysis Project: https://lnkd.in/d2u4tS3R
+1. Stock Market Data Processing using Python: https://lnkd.in/dWSjqcFf
+1. Twitter Data Pipeline using Airflow: https://lnkd.in/dkwdmPnS
+1. Extract Data From Amazon Website: https://lnkd.in/dccEasSH
 
 # API Courses
  1. API and REST API Fundamentals - https://lnkd.in/e8eMet_k
@@ -447,6 +453,31 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 |16|Machine Learning Crash Course|https://lnkd.in/dRp6kTtJ
 |17|Basics of Machine Learning|https://lnkd.in/dwxfQVn8
 |18|Data Science with Python|https://lnkd.in/d3xrXj6w|
+
+# Apache AirFlow Free Resources 
+
+Apache Airflow is a powerful open-source platform for orchestrating complex workflows. Here are some free resources to help you learn and master Airflow:🌐
+
+1. 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗔𝗶𝗿𝗳𝗹𝗼𝘄 𝗗𝗼𝗰𝘀: Start with the fundamentals – a comprehensive guide to Airflow's features & usage.
+🔗 https://lnkd.in/eeaUtnGE
+
+1. 𝗔𝘀𝘁𝗿𝗼𝗻𝗼𝗺𝗲𝗿'𝘀 𝗔𝗶𝗿𝗳𝗹𝗼𝘄 𝗚𝘂𝗶𝗱𝗲: Learn from the experts – an extensive guide from an Airflow-focused company.
+🔗 https://lnkd.in/eEHP4hSQ
+
+1. 𝗔𝘄𝗲𝘀𝗼𝗺𝗲 𝗔𝗶𝗿𝗳𝗹𝗼𝘄 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼: Discover a curated treasure trove of blogs, videos, & code samples.
+🔗 https://lnkd.in/eQErmtKA
+
+1. 𝗠𝗲𝗱𝗶𝘂𝗺 𝗔𝗿𝘁𝗶𝗰𝗹𝗲𝘀: Gain insights from experienced developers & their tips on working with Airflow.
+🔗 https://lnkd.in/e_yGuG9B
+
+1. 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀: Browse through beginner-friendly intros & advanced concept tutorials.
+🔗 https://lnkd.in/eZd4_gx6
+
+1. 𝗔𝗶𝗿𝗳𝗹𝗼𝘄 𝗦𝗹𝗮𝗰𝗸 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆: Connect, ask questions, & share experiences with fellow developers.
+🔗 https://lnkd.in/e6aBAgpN
+
+1. 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆: Dive into the source code, issues, & discussions to engage with the open-source community.
+🔗 https://lnkd.in/eM-wrSUP
 
 # Other Miscellaneous
 
