@@ -10,24 +10,6 @@ If you want to add. Create MD File. Create a PR. we will Update the web links.
 
 STOP 🛑 throwing away your money 💰 on expensive video tutorials when you can learn for FREE!!
 
-<!-- # Table of Contents
-   * [Programming Cheat Codes](#Programming-Cheat-Codes)
-   * [Azure Free Courses](#Azure-Free-Courses)
-   * [Youtube Channels for DevOps](#Youtube-Channels-for-DevOps)
-   * [Some Git Repository for Learning](#Some-Git-Repository-for-Learning)
-   * [Youtube Channel for Codding](#Youtube-Channel-for-Codding)
-   * [AWS UDEMY Free Courses](#AWS-UDEMY-Free-Courses)
-   * [Free Cloud Computing with Certificate](#Free-Cloud-Computing-with-Certificate)
-   * [Code Practice](#Code-Practice)
-   * [Free Courses Websites](#Free-Courses-Websites)
-   * [Excel Courses](#Excel-Courses)
-   * [Data Engineering Courses](#Data-Engineering-Courses)
-   * [API Courses](#API-Courses)
-   * [Free Data Analytics Course](#Free-Data-Analytics-Course)
-   * [Other Miscellaneous](#Other-Miscellaneous) -->
-   
-
-
 # Programming Cheat Codes
 
 Use the links and enjoying codding. Happy lerning.
@@ -80,7 +62,7 @@ Use the links and enjoying codding. Happy lerning.
 46. GPT-3 GitHub Repository: https://lnkd.in/g56cQQPD
 47. Chat GPT Cheat Sheet : https://lnkd.in/e43cDB9q
 
-**[⬆️ Back to Top](#Table-of-Contents)**
+
 
 # Azure Free Courses
 
@@ -124,7 +106,7 @@ Here is the list of FREE Udemy tutorials for mastering Azure cloud computing.
 1. Modern Data Architecture using Microsoft Azure : https://lnkd.in/eiQ7UFh5
 1. Create a 3-Tier Application Using Azure Virtual Machines : https://lnkd.in/ezUvVNMM
 
-**[⬆️ Back to Top](#Table-of-Contents)**
+
 # Youtube Channels for DevOps
 
 ⭐️Note: This tutorial should be followed, the way I numbered it.  
@@ -178,7 +160,7 @@ COMPLETE DEVOPS TUTORIAL:
 |19|Grafana|[https://lnkd.in/ddAV7_-p](https://lnkd.in/ddAV7_-p)|
 |||[https://lnkd.in/dRwfE7A4](https://lnkd.in/dRwfE7A4)|
 
-**[⬆️ Back to Top](#Table-of-Contents)**
+
 
 # Some Git Repository for Learning
 
@@ -203,7 +185,7 @@ COMPLETE DEVOPS TUTORIAL:
 19. the-art-of-command-line : https://lnkd.in/dZFqj79h
 20. front-end-collection: https://lnkd.in/drsB99Ev
 
-**[⬆️ Back to Top](#Table-of-Contents)**
+
 # Youtube Channel for Codding
 
 |Sno|Language| Channel  |
@@ -249,7 +231,7 @@ COMPLETE DEVOPS TUTORIAL:
 |39|PowerBI|[GuyInACube](https://www.youtube.com/@GuyInACube)
 |40|FreeEducation|[freecodecamp](https://www.youtube.com/@freecodecamp)
 
-**[⬆️ Back to Top](#Table-of-Contents)**
+
 
 # AWS UDEMY Free Courses
   
@@ -280,7 +262,7 @@ COMPLETE DEVOPS TUTORIAL:
 25. All About AWS Lambda and Serverless   : [https://lnkd.in/dip9ZWm5](https://lnkd.in/dip9ZWm5 "https://lnkd.in/dip9zwm5")  
 26. Serverless computing in AWS   : [https://lnkd.in/dGsj5JTm](https://lnkd.in/dGsj5JTm "https://lnkd.in/dgsj5jtm")
 
-**[⬆️ Back to Top](#Table-of-Contents)**
+
 # Free Cloud Computing with Certificate
 
 Understanding Cloud
@@ -311,7 +293,7 @@ Understanding Cloud
 24. Virtual Cloud Computing :[https://lnkd.in/dSg7NJNW](https://lnkd.in/dSg7NJNW)  
 25. Cloud Engineer Roles and Responsibilities :[https://lnkd.in/dKVtHDWJ](https://lnkd.in/dKVtHDWJ)
 
-**[⬆️ Back to Top](#Table-of-Contents)**
+
 # Code Practice
 
  1. [LeetCode](https://leetcode.com/)
@@ -333,7 +315,7 @@ Understanding Cloud
 |3|MOOC| https://www.mooc.org/| You can find All kind of Courses 
 |4|EggHead| https://egghead.io/| Full Stack 
 
-**[⬆️ Back to Top](#Table-of-Contents)**
+
 
 # Excel Courses
 
@@ -357,7 +339,7 @@ Understanding Cloud
 1. Repeat Function in Excel- https://lnkd.in/gbHUBnxR
 1. Goal seek function in Excel- https://lnkd.in/gcCR2jeB
 
-**[⬆️ Back to Top](#Table-of-Contents)**
+
 
 # Data Engineering Courses
 
@@ -391,6 +373,8 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 1. Twitter Data Pipeline using Airflow: https://lnkd.in/dkwdmPnS
 1. Extract Data From Amazon Website: https://lnkd.in/dccEasSH
 
+
+
 # API Courses
  1. API and REST API Fundamentals - https://lnkd.in/e8eMet_k
  2. API Methods - https://lnkd.in/ey9v7-hU
@@ -406,6 +390,8 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 12. Designing APIs with Postman- https://lnkd.in/ezue3d4B
 13. Testing APIs with Postman - https://lnkd.in/eCPnGTGi
 
+
+
 # Free Data Analytics Course
 |Sno.|Course|Tutorials|Projects |
 |--|--|--|--|
@@ -420,6 +406,8 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 |5.|Basic Statistics|https://lnkd.in/emKawHBs||
 |6.|Projects|https://lnkd.in/eVFWpmFg|https://lnkd.in/epd_9Bx8|
 
+
+
 # Free Virtual Internship Data Analytics
 |Sno.|Company|Link|
 |--|--|--|
@@ -430,6 +418,8 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 |5.|General Electric Data Analytics|https://lnkd.in/eAm6wEyT|
 |6.|PwC Power BI| https://lnkd.in/eKFs7n-n|
 |7.|Quantium Data Analytics|https://lnkd.in/eT3YuB-U|
+
+
 
 # Google Free Online Courses
 
@@ -454,30 +444,41 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 |17|Basics of Machine Learning|https://lnkd.in/dwxfQVn8
 |18|Data Science with Python|https://lnkd.in/d3xrXj6w|
 
+
+
 # Apache AirFlow Free Resources 
 
 Apache Airflow is a powerful open-source platform for orchestrating complex workflows. Here are some free resources to help you learn and master Airflow:🌐
 
-1. 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗔𝗶𝗿𝗳𝗹𝗼𝘄 𝗗𝗼𝗰𝘀: Start with the fundamentals – a comprehensive guide to Airflow's features & usage.
-🔗 https://lnkd.in/eeaUtnGE
+|Sno.|Title|Description|Link|
+|--|--|--|--|
+|1|𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗔𝗶𝗿𝗳𝗹𝗼𝘄 𝗗𝗼𝗰𝘀|Start with the fundamentals – a comprehensive guide to Airflow's features & usage.|https://lnkd.in/eeaUtnGE|
+|2|𝗔𝘀𝘁𝗿𝗼𝗻𝗼𝗺𝗲𝗿'𝘀 𝗔𝗶𝗿𝗳𝗹𝗼𝘄 𝗚𝘂𝗶𝗱𝗲|Learn from the experts – an extensive guide from an Airflow-focused company.|https://lnkd.in/eEHP4hSQ|
+|3|𝗔𝘄𝗲𝘀𝗼𝗺𝗲 𝗔𝗶𝗿𝗳𝗹𝗼𝘄 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼|Discover a curated treasure trove of blogs, videos, & code samples.|https://lnkd.in/eQErmtKA|
+|4|𝗠𝗲𝗱𝗶𝘂𝗺 𝗔𝗿𝘁𝗶𝗰𝗹𝗲𝘀|Gain insights from experienced developers & their tips on working with Airflow.|https://lnkd.in/e_yGuG9B|
+|5|𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|Browse through beginner-friendly intros & advanced concept tutorials.|https://lnkd.in/eZd4_gx6|
+|6|𝗔𝗶𝗿𝗳𝗹𝗼𝘄 𝗦𝗹𝗮𝗰𝗸 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆|Connect, ask questions, & share experiences with fellow developers.|https://lnkd.in/e6aBAgpN|
+|7|𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆|Dive into the source code, issues, & discussions to engage with the open-source community.|https://lnkd.in/eM-wrSUP|
 
-1. 𝗔𝘀𝘁𝗿𝗼𝗻𝗼𝗺𝗲𝗿'𝘀 𝗔𝗶𝗿𝗳𝗹𝗼𝘄 𝗚𝘂𝗶𝗱𝗲: Learn from the experts – an extensive guide from an Airflow-focused company.
-🔗 https://lnkd.in/eEHP4hSQ
 
-1. 𝗔𝘄𝗲𝘀𝗼𝗺𝗲 𝗔𝗶𝗿𝗳𝗹𝗼𝘄 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼: Discover a curated treasure trove of blogs, videos, & code samples.
-🔗 https://lnkd.in/eQErmtKA
 
-1. 𝗠𝗲𝗱𝗶𝘂𝗺 𝗔𝗿𝘁𝗶𝗰𝗹𝗲𝘀: Gain insights from experienced developers & their tips on working with Airflow.
-🔗 https://lnkd.in/e_yGuG9B
+# Data Scientist Courses
 
-1. 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀: Browse through beginner-friendly intros & advanced concept tutorials.
-🔗 https://lnkd.in/eZd4_gx6
-
-1. 𝗔𝗶𝗿𝗳𝗹𝗼𝘄 𝗦𝗹𝗮𝗰𝗸 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆: Connect, ask questions, & share experiences with fellow developers.
-🔗 https://lnkd.in/e6aBAgpN
-
-1. 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆: Dive into the source code, issues, & discussions to engage with the open-source community.
-🔗 https://lnkd.in/eM-wrSUP
+|Sno.|Title|Link|
+|--|--|--|
+|1|Data Science Foundation|https://lnkd.in/dqwYK7Rp|
+|2|Data Science with Python|https://lnkd.in/d3xrXj6w
+|3|Learn Python Basics for Data Analysis|https://lnkd.in/d9FUWPGc
+|4|Statistics for Data Science with Python|https://lnkd.in/dnYRYSGq
+|5|Data Management and Visualization|https://lnkd.in/dfyx8tNM
+|6|Data Visualization with R|https://lnkd.in/dXzgiQRX
+|7|Data Visualization and Communication with Tableau|https://lnkd.in/dmDvAJWR
+|8|Machine Learning Crash Course|https://lnkd.in/dRp6kTtJ
+|9|Data Manipulation at Scale: Systems and Algorithms|https://lnkd.in/d-AACiSX
+|10|Data and Deployment Specialization|https://lnkd.in/d6d2m9SS
+|11|AI Workflow: Enterprise Model Deployment|https://lnkd.in/dV8wHZVx
+|12|Deep Learning for Business|https://lnkd.in/dnMQgjcp
+|13|Building Deep Learning Models with TensorFlow|https://lnkd.in/dexah-qp
 
 # Other Miscellaneous
 
@@ -538,6 +539,7 @@ Apache Airflow is a powerful open-source platform for orchestrating complex work
 1. Speechify - Listen to any text, anytime: https://speechify.com
 1. LovoAI - Generate realistic voiceovers: https://lovo.ai
 1. MediaAI - Revolutionize your audio experience: https://www.ai-media.tv
+
 
 
 <a href="https://www.buymeacoffee.com/badriprem" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
