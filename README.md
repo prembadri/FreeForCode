@@ -499,7 +499,7 @@ Apache Airflow is a powerful open-source platform for orchestrating complex work
 |7|Complete Power BI DAX End to End 8 hours |Milestone Creator| https://lnkd.in/gXTC7n6F|
 
 # Power BI 
-|Sno|Course Title|Course|Project|
+|Sno|Course Title|Course|Web link|
 |--|--|--|--|
 |1|Guy in a Cube|https://lnkd.in/dhUp4ST2|https://lnkd.in/dXarv_Sf|
 |2|RADACAD|https://lnkd.in/dmuySyTU|https://radacad.com/blog|
