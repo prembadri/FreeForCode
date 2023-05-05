@@ -62,8 +62,6 @@ Use the links and enjoying codding. Happy lerning.
 46. GPT-3 GitHub Repository: https://lnkd.in/g56cQQPD
 47. Chat GPT Cheat Sheet : https://lnkd.in/e43cDB9q
 
-
-
 # Azure Free Courses
 
 Here is the list of FREE Udemy tutorials for mastering Azure cloud computing.
@@ -105,7 +103,6 @@ Here is the list of FREE Udemy tutorials for mastering Azure cloud computing.
 1. Azure Serverless Functions : https://lnkd.in/eg5h-XfR
 1. Modern Data Architecture using Microsoft Azure : https://lnkd.in/eiQ7UFh5
 1. Create a 3-Tier Application Using Azure Virtual Machines : https://lnkd.in/ezUvVNMM
-
 
 # Youtube Channels for DevOps
 
@@ -160,8 +157,6 @@ COMPLETE DEVOPS TUTORIAL:
 |19|Grafana|[https://lnkd.in/ddAV7_-p](https://lnkd.in/ddAV7_-p)|
 |||[https://lnkd.in/dRwfE7A4](https://lnkd.in/dRwfE7A4)|
 
-
-
 # Some Git Repository for Learning
 
 1. how-web-works: https://lnkd.in/dVAt8sCa
@@ -184,7 +179,6 @@ COMPLETE DEVOPS TUTORIAL:
 18. free-programming-books: https://lnkd.in/dSTEGJV5
 19. the-art-of-command-line : https://lnkd.in/dZFqj79h
 20. front-end-collection: https://lnkd.in/drsB99Ev
-
 
 # Youtube Channel for Codding
 
@@ -231,8 +225,6 @@ COMPLETE DEVOPS TUTORIAL:
 |39|PowerBI|[GuyInACube](https://www.youtube.com/@GuyInACube)
 |40|FreeEducation|[freecodecamp](https://www.youtube.com/@freecodecamp)
 
-
-
 # AWS UDEMY Free Courses
   
 1. AWS Certified Solutions Architect Associate Introduction :[https://lnkd.in/d4eR5gsW](https://lnkd.in/d4eR5gsW "https://lnkd.in/d4er5gsw")  
@@ -261,7 +253,6 @@ COMPLETE DEVOPS TUTORIAL:
 24. Build and Deploy a LAMP server on AWS   : [https://lnkd.in/dNP6msQy](https://lnkd.in/dNP6msQy "https://lnkd.in/dnp6msqy")  
 25. All About AWS Lambda and Serverless   : [https://lnkd.in/dip9ZWm5](https://lnkd.in/dip9ZWm5 "https://lnkd.in/dip9zwm5")  
 26. Serverless computing in AWS   : [https://lnkd.in/dGsj5JTm](https://lnkd.in/dGsj5JTm "https://lnkd.in/dgsj5jtm")
-
 
 # Free Cloud Computing with Certificate
 
@@ -293,7 +284,6 @@ Understanding Cloud
 24. Virtual Cloud Computing :[https://lnkd.in/dSg7NJNW](https://lnkd.in/dSg7NJNW)  
 25. Cloud Engineer Roles and Responsibilities :[https://lnkd.in/dKVtHDWJ](https://lnkd.in/dKVtHDWJ)
 
-
 # Code Practice
 
  1. [LeetCode](https://leetcode.com/)
@@ -314,8 +304,6 @@ Understanding Cloud
 |2|Class Central| https://lnkd.in/dpjCRVxn| You can find All kind of Courses 
 |3|MOOC| https://www.mooc.org/| You can find All kind of Courses 
 |4|EggHead| https://egghead.io/| Full Stack 
-
-
 
 # Excel Courses
 
@@ -338,8 +326,6 @@ Understanding Cloud
 1. Format Painter in Excel- https://lnkd.in/gbWUjsST
 1. Repeat Function in Excel- https://lnkd.in/gbHUBnxR
 1. Goal seek function in Excel- https://lnkd.in/gcCR2jeB
-
-
 
 # Data Engineering Courses
 
@@ -373,8 +359,6 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 1. Twitter Data Pipeline using Airflow: https://lnkd.in/dkwdmPnS
 1. Extract Data From Amazon Website: https://lnkd.in/dccEasSH
 
-
-
 # API Courses
  1. API and REST API Fundamentals - https://lnkd.in/e8eMet_k
  2. API Methods - https://lnkd.in/ey9v7-hU
@@ -390,8 +374,6 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 12. Designing APIs with Postman- https://lnkd.in/ezue3d4B
 13. Testing APIs with Postman - https://lnkd.in/eCPnGTGi
 
-
-
 # Free Data Analytics Course
 |Sno.|Course|Tutorials|Projects |
 |--|--|--|--|
@@ -406,8 +388,6 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 |5.|Basic Statistics|https://lnkd.in/emKawHBs||
 |6.|Projects|https://lnkd.in/eVFWpmFg|https://lnkd.in/epd_9Bx8|
 
-
-
 # Free Virtual Internship Data Analytics
 |Sno.|Company|Link|
 |--|--|--|
@@ -418,8 +398,6 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 |5.|General Electric Data Analytics|https://lnkd.in/eAm6wEyT|
 |6.|PwC Power BI| https://lnkd.in/eKFs7n-n|
 |7.|Quantium Data Analytics|https://lnkd.in/eT3YuB-U|
-
-
 
 # Google Free Online Courses
 
@@ -443,8 +421,6 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 |16|Machine Learning Crash Course|https://lnkd.in/dRp6kTtJ
 |17|Basics of Machine Learning|https://lnkd.in/dwxfQVn8
 |18|Data Science with Python|https://lnkd.in/d3xrXj6w|
-
-
 
 # Apache AirFlow Free Resources 
 
@@ -510,6 +486,43 @@ Apache Airflow is a powerful open-source platform for orchestrating complex work
 27. Secure Software Development: https://lnkd.in/ebGpA4wG
 28. Maryland Software Security: https://lnkd.in/e3z4zFmJ
 29. Stanford Cyber Resiliency: https://lnkd.in/eg9BM5Bv
+
+# Microsoft Power BI Courses
+|Sno|Title|Course By|Link|
+|--|--|--|--|
+|1|Power BI Tutorial From Beginner to Pro ⚡ Desktop to Dashboard in 60 Minutes ⏰ |Avi Singh|https://lnkd.in/gJtFnzie|
+|2|Power BI Full Course|Simplilearn|https://lnkd.in/gtCHBs4c|
+|3|Learn Power BI in 4 Hours | Edureka|https://lnkd.in/gCQ3xTyM|
+|4|Complete Power BI Tutorial 8+ hours | Learnit Training| https://lnkd.in/gDne7-_h|
+|5|Hands-On Power BI Tutorial 📊Beginner to Pro 2023 Edition [Full Course]⚡| Devin Knight|https://lnkd.in/gjQ8-nyr|
+|6|Complete Power BI DAX End to End 3 Hours |Analytics with Nags|https://lnkd.in/gXn7jqpB|
+|7|Complete Power BI DAX End to End 8 hours |Milestone Creator| https://lnkd.in/gXTC7n6F|
+
+# Power BI 
+|Sno|Course Title|Course|Project|
+|--|--|--|--|
+|1|Guy in a Cube|https://lnkd.in/dhUp4ST2|https://lnkd.in/dXarv_Sf|
+|2|RADACAD|https://lnkd.in/dmuySyTU|https://radacad.com/blog|
+|3️|PowerBI.tips|https://lnkd.in/dwhz8m6P|https://powerbi.tips/|
+|4|Excelerator BI|https://lnkd.in/dPPkz6hP|https://lnkd.in/dUcad39u|
+|5|SQLBI|https://lnkd.in/dS4tyfzf|https://www.sqlbi.com/|
+|6|Curbal|https://lnkd.in/duvWvFyD|https://curbal.com/|
+|7|Enterprise DNA|https://lnkd.in/dVwvJT-k|https://lnkd.in/d_w8Crff
+|8|Chandeep Chhabra|https://lnkd.in/dzwitsKf|https://lnkd.in/ddsCXs8B
+
+𝗙𝘂𝗹𝗹 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝗼𝗻 𝗬𝗼𝘂𝗧𝘂𝗯𝗲:
+1. Power BI Full Course 2023 in 8 Hours: https://lnkd.in/dYb9CvB3
+1. Hands-On Power BI Tutorial: Beginner to Pro: https://lnkd.in/gtB9YSM6
+1. Power BI Full Course - Learn Power BI in 4 Hours: https://lnkd.in/gi2CKw4t
+1. Power BI Full Course 2022: https://lnkd.in/gBEswDxR
+1. Power BI Tutorial For Beginners: https://lnkd.in/g887j9C5
+
+𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 𝗗𝗔𝗫:
+1. Complete Power BI DAX End to End: https://lnkd.in/dQX7rGbh
+
+𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻:
+1. Microsoft Power BI documentation: https://lnkd.in/dbAT7QQ9
+1. Learn from Power BI community: https://lnkd.in/d3-FGaUq
 
 # Other Miscellaneous
 
