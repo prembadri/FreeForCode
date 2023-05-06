@@ -359,6 +359,15 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 1. Twitter Data Pipeline using Airflow: https://lnkd.in/dkwdmPnS
 1. Extract Data From Amazon Website: https://lnkd.in/dccEasSH
 
+# Data Engineering With Data Bricks
+1. Databricks Basics: https://bit.ly/3fOD9Zi
+1. Databricks with pyspark: https://bit.ly/3Bq72GT
+1. Databricks with python: https://bit.ly/3FF2MWz
+1. Databricks with Scala: https://bit.ly/3iUOB6C
+1. Databricks with Sql: https://bit.ly/3iUGSW9
+1. Databricks with Spark: https://bit.ly/3Pf4OzS
+1. Databricks with R: https://bit.ly/3hmYAkN
+
 # API Courses
  1. API and REST API Fundamentals - https://lnkd.in/e8eMet_k
  2. API Methods - https://lnkd.in/ey9v7-hU
