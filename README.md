@@ -445,7 +445,38 @@ Apache Airflow is a powerful open-source platform for orchestrating complex work
 |6|𝗔𝗶𝗿𝗳𝗹𝗼𝘄 𝗦𝗹𝗮𝗰𝗸 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆|Connect, ask questions, & share experiences with fellow developers.|https://lnkd.in/e6aBAgpN|
 |7|𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆|Dive into the source code, issues, & discussions to engage with the open-source community.|https://lnkd.in/eM-wrSUP|
 
+# Python Zero To Hero
 
+1️⃣ 𝗠𝗼𝗻𝘁𝗵 𝟭: 𝗚𝗲𝘁 𝘆𝗼𝘂𝗿 𝗯𝗮𝘀𝗶𝗰𝘀 𝗿𝗶𝗴𝗵𝘁
+
+1. Learn Python: https://lnkd.in/eb4ke-9P
+2. Python Projects: https://lnkd.in/eNWBfNzk
+3. DSA with Python: http://bit.ly/3G3Dh0V
+   
+2️⃣ 𝗠𝗼𝗻𝘁𝗵 𝟮: 𝗗𝗶𝘃𝗲 𝗶𝗻𝘁𝗼 𝗙𝗹𝗮𝘀𝗸 𝗮𝗻𝗱 𝗔𝗣𝗜
+
+Learn Flask: https://lnkd.in/eqAg3jZP
+Flask Projects: https://lnkd.in/eqnf7h-W
+Learn REST API with Flask: https://lnkd.in/e-TTahQf
+
+3️⃣ 𝗠𝗼𝗻𝘁𝗵 𝟯: 𝗠𝗮𝘀𝘁𝗲𝗿 𝗮𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗰𝗼𝗻𝗰𝗲𝗽𝘁𝘀 𝗮𝗻𝗱 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
+
+1. Learn Multithreading, Multiprocessing, Asyncio: https://lnkd.in/e_99Jiwp
+2. Gunicorn & Nginx with Flask: https://lnkd.in/eWxgTNdB
+3. TDD with Python & Flask: https://lnkd.in/eMjweHuZ
+4. Basic RDBMS: https://lnkd.in/ebkPd8-q
+5. Learn SQL: https://sqlbolt.com/ & W3Schools.com
+6. PostgreSQL with Python: https://lnkd.in/esKUqNdt
+7. Flask App with PostgreSQL: https://lnkd.in/eTzpcwNc
+   
+4️⃣ 𝗠𝗼𝗻𝘁𝗵 𝟰: 𝗣𝗼𝗹𝗶𝘀𝗵 𝘆𝗼𝘂𝗿 𝘀𝗸𝗶𝗹𝗹𝘀 𝗮𝗻𝗱 𝗽𝗿𝗲𝗽𝗮𝗿𝗲 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗷𝗼𝗯 𝗺𝗮𝗿𝗸𝗲𝘁
+
+1. Basics of Bash: https://lnkd.in/eZnG8cP6
+2. Basics of Docker: https://lnkd.in/eFEK_aXW
+3. Deploy Flask App with Docker: https://lnkd.in/eTjnFW8Y
+4. GIT & GitHub: https://lnkd.in/ejshTxFw
+5. Python Portfolio on Github: https://lnkd.in/eB2AanXj
+6. Python Resume Ideas: https://lnkd.in/e_Fb7uNi
 
 # Data Scientist Courses
 
