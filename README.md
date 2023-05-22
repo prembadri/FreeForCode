@@ -359,6 +359,22 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 1. Twitter Data Pipeline using Airflow: https://lnkd.in/dkwdmPnS
 1. Extract Data From Amazon Website: https://lnkd.in/dccEasSH
 
+Interview Preparation
+
+1. 𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮 𝗙𝗮𝗰𝘁𝗼𝗿𝘆 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/dVzCmzcZ
+1. 𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮𝗯𝗿𝗶𝗰𝗸𝘀 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 𝗯𝗮𝘀𝗲𝗱 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/dUCf8qf8
+1. 𝗥𝗲𝗮𝗹𝘁𝗶𝗺𝗲 𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮 𝗙𝗮𝗰𝘁𝗼𝗿𝘆 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/ex_Vixh
+1. 𝗟𝗮𝘁𝗲𝘀𝘁 𝗔𝘇𝘂𝗿𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/g7PdATm
+1. 𝗔𝘇𝘂𝗿𝗲 𝗔𝗰𝘁𝗶𝘃𝗲 𝗗𝗶𝗿𝗲𝗰𝘁𝗼𝗿𝘆 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/dtWYXTKN
+1. 𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮 𝗟𝗮𝗸𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/dgr-uGQB
+1. 𝗔𝘇𝘂𝗿𝗲 𝗔𝗽𝗽 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/dP4Afqkb
+1. 𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/dj_m2yeQ
+1. 𝗔𝘇𝘂𝗿𝗲 𝗟𝗼𝗴𝗶𝗰 𝗔𝗽𝗽𝘀 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/dDtnJe4v
+1. 𝗔𝘇𝘂𝗿𝗲 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/dRWp3HZXf
+1. 𝗔𝘇𝘂𝗿𝗲 𝗦𝘆𝗻𝗮𝗽𝘀𝗲 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/dv-HTdeC
+1. 𝗔𝘇𝘂𝗿𝗲 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/dFvFXqKx
+1. 𝗔𝘇𝘂𝗿𝗲 𝗱𝗮𝘁𝗮 𝗳𝗮𝗰𝘁𝗼𝗿𝘆 𝘀𝗰𝗲𝗻𝗮𝗿𝗶𝗼 𝗯𝗮𝘀𝗲𝗱 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/ex_Vixh
+
 # Data Engineering With Data Bricks
 1. Databricks Basics: https://bit.ly/3fOD9Zi
 1. Databricks with pyspark: https://bit.ly/3Bq72GT
@@ -495,6 +511,79 @@ Learn REST API with Flask: https://lnkd.in/e-TTahQf
 |11|AI Workflow: Enterprise Model Deployment|https://lnkd.in/dV8wHZVx
 |12|Deep Learning for Business|https://lnkd.in/dnMQgjcp
 |13|Building Deep Learning Models with TensorFlow|https://lnkd.in/dexah-qp
+
+# Machine Learning
+
+
+1️⃣ 🧮 𝗠𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀 & 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀:
+1.  Linear Algebra, Calculus, and Probability & Statistics -
+  https://lnkd.in/eabKGp_p
+1. OpenIntro Statistics - https://lnkd.in/eQvjgbmB
+
+2️⃣ 🔯 𝗦𝗤𝗟 & 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀:
+1. https://lnkd.in/ea2DmZ2d
+  
+3️⃣🤖 𝗖𝗼𝗿𝗲 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀 𝗼𝗳 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴:
+1. Google's ML Crash Course - https://lnkd.in/eT7NiGp6
+1. Andrew Ng's Coursera ML Course - https://lnkd.in/e964AiC7
+1. Fast.ai's Practical Deep Learning - https://course.fast.ai/
+
+4️⃣ 💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗦𝗸𝗶𝗹𝗹𝘀 (𝗣𝘆𝘁𝗵𝗼𝗻 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀):
+1. Corey Schafer's Python Tutorials - https://lnkd.in/euyfHHxa
+1. Scikit-learn - https://lnkd.in/eqFhCwXt
+1. TensorFlow - https://lnkd.in/e6RWbe9h
+1. PyTorch - https://lnkd.in/efhPxZPM
+
+5️⃣ 🎛️ 𝗠𝗼𝗱𝗲𝗹 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 & 𝗧𝘂𝗻𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀:
+1. Kaggle's Intermediate ML - https://lnkd.in/e89AmkzE
+1. Hyperparameter Tuning - https://lnkd.in/ezEnqeG2
+
+6️⃣ 🧠 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗼𝗱𝗲𝗹𝘀:
+1. Stanford's CS231n (CNNs) - http://cs231n.github.io/
+1. Deep Learning Book - https://lnkd.in/e_utEgZM
+
+7️⃣ 🌐 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁, 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴, & 𝗠𝗮𝗶𝗻𝘁𝗲𝗻𝗮𝗻𝗰𝗲:
+1. Docker - https://lnkd.in/esXHzx9k
+1. Git - https://lnkd.in/esQ8FMxS
+1. AWS ML - https://lnkd.in/eZcdQPee
+1. Azure ML - https://lnkd.in/e5fvmvtk
+
+8️⃣ 📝 𝗥𝗲𝘀𝘂𝗺𝗲 𝗣𝗿𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻 ,𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀 & 𝗧𝗶𝗽𝘀 :
+1. Resume - https://lnkd.in/eP7isRZF
+1. Soft Skills & Tips -  https://lnkd.in/e_xE4wdr
+
+9️⃣ 🎯 𝟮𝟭𝟳 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
+1. https://lnkd.in/e5kyv3Tv
+
+# AI & ML courses in 2023
+
+𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗮𝗿𝘃𝗲𝗹𝘀:
+1. Intro to Machine Learning: https://lnkd.in/ecqatZBA
+1. Stanford: Machine Learning: https://lnkd.in/exNpHVgK
+1. Making Friends with Machine Learning: https://lnkd.in/ejM83n2B
+1. Applied Machine Learning: https://lnkd.in/eBPxJriR
+1. Statistical Machine Learning: https://lnkd.in/eszaHhnn
+1. Neural Networks: Zero to Hero: https://lnkd.in/eHyXfdMY
+
+𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗶𝘀𝗰𝗼𝘃𝗲𝗿𝗶𝗲𝘀:
+1. Introduction to Deep Learning (MIT): https://lnkd.in/eh7wTzbq
+1. CMU Introduction to Deep Learning: https://lnkd.in/eCF92CDW
+1. MIT: Deep Learning for Art, Aesthetics, and Creativity: https://lnkd.in/eURJKHUS
+1. Stanford Deep Learning: https://lnkd.in/e6fWv3R8
+
+𝗡𝗟𝗣 𝗡𝘂𝗴𝗴𝗲𝘁𝘀:
+1. Stanford - Transformers: https://lnkd.in/eMHXPehx
+1. NLP Course (Hugging Face): https://lnkd.in/ehhG4S_2
+1. Natural Language Understanding: https://lnkd.in/emVV8CfA
+1. CMU Advanced NLP 2022: https://lnkd.in/eXenh9pm
+
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗩𝗲𝗻𝘁𝘂𝗿𝗲𝘀:
+1. Deep Learning for Computer Vision: https://lnkd.in/eMk3kWSz
+
+𝗥𝗲𝗶𝗻𝗳𝗼𝗿𝗰𝗲𝗺𝗲𝗻𝘁 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝘃𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀:
+1. Foundations of Deep RL: https://lnkd.in/eAhySKAS
+1. Deep Reinforcement Learning: https://lnkd.in/e6gyvp4s
+1. Stanford: Reinforcement Learning: https://lnkd.in/eGR-5THW
 
 # Cybersecurity Courses
 1. Intro to Information Security by Udacity: https://lnkd.in/ggdYxnUp
