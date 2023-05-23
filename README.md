@@ -468,12 +468,12 @@ Apache Airflow is a powerful open-source platform for orchestrating complex work
 1. Learn Python: https://lnkd.in/eb4ke-9P
 2. Python Projects: https://lnkd.in/eNWBfNzk
 3. DSA with Python: http://bit.ly/3G3Dh0V
-   
+
 2️⃣ 𝗠𝗼𝗻𝘁𝗵 𝟮: 𝗗𝗶𝘃𝗲 𝗶𝗻𝘁𝗼 𝗙𝗹𝗮𝘀𝗸 𝗮𝗻𝗱 𝗔𝗣𝗜
 
-Learn Flask: https://lnkd.in/eqAg3jZP
-Flask Projects: https://lnkd.in/eqnf7h-W
-Learn REST API with Flask: https://lnkd.in/e-TTahQf
+1. Learn Flask: https://lnkd.in/eqAg3jZP
+1. Flask Projects: https://lnkd.in/eqnf7h-W
+1. Learn REST API with Flask: https://lnkd.in/e-TTahQf
 
 3️⃣ 𝗠𝗼𝗻𝘁𝗵 𝟯: 𝗠𝗮𝘀𝘁𝗲𝗿 𝗮𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗰𝗼𝗻𝗰𝗲𝗽𝘁𝘀 𝗮𝗻𝗱 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
 
@@ -493,6 +493,15 @@ Learn REST API with Flask: https://lnkd.in/e-TTahQf
 4. GIT & GitHub: https://lnkd.in/ejshTxFw
 5. Python Portfolio on Github: https://lnkd.in/eB2AanXj
 6. Python Resume Ideas: https://lnkd.in/e_Fb7uNi
+
+Roadmap for Python
+1. Basic Python: https://lnkd.in/eb4ke-9P
+1. Advanced Python: https://lnkd.in/eysAqzGf
+1. Python for Data Science, Analytics & Engineering: https://lnkd.in/e-YB25Tg
+1. Learn Flask & APIs: https://lnkd.in/eAcxdtEa
+1. Automation with Python: https://lnkd.in/e2kFD5DF
+1. Flask App using TDD approach: https://lnkd.in/eMjweHuZ
+1. Data Structures & Algorithms in Python: https://lnkd.in/es8ujeEA
 
 # Data Scientist Courses
 
