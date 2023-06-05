@@ -375,6 +375,20 @@ Interview Preparation
 1. 𝗔𝘇𝘂𝗿𝗲 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/dFvFXqKx
 1. 𝗔𝘇𝘂𝗿𝗲 𝗱𝗮𝘁𝗮 𝗳𝗮𝗰𝘁𝗼𝗿𝘆 𝘀𝗰𝗲𝗻𝗮𝗿𝗶𝗼 𝗯𝗮𝘀𝗲𝗱 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/ex_Vixh
 
+5 Data Engineering frameworks to learn in 2023 👇
+
+📍Apache Flink - Apache Flink is an open-source stream processing framework that enables real-time data processing with low latency and high throughput. It has gained popularity in recent years due to its support for event-driven applications and its ability to handle large volumes of data.
+
+📍Apache Druid - Apache Druid is an open-source data store designed for real-time analytics. It provides sub-second query response times and can handle both batch and streaming data sources.
+
+📍Apache Beam - Apache Beam is an open-source, unified
+programming model for batch and streaming data processing. It provides a way to write data processing pipelines that can run on multiple execution engines, including Apache Flink, Apache Spark, and Google Cloud Dataflow.
+
+📍Apache Nifi - Apache NiFi is an open-source data integration platform that supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic. It provides an easy-to-use interface for designing data pipelines and supports a wide range of data sources and destinations.
+
+📍Presto - Presto is an open-source distributed SQL query engine designed for big data processing. It supports querying data from various data sources, including Hadoop, Cassandra, and MongoDB, and provides fast query execution and low-latency response times.
+
+
 # Data Engineering With Data Bricks
 1. Databricks Basics: https://bit.ly/3fOD9Zi
 1. Databricks with pyspark: https://bit.ly/3Bq72GT
@@ -383,6 +397,71 @@ Interview Preparation
 1. Databricks with Sql: https://bit.ly/3iUGSW9
 1. Databricks with Spark: https://bit.ly/3Pf4OzS
 1. Databricks with R: https://bit.ly/3hmYAkN
+
+
+# SQL Courses for All  
+
+1. SQL for Data Science : https://lnkd.in/d-7d5ATD
+1. Databases and SQL for Data Science with Python : https://lnkd.in/d3qZ8W-b
+1. Scripting with Python and SQL for Data Engineering : https://lnkd.in/dC9miqwc
+1. Introduction to Structured Query Language (SQL) : https://lnkd.in/dNFvB3An
+1. Introduction to SQL for BigQuery and Cloud SQL : https://lnkd.in/dZmN9vgg
+1. Foundations for Big Data Analysis with SQL : https://lnkd.in/dVsP68QX
+1. Analyzing Big Data with SQL : https://lnkd.in/ddkVWpDj
+1. Managing Big Data with MySQL :   https://lnkd.in/dG2Dsx7X
+1. SQL for Data Science with R : https://lnkd.in/dwwXEuy8
+1. Microsoft Azure SQL : https://lnkd.in/dzBXY9DR
+1. Oracle SQL Basics : https://lnkd.in/dMSriaMu
+1. Troubleshooting Common SQL Errors with BigQuery : https://lnkd.in/daZwaWMk
+
+𝗦𝘁𝗲𝗽 𝟭: 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 𝗮𝗻𝗱 𝗦𝗤𝗟 🌐
+
+1. Basics with Guru99: https://lnkd.in/eKwym7-E
+1. Introduction to SQL with Khan Academy: https://lnkd.in/eTfnMCwG
+
+
+𝗦𝘁𝗲𝗽 𝟮: 𝗕𝗮𝘀𝗶𝗰𝘀 𝗼𝗳 𝗦𝗤𝗟 🏁
+
+1. SQL syntax, keywords, basic commands with Codecademy: https://lnkd.in/efMKFkfX
+1. Data types, functions, operators with W3Schools.com : https://lnkd.in/eYqMX692
+
+𝗦𝘁𝗲𝗽 𝟯: 𝗜𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 𝗦𝗤𝗟 🎣
+
+1. Deep dive into subqueries with MySQLTutorial: https://lnkd.in/ee7HwTjd
+1. SQL aggregations, group by clause with Mode Analytics: https://lnkd.in/esCuSAzy
+1. Joins, set operations with Khan Academy: https://lnkd.in/eTgmnp_y
+
+𝗦𝘁𝗲𝗽 𝟰: 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗦𝗤𝗟 🚀
+
+Unlock the power of CTEs with PostgreSQL Tutorial:
+1. https://lnkd.in/enT6wK5N
+
+Decode window functions with Mode Analytics:
+1. https://lnkd.in/e6cs9dqr
+
+Views, indexes, transactions with SQL Server Tutorial:
+1. https://lnkd.in/e5C_p3-i
+1. https://lnkd.in/eWgTe3Jb
+1. https://lnkd.in/ep7rJQWh
+
+Stored procedures, triggers with MySQL Tutorial:
+
+1. https://lnkd.in/emMG279B
+1. https://lnkd.in/e__muFim
+
+𝗦𝘁𝗲𝗽 𝟱: 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗗𝗲𝘀𝗶𝗴𝗻 𝗮𝗻𝗱 𝗧𝗵𝗲𝗼𝗿𝘆 🎨
+1. Normalization, denormalization, ER diagrams, data modeling with Coursera (Audit for free):
+https://lnkd.in/ernSvrqd
+
+𝗦𝘁𝗲𝗽 𝟲: 𝗦𝗤𝗟 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 📊
+1. Real-life data and SQL for data analysis with Mode Analytics: https://lnkd.in/eJWvGqfc
+
+𝗦𝘁𝗲𝗽 𝟳: 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲, 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲, 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲! 🎯
+Apply what you've learned by solving problems with
+
+1. 𝗪𝟯𝗦𝗰𝗵𝗼𝗼𝗹𝘀.𝗰𝗼𝗺 : https://lnkd.in/eEmwWiTQ
+1. 𝗦𝗤𝗟𝗭𝗼𝗼: https://sqlzoo.net/,
+1. 𝗟𝗲𝗲𝘁𝗖𝗼𝗱𝗲: https://lnkd.in/eSQRAuKY
 
 # API Courses
  1. API and REST API Fundamentals - https://lnkd.in/e8eMet_k
