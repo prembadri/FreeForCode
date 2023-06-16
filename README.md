@@ -347,6 +347,15 @@ Understanding Cloud
 1. Learn Apache NiFi: http://bit.ly/43btwYy
 1. Learn Debezium: http://bit.ly/3K6W5gL
 
+Data Engineering With Data Bricks
+1. Databricks Basics: https://bit.ly/3fOD9Zi
+1. Databricks with pyspark: https://bit.ly/3Bq72GT
+1. Databricks with python: https://bit.ly/3FF2MWz
+1. Databricks with Scala: https://bit.ly/3iUOB6C
+1. Databricks with Sql: https://bit.ly/3iUGSW9
+1. Databricks with Spark: https://bit.ly/3Pf4OzS
+1. Databricks with R: https://bit.ly/3hmYAkN
+
 Boost Your expertise & Portfolio with 5 Must-Try Projects:
 1. Reddit ETL Pipeline - https://lnkd.in/ekmgzGc8
 1. Surfline Dashboard - https://lnkd.in/e6AdaDzz
@@ -392,17 +401,6 @@ programming model for batch and streaming data processing. It provides a way to 
 📍Apache Nifi - Apache NiFi is an open-source data integration platform that supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic. It provides an easy-to-use interface for designing data pipelines and supports a wide range of data sources and destinations.
 
 📍Presto - Presto is an open-source distributed SQL query engine designed for big data processing. It supports querying data from various data sources, including Hadoop, Cassandra, and MongoDB, and provides fast query execution and low-latency response times.
-
-
-# Data Engineering With Data Bricks
-1. Databricks Basics: https://bit.ly/3fOD9Zi
-1. Databricks with pyspark: https://bit.ly/3Bq72GT
-1. Databricks with python: https://bit.ly/3FF2MWz
-1. Databricks with Scala: https://bit.ly/3iUOB6C
-1. Databricks with Sql: https://bit.ly/3iUGSW9
-1. Databricks with Spark: https://bit.ly/3Pf4OzS
-1. Databricks with R: https://bit.ly/3hmYAkN
-
 
 # SQL Courses for All  
 
