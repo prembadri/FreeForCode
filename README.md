@@ -358,6 +358,11 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 1. Stock Market Data Processing using Python: https://lnkd.in/dWSjqcFf
 1. Twitter Data Pipeline using Airflow: https://lnkd.in/dkwdmPnS
 1. Extract Data From Amazon Website: https://lnkd.in/dccEasSH
+1. Building Data Models - https://lnkd.in/dVbVaXTn
+2. Basic ETL Pipeline on AWS - https://lnkd.in/dSAh8JRp
+3. Covid Data Analysis Project - https://lnkd.in/d_Akt7SR
+4. YouTube Data Analysis Project - https://lnkd.in/dS8FwupT
+5. Twitter Data Pipeline using Airflow - https://lnkd.in/dkwdmPnS
 
 Interview Preparation
 
@@ -465,18 +470,20 @@ Apply what you've learned by solving problems with
 
 # API Courses
  1. API and REST API Fundamentals - https://lnkd.in/e8eMet_k
- 2. API Methods - https://lnkd.in/ey9v7-hU
- 3. API Terminologies - https://lnkd.in/eRsPMzpd
- 4. API Authentication - https://lnkd.in/eNPfpAdE
- 5. API Status Codes - https://lnkd.in/egXizUrS
- 6. REST API vs GraphQL - https://lnkd.in/eZHREdgC
- 7. API Integration - https://lnkd.in/eDASPP5m
- 8. API Testing - https://lnkd.in/emgmWJqH
- 9. API with Python - https://lnkd.in/eM23ah2y
-10. API Scaling - https://lnkd.in/e3mZSvmn
-11. Designing and Developing Robust APIs - https://lnkd.in/eBXzbFyg
-12. Designing APIs with Postman- https://lnkd.in/ezue3d4B
-13. Testing APIs with Postman - https://lnkd.in/eCPnGTGi
+ 1. API Simplified - https://lnkd.in/er9JiGxw  
+ 1. API Methods - https://lnkd.in/ey9v7-hU
+ 1. API Terminologies - https://lnkd.in/eRsPMzpd
+ 1. API Authentication - https://lnkd.in/eNPfpAdE
+ 1. API Status Codes - https://lnkd.in/egXizUrS
+ 1. REST API vs GraphQL - https://lnkd.in/eZHREdgC
+ 1. API Integration - https://lnkd.in/eDASPP5m
+ 1. API Integration in Detail - https://lnkd.in/eZwFVrH7
+ 1. API Testing - https://lnkd.in/emgmWJqH
+ 1. API with Python - https://lnkd.in/eM23ah2y
+ 1. API Scaling - https://lnkd.in/e3mZSvmn
+ 1. Designing and Developing Robust APIs - https://lnkd.in/eBXzbFyg
+ 1. Designing APIs with Postman- https://lnkd.in/ezue3d4B
+ 1. Testing APIs with Postman - https://lnkd.in/eCPnGTGi
 
 # Free Data Analytics Course
 |Sno.|Course|Tutorials|Projects |
@@ -521,10 +528,17 @@ Apply what you've learned by solving problems with
 |12|Google Cloud Computing Foundations:|https://lnkd.in/d5krrR8q
 |13|Google Cloud Computing Foundations:|https://lnkd.in/ddF9qDtg
 |14|Data, ML, and AI in Google Cloud|https://lnkd.in/dWhMx5Xc
-|15|Google Cloud Computing Foundations: Networking and Security in Google Cloud|https://lnkd.in/dYN_J3xA
+|15|Google Cloud Computing Foundations|https://lnkd.in/dYN_J3xA
 |16|Machine Learning Crash Course|https://lnkd.in/dRp6kTtJ
 |17|Basics of Machine Learning|https://lnkd.in/dwxfQVn8
 |18|Data Science with Python|https://lnkd.in/d3xrXj6w|
+|19|Google Data Analytics|https://lnkd.in/eEWQpfhx
+|20|IBM Data Analyst|https://lnkd.in/ezcxKmax
+|21|Learn SQL Basics for Data Science|https://lnkd.in/ezFkqs2R
+|22|Excel for Business|https://lnkd.in/e52veyqA
+|23|Python for Everybody|https://lnkd.in/eZ8GCDxZ
+|24|Data Analysis Visualization Foundations|https://lnkd.in/eVD8_uTc
+|25|Machine Learning Specialization|https://lnkd.in/e4RrE_Xb
 
 # Apache AirFlow Free Resources 
 
@@ -726,6 +740,12 @@ Roadmap for Python
 |6|Curbal|https://lnkd.in/duvWvFyD|https://curbal.com/|
 |7|Enterprise DNA|https://lnkd.in/dVwvJT-k|https://lnkd.in/d_w8Crff
 |8|Chandeep Chhabra|https://lnkd.in/dzwitsKf|https://lnkd.in/ddsCXs8B
+|9|Excel Resource|https://lnkd.in/dzzZr8dF
+|10|Python For Power BI|https://lnkd.in/d9FUWPGc
+|11|R For Power BI|https://lnkd.in/dXWGxzRm
+|12|MySQL Resources|https://lnkd.in/dbbqJjKc
+|13|Mongo DB|https://lnkd.in/dw9kx8W4
+|14|Statistics & Probability|https://lnkd.in/dnYRYSGq
 
 𝗙𝘂𝗹𝗹 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝗼𝗻 𝗬𝗼𝘂𝗧𝘂𝗯𝗲:
 1. Power BI Full Course 2023 in 8 Hours: https://lnkd.in/dYb9CvB3
@@ -762,6 +782,47 @@ Roadmap for Python
 |15||Setting up CI-CD Pipeline for an E-Commerce App|https://lnkd.in/dPH4z4Af  https://lnkd.in/d-xzCR8F
 |16||Jenkins CI/CD Workflow Implementation with Real-time|https://lnkd.in/daGQ28BC
 |17||Production Ready CI/CD Pipeline Setup|https://lnkd.in/d_BeVj65
+
+
+# Manual and Automation Testing
+|Sno|Title|Link|
+|--|--|--|
+|1|Your Guide to Start Software Testing Career|https://lnkd.in/dFueNN3V
+|2|Introduction to Software Testing or Software QA|https://lnkd.in/d2kAEfWE
+|3|Getting Started With Test Automation Using Selenium|https://lnkd.in/dkt7yMty
+|4|Manual Testing Crash Course for Software Testers|https://lnkd.in/dQ53au4S
+|5|Foundations of Agile Software Testing|https://lnkd.in/ddywUrbD
+|6|Git & GitHub for Automation Testing|https://lnkd.in/dW2Hfx42
+|7|Everything About Software Testing|https://lnkd.in/dEfn5ivg
+|8|Software Testing Simple (Software Quality Assurance QA)|https://lnkd.in/d2q9KvWF
+|9|Software Testing Tutorial - JMeter |https://lnkd.in/ddNNKWB9
+|10|UNIX for Testers-Automate UNIX in Test Automation (Selenium)|https://lnkd.in/dF3jQfeB
+|11|IT Support / Manual & Automation Testing, / Agile in 2 Hours!|https://lnkd.in/dNzyHXMh
+|12|Essentials of Software Testing and Quality Assurance|https://lnkd.in/dfQtVZBE
+|13|Cucumber, Selenium & Java - in under 2 Hours! - [New 2022]|https://lnkd.in/dum6UsGT
+|14|JMeter - Step by Step for Beginners|https://lnkd.in/dzKC2Nng
+|15|CYPRESS|https://lnkd.in/dCDVcKQB
+|16|CI Pipeline Integration Tests|https://lnkd.in/d7xwtSDz
+|17|Basics of BDD for Beginners |https://lnkd.in/dYwX4m7C
+|18|Learn the Basics of Automation: Selenium|https://lnkd.in/dYfCK4pZ
+|19|Introduction to Unit Testing|https://lnkd.in/d4EXtetM
+
+
+# CI/CD Courses 
+1. Learn CI/CD Pipeline With Jenkins, Python, Docker, DockerHub: https://lnkd.in/dWAh7guN
+1. Jenkins for Beginners: https://lnkd.in/dWCKdNBq
+1. Integrate Jenkins GitHub and AWS In Practice: https://lnkd.in/dsHuunqs
+1. JENKINS Beginner Tutorial - Step by Step: https://lnkd.in/dipuDNc4
+1. FREE Advanced Jenkins in K8s (Docker in Docker): https://lnkd.in/dT3kA2-M
+1. DevOps : CI/CD with Jenkins: https://lnkd.in/d3qvi-Az
+1. Continuous integration with Jenkins.: https://lnkd.in/djS9f5JY
+1. DevOps Crash Course: CI/CD with Jenkins Pipelines Groovy DSL: https://lnkd.in/d-jDqPGD
+1. Jenkins Introduction for Developers: https://lnkd.in/dpe8R9Wj
+1. FREE CI/CD Pipeline Course: https://lnkd.in/ddfPtsuH
+1. CI CD pipeline - Devops Automation in 1 hr: https://lnkd.in/dMQEGJBN
+1. CI Pipeline Integration Tests: https://lnkd.in/d7xwtSDz
+1. CI/CD Pipeline with React and Github Action: https://lnkd.in/d5X3Retp
+1. Learn VCS: Git, Github and AWS Commit - Devops CICD: https://lnkd.in/d_qTruFa
 
 # Other Miscellaneous
 
