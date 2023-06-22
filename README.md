@@ -466,6 +466,34 @@ Apply what you've learned by solving problems with
 1. 𝗦𝗤𝗟𝗭𝗼𝗼: https://sqlzoo.net/,
 1. 𝗟𝗲𝗲𝘁𝗖𝗼𝗱𝗲: https://lnkd.in/eSQRAuKY
 
+Boost Your Database Skills 
+
+1. Introduction to Structured Query Language (SQL) -
+🔗https://lnkd.in/d-hrhZJx
+2. Introduction to SQL for BigQuery and Cloud SQL
+🔗https://lnkd.in/diavsS_r
+3. Foundations for Big Data Analysis with SQL
+🔗https://lnkd.in/drd3UwZ2
+4. Analyzing Big Data with SQL
+🔗https://lnkd.in/dfGwHKf9
+5. Managing Big Data with MySQL
+🔗https://lnkd.in/dAZfi_S8
+6. SQL for Data Science
+🔗https://lnkd.in/dczhErhD
+7. Databases and SQL for Data Science with Python
+🔗https://lnkd.in/dmArMcgR
+8. Scripting with Python and SQL for Data Engineering
+🔗https://lnkd.in/du3_Y7pd
+9. SQL for Data Science with R
+🔗https://lnkd.in/dAXkKS7s
+10. Microsoft Azure SQL
+🔗https://lnkd.in/dGVx3xV4
+11. Oracle SQL Basics
+🔗https://lnkd.in/deHZdjvB
+12. Troubleshooting Common SQL Errors with BigQuery
+🔗https://lnkd.in/dEb3NwJr
+
+
 # API Courses
  1. API and REST API Fundamentals - https://lnkd.in/e8eMet_k
  1. API Simplified - https://lnkd.in/er9JiGxw  
@@ -758,6 +786,14 @@ Roadmap for Python
 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻:
 1. Microsoft Power BI documentation: https://lnkd.in/dbAT7QQ9
 1. Learn from Power BI community: https://lnkd.in/d3-FGaUq
+
+Others 
+1. Excel: https://lnkd.in/dxuqGrzQ
+2. Tableau: https://lnkd.in/dzZnRFT2
+3. PowerBi: https://lnkd.in/d4RnYuJG
+4. SQL: https://www.w3schools.com
+5. Python: https://lnkd.in/dcJi-aMB
+
 
 # Jenkins 
 
