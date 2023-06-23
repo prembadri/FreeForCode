@@ -346,6 +346,14 @@ Understanding Cloud
 1. Learn Snowflake: https://lnkd.in/erETmtFU
 1. Learn Apache NiFi: http://bit.ly/43btwYy
 1. Learn Debezium: http://bit.ly/3K6W5gL
+1. Azure Data Factory tutorial
+https://lnkd.in/gTs8y4Ai
+1. ADF DataFlow Tutorial
+https://lnkd.in/g4QHzj75
+1. How to configure selfhosted integration runtime?
+https://lnkd.in/gPhnmzNm
+1. How to migrate data from onpremises to cloud?
+https://lnkd.in/gnqU7N26
 
 Data Engineering With Data Bricks
 1. Databricks Basics: https://bit.ly/3fOD9Zi
@@ -372,6 +380,9 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 3. Covid Data Analysis Project - https://lnkd.in/d_Akt7SR
 4. YouTube Data Analysis Project - https://lnkd.in/dS8FwupT
 5. Twitter Data Pipeline using Airflow - https://lnkd.in/dkwdmPnS
+4. Uber Data Analytics Project On GCP
+Video Link - https://lnkd.in/dWnCppX5
+5. Building Data Model and Writing ETL Job - https://lnkd.in/dQSm-d_k
 
 Interview Preparation
 
@@ -621,6 +632,25 @@ Roadmap for Python
 1. Automation with Python: https://lnkd.in/e2kFD5DF
 1. Flask App using TDD approach: https://lnkd.in/eMjweHuZ
 1. Data Structures & Algorithms in Python: https://lnkd.in/es8ujeEA
+1. Learn Python: https://lnkd.in/eb4ke-9P
+1. Python Projects: https://lnkd.in/eNWBfNzk
+1. DSA with Python: http://bit.ly/3G3Dh0V
+1. Learn Flask: https://lnkd.in/eqAg3jZP
+1. Flask Projects: https://lnkd.in/eqnf7h-W
+1. Learn REST API with Flask: https://lnkd.in/e-TTahQf
+1. Learn Multithreading & Asyncio: https://lnkd.in/e_99Jiwp
+1. Gunicorn & Nginx with Flask: https://lnkd.in/eWxgTNdB
+1. TDD with Python & Flask: https://lnkd.in/eMjweHuZ
+1. Basic RDBMS: https://lnkd.in/ebkPd8-q
+1. Learn SQL: https://sqlbolt.com/ & W3Schools.com
+1. PostgreSQL with Python: https://lnkd.in/esKUqNdt
+1. Flask App with PostgreSQL: https://lnkd.in/eTzpcwNc
+1. Basics of Bash: https://lnkd.in/eZnG8cP6
+1. Basics of Docker: https://lnkd.in/eFEK_aXW
+1. Deploy Flask App with Docker: https://lnkd.in/eTjnFW8Y
+1. GIT & GitHub: https://lnkd.in/ejshTxFw
+1. Python Portfolio on Github: https://lnkd.in/eB2AanXj
+1. Python Resume Ideas: https://lnkd.in/e_Fb7uNi
 
 # Data Scientist Courses
 
