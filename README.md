@@ -504,6 +504,153 @@ Boost Your Database Skills
 12. Troubleshooting Common SQL Errors with BigQuery
 🔗https://lnkd.in/dEb3NwJr
 
+# 𝗙𝗿𝗲𝗲 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 for beginners with source code in Python
+
+1. Smartwatch Data Analysis using Python : https://t.co/siKYlProgh
+1. Instagram Reach Analysis using Python : https://t.co/cArS6vkTZl
+1. Covid-19 Impacts Analysis using Python : https://t.co/ioo0MpR3oQ
+1. Ukraine Russia War Twitter Sentiment Analysis using Python : https://t.co/CvXA23W28N
+1. Waiter Tips Prediction with Machine Learning : https://t.co/kb7rLf0QYT
+1. TikTok Reviews Sentiment Analysis using Python : https://t.co/xkUn3q75EU
+1. Flipkart Reviews Sentiment Analysis using Python : https://t.co/GO9cLP1fVR
+1. Uber Trips Analysis using Python : https://t.co/XHeQRtTjTb
+1. 𝗣𝘆𝘁𝗵𝗼𝗻 𝗙𝗿𝗲𝗲 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹: https://lnkd.in/dzST3Qym
+
+# Python Project 
+**Credit:** https://github.com/garimasingh128/awesome-python-projects
+
+
+Read these articles to get a quick grab on Python:
+- https://www.python.org/about/gettingstarted/
+- https://www.learnpython.org
+- https://www.programiz.com/python-programming
+
+Resources to learn Git:
+-  https://try.github.io/
+
+References for Sentiment analyser ML project :
+-  https://www.youtube.com/watch?v=dyN_WtjdfpA
+-  https://www.geeksforgeeks.org/nlp-how-tokenizing-text-sentence-words-works/
+-  https://www.geeksforgeeks.org/pyplot-in-matplotlib/
+
+References for pin your note :
+- https://www.youtube.com/watch?v=ilI3H2O5KYg
+- https://www.tutorialspoint.com/python/time_sleep.htm
+- https://www.geeksforgeeks.org/python-gui-tkinter/
+
+References for Notification app :
+-  https://www.youtube.com/watch?v=vPsM7qdnhzc
+-  https://www.geeksforgeeks.org/desktop-notifier-python/
+-  https://www.geeksforgeeks.org/python-desktop-notifier-using-plyer-module/
+
+References for Contact Book Application :
+- https://www.youtube.com/watch?v=0rzNAGe-gUs
+- https://www.geeksforgeeks.org/python-tkinter-tutorial/
+- https://www.geeksforgeeks.org/sql-using-python-sqlite-set-2/
+
+References for Typing Speed Test :
+- https://www.youtube.com/watch?v=0e6gmdYqXrc
+- https://www.geeksforgeeks.org/python-string-split/
+- https://www.geeksforgeeks.org/taking-input-in-python/
+
+References for Secure your password:
+- https://www.geeksforgeeks.org/taking-input-in-python/
+- https://developers.google.com/edu/python/dict-files
+- https://www.edureka.co/blog/print-in-python/
+
+References for Tic Tac Toe:
+- https://medium.com/byte-tales/the-classic-tic-tac-toe-game-in-python-3-1427c68b8874
+- https://inventwithpython.com/chapter10.html
+- https://www.geeksforgeeks.org/python-implementation-automatic-tic-tac-toe-game-using-random-number/
+
+References for Password manager:
+- https://www.geeksforgeeks.org/python-gui-tkinter/
+- https://www.geeksforgeeks.org/generating-strong-password-using-python/
+- https://www.geeksforgeeks.org/file-handling-python/
+
+References for Weather application:
+- https://www.youtube.com/watch?v=vJCjDevYDt8
+- http://tomasz-kluczkowski.com/project/the-weather-app/
+- https://www.geeksforgeeks.org/python-real-time-weather-detection-using-tkinter/
+- https://github.com/Tomasz-Kluczkowski/Weather-App
+
+References for Air quality detector:
+- https://www.youtube.com/watch?v=vJCjDevYDt8
+
+References for Iris Flower Detector:
+- https://en.wikipedia.org/wiki/Iris_flower_data_set
+- https://en.wikipedia.org/wiki/Support_vector_machine
+- https://www.youtube.com/watch?v=Y17Y_8RK6pc
+
+References for Flight Fare Prediction:
+- https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
+- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.
+ LinearRegression.html
+-  https://medium.com/code-to-express/flight-price-prediction-7c83616a13bb
+
+References for Rock Paper Scissor:
+- https://www.geeksforgeeks.org/python-program-implement-rock-paper-scissor-game
+- https://www.afiniti.com/corporate/rock-paper-scissors
+- https://www.tes.com/teaching-resource/building-a-rock-paper-scissors-game-using-scratch-11268599
+- https://www.youtube.com/watch?v=KnVwmBh1bo0
+
+References for Rolling Dice:
+- https://www.geeksforgeeks.org/python-if-else/#if-elif
+- https://www.geeksforgeeks.org/python-while-loops/?ref=lbp
+- https://www.tutorialsteacher.com/python/random-module
+
+References for Quiz Application:
+- https://www.youtube.com/watch?v=VR-yNEpGk3g
+- https://www.geeksforgeeks.org/python-multiple-choice-questions/
+- https://www.youtube.com/watch?v=cwJBEZjQJtc
+
+References for License Plate Detection :
+- http://youtube.com/watch?v=GXyLSx8l9gM
+- https://docs.opencv.org/master/d9/df8/tutorial_root.html
+
+References for Alarm Clock :
+- https://www.tutorialspoint.com/python/python_gui_programming.htm
+- https://docs.python.org/3/library/datetime.html
+
+References for Simple Calculator
+- https://www.geeksforgeeks.org/make-simple-calculator-using-python/https://www.geeksforgeeks.org/make-simple-calculator-using-python/` https://www.youtube.com/watch?v=miC7ni64hbw
+- https://www.youtube.com/watch?v=B1U0gUhUeQs
+
+References for File Renaming Tool
+- https://www.geeksforgeeks.org/rename-multiple-files-using-python/
+- https://docs.python.org/3/
+
+References for IRIS FLOWER CLASSIFICATION USING ML:
+- https://medium.com/gft-engineering/start-to-learn-machine-learning-with-the-iris-flower-classification-challenge-4859a920e5e3
+- https://www.neuraldesigner.com/learning/examples/iris-flowers-classification
+- https://www.skyfilabs.com/project-ideas/iris-flower-classification-using-machine-learning
+- https://analyticsindiamag.com/start-building-first-machine-learning-project-famous-dataset/
+- https://www.youtube.com/watch?v=FLuqwQgSBDw&ab_channel=AppliedAICourse
+- https://www.youtube.com/watch?v=CLvboTdwpjc&ab_channel=RealKnow
+- https://youtu.be/Y17Y_8RK6pc?list=PL5tcWHG-UPH1OeZ2vU5xQd7RVpkWvwJny
+- https://youtu.be/ACdBKML9l4s
+
+Reference for Using Google API
+- https://github.com/googleapis/google-api-python-client
+- https://www.youtube.com/watch?v=IVjZMIWhz3Y
+
+References for Admission Prediction using ML
+- https://www.udemy.com/share/103wKGAEETdltURH8B/
+
+References for IPL score predictor
+- https://youtu.be/4CtyDxfhoN8
+
+Refrences for Twitter Sentiment Analysis using ML
+- https://towardsdatascience.com/social-media-sentiment-analysis-49b395771197
+- https://towardsdatascience.com/social-media-sentiment-analysis-part-ii-bcacca5aaa39
+
+
+Reference for Credit Card Fraud Detection 
+- https://www.geeksforgeeks.org/ml-credit-card-fraud-detection/
+
+References for alarm clock
+- https://youtube.com/playlist?list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA
+- https://itsourcecode.com/free-projects/python-projects/alarm-clock-using-python-with-source-code/
 
 # API Courses
  1. API and REST API Fundamentals - https://lnkd.in/e8eMet_k
@@ -521,6 +668,8 @@ Boost Your Database Skills
  1. Designing and Developing Robust APIs - https://lnkd.in/eBXzbFyg
  1. Designing APIs with Postman- https://lnkd.in/ezue3d4B
  1. Testing APIs with Postman - https://lnkd.in/eCPnGTGi
+ 1. API Security - https://lnkd.in/e79ZYfPa
+ 1. APIs for Everyone - https://lnkd.in/e4WGDffA
 
 # Free Data Analytics Course
 |Sno.|Course|Tutorials|Projects |
