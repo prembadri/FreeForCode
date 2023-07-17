@@ -355,6 +355,24 @@ https://lnkd.in/gPhnmzNm
 1. How to migrate data from onpremises to cloud?
 https://lnkd.in/gnqU7N26
 
+# Data Engineering Courses Free
+
+1. Master Python: https://lnkd.in/dPK2PE74
+2. Learn SQL: https://lnkd.in/dmArMcgR
+3. Get hands-on with MySQL: https://lnkd.in/df5pJXiy
+4. Dive into MongoDB: https://lnkd.in/dZkkx7G6
+5. Master PySpark: https://lnkd.in/dscwhZh4
+6. Discover Bash, Airflow & Kafka: https://lnkd.in/d_ySkJag
+7. Master Git & GitHub: https://lnkd.in/d_Dtu-Yw
+8. Understand CICD basics: https://lnkd.in/dvq-DP2r
+9. Decode Data Warehousing: https://lnkd.in/d-8T53dE
+10. Learn DBT: https://lnkd.in/eG9eaEuE
+11. Understand Data Lakes: https://lnkd.in/dFiXrJR3
+12. Explore DataBricks: https://lnkd.in/dZTu8_gb
+13. Learn Azure Databricks: https://lnkd.in/dt-_KBGY
+14. Master Snowflake: https://lnkd.in/daD7XsG8
+15. Explore Apache NiFi: https://lnkd.in/d4qn3RBK
+
 Data Engineering With Data Bricks
 1. Databricks Basics: https://bit.ly/3fOD9Zi
 1. Databricks with pyspark: https://bit.ly/3Bq72GT
