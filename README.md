@@ -1055,6 +1055,69 @@ Others
 1. CI/CD Pipeline with React and Github Action: https://lnkd.in/d5X3Retp
 1. Learn VCS: Git, Github and AWS Commit - Devops CICD: https://lnkd.in/d_qTruFa
 
+# Youtube CHANNEL DEVOPS TUTORIAL
+|Sno|Title|Link|
+|--|--|--|
+|1|DevOps Pre-requisite|https://lnkd.in/dD9Z_5qA|
+|2|Networking|https://lnkd.in/dEmZ8zhY|
+|||https://lnkd.in/dwfmwmA9|
+|3|Linux|https://lnkd.in/darzXURj|
+|||https://lnkd.in/dJStSRtn|
+|||https://lnkd.in/dRv9WYbr|
+|||https://lnkd.in/dAQ7DCmX|
+|4|Shell scripting|https://lnkd.in/dKrD_up7|
+|||https://lnkd.in/dJVqMt3Y|
+|||https://lnkd.in/d7VVbbNJ|
+|5|Git & GitHub|https://lnkd.in/dEp3KrTJ|
+|||https://lnkd.in/d6aM7Ek7|
+|||https://lnkd.in/duksFRgG|
+|||https://lnkd.in/ddpKXxqt|
+|6|Databases|https://lnkd.in/duMVr4bn|
+|||https://lnkd.in/dnUQ_uGe|
+|7|Artifact Repository Manager|https://lnkd.in/dgNHs7WD|
+|8|Docker|https://lnkd.in/dPddbJTf|
+|||https://lnkd.in/dnjHdxPR|
+|9|Jenkins|https://lnkd.in/dMHv9T8U|
+|||https://lnkd.in/dcynPYYH|
+|10|AWS|https://lnkd.in/dz7d5qEc|
+|||https://lnkd.in/dmi-TMv9|
+|||https://lnkd.in/dx-iqVNe|
+|11|SSH - Mobaxterm|https://lnkd.in/ds7nUhbx|
+||Putty|https://lnkd.in/gGgW7Ns9|
+|12|Yaml|https://lnkd.in/dNqrXjmV|
+|||https://lnkd.in/dNqrXjmV|
+|13|Kubernetes|https://lnkd.in/duGZwHYX|
+|||https://lnkd.in/de84ESNv|
+|14|Helm|https://lnkd.in/ds_8WB7G
+|15|Terraform|https://lnkd.in/dvpzNT5M
+|||https://lnkd.in/dRs3YFu3|
+|||https://lnkd.in/d8nkTj3n|
+|16|Python|https://lnkd.in/d-EhshQz|
+|||https://lnkd.in/dYjay9ia|
+|||https://lnkd.in/dFtNz_9D|
+|||https://lnkd.in/dcYq8nE2|
+|17|Ansible|https://lnkd.in/dGKkrXrA|
+|||https://lnkd.in/dNugwtVW|
+|||https://lnkd.in/dhknHJXp|
+|18|Prometheus|https://lnkd.in/dpXhmVqs|
+|||https://lnkd.in/dStQbpRX|
+|19|Grafana|https://lnkd.in/ddAV7_-p|
+|||https://lnkd.in/dRwfE7A4|
+
+# Best Link For Learning
+|SNO|Title|Link|Link|
+|--|--|--|--|
+|1|𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲|ai.google|udacity.com|
+|2|𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴|codeacademy.com|w3schools.com
+|3|𝗕𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻|101blockchains.com|coursera.org
+|4|𝗖𝘆𝗯𝗲𝗿 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆|cybrary.it|securitytube.net
+|5|𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴|machinelearningmastery.com|tensorflow.org
+|6|𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲|kaggle.com|datacamp.com
+|7|𝗗𝗲𝘃𝗼𝗽𝘀|kodekloud.com|edx.org
+|8|𝗖𝗹𝗼𝘂𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴|aws.amazon.com|javapoint.com
+|9|𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀|careerfoundry.com|khanacademy.org
+|10|𝗪𝗲𝗯 𝟯.𝟬|buildspace.so|web3foundation
+
 # Other Miscellaneous
 
 📄 🚀💻 The below links can be change to paid asap.
