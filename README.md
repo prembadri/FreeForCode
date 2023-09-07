@@ -418,6 +418,18 @@ Interview Preparation
 1. 𝗔𝘇𝘂𝗿𝗲 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/dFvFXqKx
 1. 𝗔𝘇𝘂𝗿𝗲 𝗱𝗮𝘁𝗮 𝗳𝗮𝗰𝘁𝗼𝗿𝘆 𝘀𝗰𝗲𝗻𝗮𝗿𝗶𝗼 𝗯𝗮𝘀𝗲𝗱 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/ex_Vixh
 
+# My best top 5 youtube channel to learn dataengineering for FREE...
+
+1. E-Learning bridge(https://www.linkedin.com/in/shashank219/)
+2. andreas kretz(https://www.linkedin.com/in/andreas-kretz/)
+3. darshil parmar(https://www.linkedin.com/in/darshil-parmar/)
+4. seattle the data guy(https://www.linkedin.com/in/benjaminrogojan/)
+5. Karolina Sowinska(https://www.youtube.com/channel/UCAxnMry1lETl47xQWABvH7g)
+6. trendytech for DE&SQL by(https://www.linkedin.com/in/bigdatabysumit/)
+7. ankit bansal(https://www.linkedin.com/in/ankitbansal6/)
+8. zach wilson(https://www.linkedin.com/in/eczachly/)
+9. ken jee(https://www.linkedin.com/in/kenjee/)
+
 5 Data Engineering frameworks to learn in 2023 👇
 
 📍Apache Flink - Apache Flink is an open-source stream processing framework that enables real-time data processing with low latency and high throughput. It has gained popularity in recent years due to its support for event-driven applications and its ability to handle large volumes of data.
