@@ -402,6 +402,35 @@ Boost Your expertise & Portfolio with 5 Must-Try Projects:
 Video Link - https://lnkd.in/dWnCppX5
 5. Building Data Model and Writing ETL Job - https://lnkd.in/dQSm-d_k
 
+So here are 7 great examples and other resources you can use to inspire your next data engineering project.
+
+1. Data Engineering Project for Beginners - Batch edition by Joseph M. - A real data engineering project usually involves multiple components. This project includes AWS EMR, Airflow, Redshift and more! https://lnkd.in/g3ymupMy
+
+2. How To Start Your Next Data Engineering Project - As you get more advanced on your DE journey you're going to want to go from following other people's ideas to creating your own. This article will walk you through how you can set-up your DE project from start to finish.
+https://lnkd.in/gTgwPDhZ
+
+3. Building A Data Engineering Project - Extracting Data From An API
+Pulling data from Predictit's API to learn about what is going on in politics
+https://lnkd.in/gFibQbdp
+
+4. 🚖 Uber Data Analytics | End-To-End Data Engineering Project
+Project by Darshil Parmar
+Darshil has several great examples of data engineering projects you can put together. A recent one he has developed has gained over 300k views in less than a month. It uses BigQuery, Mage and Looker Studio.
+https://lnkd.in/g6nTcjpW
+
+5. Basic Data Engineering Project - End-To-End From Web Scraping to Tableau
+An example of scraping the web and building a basic dashboard
+https://lnkd.in/eJxBHa4h
+
+6. Data Engineering Project-2|Building Spotify ETL using Python and Apache Airflow By Sidharth Ramalingam
+This is Sidharth's second data project. It creates an Extract Transform Load pipeline using python and automating with airflow.
+https://lnkd.in/gpwVrzFY
+
+7. 6 Side Project Ideas for New and Experienced Data Engineers
+By Chengzhi Zhao Even more data engineering project ideas!
+https://lnkd.in/gsqDp8uw
+
+
 Interview Preparation
 
 1. 𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮 𝗙𝗮𝗰𝘁𝗼𝗿𝘆 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/dVzCmzcZ
@@ -417,6 +446,32 @@ Interview Preparation
 1. 𝗔𝘇𝘂𝗿𝗲 𝗦𝘆𝗻𝗮𝗽𝘀𝗲 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/dv-HTdeC
 1. 𝗔𝘇𝘂𝗿𝗲 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/dFvFXqKx
 1. 𝗔𝘇𝘂𝗿𝗲 𝗱𝗮𝘁𝗮 𝗳𝗮𝗰𝘁𝗼𝗿𝘆 𝘀𝗰𝗲𝗻𝗮𝗿𝗶𝗼 𝗯𝗮𝘀𝗲𝗱 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤&𝗔: https://lnkd.in/ex_Vixh
+
+SPARK Interview
+
+1. Cache vs persist
+https://lnkd.in/ddZjNRc5
+
+2. Driver Node vs Worker node
+https://lnkd.in/ddaQvvbi
+
+3. How to connect ADLS storage account with spark databricks?
+https://lnkd.in/dM26gYFm
+
+4. Managed table vs External table in Spark?
+https://lnkd.in/deG5ZqQR
+
+5. What is CI/CD for databricks?
+https://lnkd.in/dZX_Z-ns
+
+6. What is the broadcast variable in SPARK?
+https://lnkd.in/duRnYa2Y
+
+7. Narrow Transformation vs Wide transformation
+https://lnkd.in/dtpgyRMD
+
+8. What is cluster manager in SPARK?
+https://lnkd.in/duzz4D5v
 
 # My best top 5 youtube channel to learn dataengineering for FREE...
 
@@ -442,6 +497,31 @@ programming model for batch and streaming data processing. It provides a way to 
 📍Apache Nifi - Apache NiFi is an open-source data integration platform that supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic. It provides an easy-to-use interface for designing data pipelines and supports a wide range of data sources and destinations.
 
 📍Presto - Presto is an open-source distributed SQL query engine designed for big data processing. It supports querying data from various data sources, including Hadoop, Cassandra, and MongoDB, and provides fast query execution and low-latency response times.
+
+# AZure Data Factory
+
+✅ Introduction to azure data factory tutorial part 1
+https://lnkd.in/giswskJz
+✅ Azure data factory Tutorial 2 : adf components
+https://lnkd.in/ggHhpMvd
+✅ Azure Data Factory Part 3 : Adls gen1 to gen2 migration
+https://lnkd.in/gvSFNenm
+✅ Azure Data Factory Part 4 : How to Copy Multiple files from Gen 1 to Gen2
+https://lnkd.in/ggqnGpNr
+✅ Azure Data Factory part 5 : self hosted integration runtime configuration
+https://lnkd.in/gjCfkxwE
+✅ Azure Data Factory Part 6 : How to migrate Onpremises Oracle data to azure datalake gen2
+https://lnkd.in/g9wBdjCz
+✅ Azure Data Factory part 7 : What is Binary File Dataset and when we will use this?
+https://lnkd.in/gBChrVJy
+✅ Azure Data Factory part 8 : how to split one file into multiple files using git-scm
+https://lnkd.in/gPVR2u_J
+✅ Azure Data Factory part 9 : what is linked self hosted integrated runtime
+https://lnkd.in/g_MASi3U
+✅ Azure Data Factory part 10 : How do i resolve this error self-hosted IR for file linked service
+https://lnkd.in/gG-Qi_mA
+✅ Azure Data Factory part 11 : how to migrate onprem files to adls gen2
+https://lnkd.in/gUbftYVa
 
 # SQL Courses for All  
 
@@ -533,6 +613,34 @@ Boost Your Database Skills
 🔗https://lnkd.in/deHZdjvB
 12. Troubleshooting Common SQL Errors with BigQuery
 🔗https://lnkd.in/dEb3NwJr
+
+
+𝗙𝗼𝗿 𝗳𝗿𝗲𝗲 𝗿𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀:
+
+1. freecodecamp.org: https://lnkd.in/duCfNtTW
+1. Programming with Mosh: https://lnkd.in/dFT8UQ4x
+1. techTFQ: https://lnkd.in/d_aSwXpJ
+1. Alex the Analyst: https://lnkd.in/dCXcY82Z
+
+𝗔𝗱𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝗳𝗿𝗲𝗲 𝗿𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀:
+
+1. SQLBolt: http://sqlbolt.com
+1. SQLZoo: https://lnkd.in/dCa9Vwgv
+1. SQLTest: http://sqltest.net
+1. W3Schools.com: http://w3schools.com/sql/
+1. Codecademy: https://lnkd.in/d2J3956R
+
+𝗧𝗼 P𝗿𝗮𝗰𝘁𝗶𝗰𝗲:
+
+1. LeetCode: https://leetcode.com
+1. HackerRank: https://www.hackerrank.com
+1. DataLemur: https://datalemur.com
+
+𝗙𝗼𝗿 𝗳𝘂𝗻 𝗴𝗮𝗺𝗲𝘀 𝗼𝗻 𝗦𝗤𝗟:
+
+1. SQLZOO: https://sqlzoo.net/
+1. SQLBOLT: https://sqlbolt.com/
+1. SQL Murder Mystery: https://lnkd.in/dbw9JUY5
 
 # 𝗙𝗿𝗲𝗲 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 for beginners with source code in Python
 
@@ -1129,6 +1237,35 @@ Others
 |8|𝗖𝗹𝗼𝘂𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴|aws.amazon.com|javapoint.com
 |9|𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀|careerfoundry.com|khanacademy.org
 |10|𝗪𝗲𝗯 𝟯.𝟬|buildspace.so|web3foundation
+
+# Spark 
+
+
+1. Install spark from here....
+- https://lnkd.in/gx_Dc8ph
+- https://lnkd.in/gg6-8xDz
+
+2. Learn spark Basics from here--
+- https://lnkd.in/g-gCpUyi
+- https://lnkd.in/gkNhMnTZ
+- https://lnkd.in/gkbVB6YX
+  1. Learn spark with Scala from here:
+    - https://lnkd.in/gtrZAmn4
+  2. Learn spark with python from here:
+    - https://lnkd.in/gQaeSjbH
+
+3. Learn pyspark from here:
+- https://lnkd.in/g6kyihyW
+
+4. Work on Spark projects from here..
+- https://lnkd.in/gE8hsyZx
+- https://lnkd.in/gwWytS-Q
+- https://lnkd.in/gR7DR6_5
+- https://lnkd.in/gzngHhrC
+- https://lnkd.in/gACn6bK8
+
+5. Finally list down your projects Here.....
+- https://github.com/
 
 # Other Miscellaneous
 
