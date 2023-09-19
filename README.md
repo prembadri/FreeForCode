@@ -473,6 +473,39 @@ https://lnkd.in/dtpgyRMD
 8. What is cluster manager in SPARK?
 https://lnkd.in/duzz4D5v
 
+
+# Data Engineering RoadMap
+
+1. Big-data-series-33 on #bigdatabytes 📑
+
+1. 𝐏𝐲𝐭𝐡𝐨𝐧 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬
+- TELUSKO --> https://lnkd.in/ggQf8xSJ
+
+2. 𝐒𝐐𝐋 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐚𝐧𝐝 𝐜𝐨𝐧𝐜𝐞𝐩𝐭𝐬 𝐟𝐫𝐨𝐦 
+- 𝐛𝐚𝐬𝐢𝐜 𝐭𝐨 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝
+- Sumit Mittal --> https://lnkd.in/gQVmMitr
+- Ankit Bansal --> https://lnkd.in/gMBxTMVZ
+
+3. 𝐋𝐢𝐧𝐮𝐱 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬 --> https://lnkd.in/guXUsYmr
+
+4. 𝐇𝐃𝐅𝐒 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 --> https://lnkd.in/gJ6JJQn5
+
+5. Gowtham SB 𝐇𝐚𝐝𝐨𝐨𝐩 𝐚𝐧𝐝 𝐒𝐩𝐚𝐫𝐤 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬
+- 𝐀𝐩𝐚𝐜𝐡𝐞 𝐇𝐚𝐝𝐨𝐨𝐩 --> https://lnkd.in/gy3Y-zJy
+- 𝐀𝐩𝐚𝐜𝐡𝐞 𝐒𝐩𝐚𝐫𝐤 --> https://lnkd.in/gSkQrmhm
+
+6. 𝐏𝐲𝐬𝐩𝐚𝐫𝐤 𝐁𝐚𝐬𝐢𝐜𝐬
+- GeekCoders --> https://lnkd.in/gEjCE7-y
+- 𝐏𝐲𝐬𝐩𝐚𝐫𝐤 --> https://lnkd.in/gTpfEjzJ
+
+7. 𝐄𝐧𝐝-𝐭𝐨-𝐄𝐧𝐝 𝐃𝐚𝐭𝐚 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+- Darshil Parmar --> https://lnkd.in/gTH85tGX
+
+8. 𝐀𝐰𝐬 --> https://lnkd.in/gFVir8iz
+- 𝐀𝐳𝐮𝐫𝐞 --> https://lnkd.in/ggVM4Cmi
+- 𝐆𝐂𝐏 --> https://lnkd.in/gpUkNfNf
+
+
 # My best top 5 youtube channel to learn dataengineering for FREE...
 
 1. E-Learning bridge(https://www.linkedin.com/in/shashank219/)
