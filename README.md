@@ -1137,6 +1137,33 @@ Roadmap for Python
 1. Microsoft Power BI documentation: https://lnkd.in/dbAT7QQ9
 1. Learn from Power BI community: https://lnkd.in/d3-FGaUq
 
+
+Microsoft Offering FREE Power BI Courses for 2023 with Certificates 🔥🔥
+
+1. Microsoft Certified: Power BI Data Analyst Associate – Certifications : https://lnkd.in/diqHhamu
+
+2. Getting Started with Power BI Desktop : https://lnkd.in/dP-MQZpH
+
+3. Build Dashboards in Power BI : https://lnkd.in/dkx9pkHN
+
+4. Power BI for Beginners Introduction to Business Intelligence : https://lnkd.in/dA8Hjjhj
+
+5. Use Power Bi for Financial Data Analysis : https://lnkd.in/d6eeHpF3
+
+6. Data-Driven Decisions with Power BI : https://lnkd.in/dNG8ny3s
+
+7. HR Analytics- Build an HR dashboard using Power BI : https://lnkd.in/dj5kSMed
+
+8. Create a Sales Dashboard using Power BI : https://lnkd.in/dxFNAn5Z
+
+9. Build an Income Statement Dashboard in Power BI : https://lnkd.in/dBKwsEpx
+
+10. Power BI for Beginners: Designing a Data Model : https://lnkd.in/d8xwdpXZ
+
+11. Power BI for Beginners: Preparing Data For Analysis : https://lnkd.in/dmERvXj4
+
+12. Power Bi Report Development Crash Course : https://lnkd.in/dazuDdXM
+
 Others 
 1. Excel: https://lnkd.in/dxuqGrzQ
 2. Tableau: https://lnkd.in/dzZnRFT2
@@ -1144,6 +1171,53 @@ Others
 4. SQL: https://www.w3schools.com
 5. Python: https://lnkd.in/dcJi-aMB
 
+🚀Learn for FREE in 2023!
+
+1. Project Management Professional Certificate : https://lnkd.in/dSVg_gUX
+2. IBM AI Engineering : https://lnkd.in/dUkEU8R8
+3. IBM Cybersecurity Analyst : https://lnkd.in/dGjTK7WG
+4. IBM Data Science : https://lnkd.in/enhr5QNt
+5. IBM Data Analyst : https://lnkd.in/dNHxjGis
+6. IBM Full Stack Software Developer : https://lnkd.in/eFnHct_g
+7. IBM Data Engineering : https://lnkd.in/gVkyHj_n
+8. IBM Data Analytics with Excel and R : https://lnkd.in/g-TaSgPz
+9. IBM DevOps and Software Engineering : https://lnkd.in/du2GdRw4
+10. IBM AI Engineering : https://lnkd.in/dUkEU8R8
+11. IBM Technical Support : https://lnkd.in/dxwAW_3A
+12. IBM Machine Learning : https://lnkd.in/d7USgGZ6
+13. IBM Technical Support : https://lnkd.in/dxwAW_3A
+14. Intuit Bookkeeping : https://lnkd.in/dJawJXcX
+15. Meta Database Engineer : https://lnkd.in/d7r-c3i4
+16. Meta Social Media Marketing : https://lnkd.in/d8DDAkzD
+17. Meta Front-End Developer : https://lnkd.in/gGuvhR9n
+18. Meta Marketing Analytics : https://lnkd.in/dF2PTMK6
+19. Meta Back-End Developer : https://lnkd.in/dvF5Yan7
+20. Microsoft Power BI Analyst : https://lnkd.in/d_ec_Jb9
+21. Microsoft Cybersecurity Analyst : https://lnkd.in/g-SjHf_c
+22. Salesforce Sales Operations : https://lnkd.in/dB6DV_qu
+
+# IBM FREE Cources 
+FREE Certification courses from IBM:
+
+No prerequisites or fees required.
+
+Here are 15 FREE courses you don't want to miss:
+
+1. Python for Data Science : https://lnkd.in/dYDPhs8f
+2. Machine Learning with Python : https://lnkd.in/dfuDGN45
+3. Docker Essentials: A Developer Introduction : https://lnkd.in/djGyjuT6
+4. Data Visualization with Python : https://lnkd.in/d-GASZJZ
+5. Data Science 101 : https://lnkd.in/dnawe99K
+6. Intro to Cloud : https://lnkd.in/dm7zbKaF
+7. Introduction to Containers, Kubernetes, and OpenShift V2: https://lnkd.in/dXuhuHcP
+8. Deep Learning Fundamentals : https://lnkd.in/d_rQgiZK
+9. Data Science Tools : https://lnkd.in/g6bc-2si
+10. IBM: AI for Everyone: Master the Basics : https://lnkd.in/g7uudsMh
+11. Introduction to Cloud Computing : https://lnkd.in/gq7frSWG
+12. Deep Learning with Python and PyTorch : https://lnkd.in/gGng9equ
+13. DevOps Basics for Everyone : https://lnkd.in/gtKbwf9y
+14. Python for AI & Development Project : https://lnkd.in/gvfJmvDt
+15. Data Engineering Basics for Everyone : https://lnkd.in/gD2GsT8c
 
 # Jenkins 
 
@@ -1299,6 +1373,70 @@ Others
 
 5. Finally list down your projects Here.....
 - https://github.com/
+
+# Simplilearn is offering free online courses.
+
+1. Introduction to Artificial Intelligence
+
+🔗 https://lnkd.in/d3ScMPXu
+
+2. Deep Learning for Beginners
+
+🔗 https://lnkd.in/d8zWBFM4
+
+3. Blockchain Developer
+
+🔗 https://lnkd.in/dqT2tCaC
+
+4. Python for Beginners
+
+🔗 https://lnkd.in/d2C6nEjk
+
+5. Basics of Snapchat Marketing
+
+🔗 https://lnkd.in/dKtpTJHC
+
+6. Applied Data Science with Python
+
+🔗https://lnkd.in/dTf3QUMb
+
+7. Introduction to Data Analytics Course
+
+🔗 https://lnkd.in/dns7Yvdv
+
+8. Introduction to Cyber Security
+
+🔗https://lnkd.in/dYvFGEQF
+
+9. Machine Learning
+
+🔗 https://lnkd.in/dbCHUtmg
+
+10. GIT Training
+
+🔗 https://lnkd.in/dT2tz7XZ
+
+11. Azure Fundamentals
+
+🔗 https://lnkd.in/dS-7eQii
+
+12. Introduction to Cloud Computing
+
+🔗 https://lnkd.in/dED3jPn7
+
+13. Big Data Hadoop and Spark Developer
+
+🔗 https://lnkd.in/dVNvE8Yt
+
+14. Agile Scrum Foundation
+
+🔗https://lnkd.in/d6YrDDRS
+
+15. Computer Architecture
+
+🔗 https://lnkd.in/da7R4zvN
+
+
 
 # Other Miscellaneous
 
