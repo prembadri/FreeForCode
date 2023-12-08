@@ -675,6 +675,36 @@ Boost Your Database Skills
 1. SQLBOLT: https://sqlbolt.com/
 1. SQL Murder Mystery: https://lnkd.in/dbw9JUY5
 
+# Spark 
+It is most important topic in all your #dataengineering interviews.
+
+you can learn for FREE here....
+1. Install spark from here : https://lnkd.in/gx_Dc8ph
+
+https://lnkd.in/gg6-8xDz
+
+2. Learn spark Basics from here--
+https://lnkd.in/g-gCpUyi
+https://lnkd.in/gkNhMnTZ
+https://lnkd.in/gkbVB6YX
+2.1 Learn spark with Scala from here:
+https://lnkd.in/gtrZAmn4
+2.2 Learn spark with python from here:
+https://lnkd.in/gQaeSjbH
+
+3. Learn pyspark from here:
+https://lnkd.in/g6kyihyW
+
+4. Work on Spark projects from here..
+https://lnkd.in/gE8hsyZx
+https://lnkd.in/gwWytS-Q
+https://lnkd.in/gR7DR6_5
+https://lnkd.in/gzngHhrC
+https://lnkd.in/gACn6bK8
+
+5. Finally list down your projects Here.....
+https://github.com/
+
 # 𝗙𝗿𝗲𝗲 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 for beginners with source code in Python
 
 1. Smartwatch Data Analysis using Python : https://t.co/siKYlProgh
@@ -1330,6 +1360,51 @@ Here are 15 FREE courses you don't want to miss:
 |||https://lnkd.in/dStQbpRX|
 |19|Grafana|https://lnkd.in/ddAV7_-p|
 |||https://lnkd.in/dRwfE7A4|
+
+VC Tools:
+1. Git: https://git-scm.com/docs
+2. GitHub: https://docs.github.com/en
+3. Bitbucket: https://lnkd.in/dA2PcM_w
+
+Ticketing Tools:
+1. Service Now: https://lnkd.in/d69yubJF
+2. Jira: https://lnkd.in/dD_WcXFQ
+3. Trello: https://trello.com/guide
+
+Public Clouds:
+
+1. AWS: https://lnkd.in/dMa9XpMa
+2. Azure: https://lnkd.in/dBsJtZHy
+3. GCP: https://lnkd.in/d3hmN-Jr
+
+Containerization and Orchestration Tools:
+1. Docker: https://docs.docker.com/
+2. Kubernetes: https://lnkd.in/dZXfQEqW
+3. Mesos: https://lnkd.in/dqzvzJhY
+
+Deployment Tools:
+1. Terraform: https://lnkd.in/dM46h2_D
+2. Octopus: https://octopus.com/docs
+3. Heroku: https://lnkd.in/dCDuwvcj
+
+Testing Tools:
+1. Selenium: https://lnkd.in/dTnFN8bT
+2. Cucumber: https://lnkd.in/dpmD4A9C
+3. Postman: https://lnkd.in/d3xERi6c
+
+Build Tools:
+1. Maven: https://lnkd.in/dfgBnrZj
+2. Gradle: https://lnkd.in/dv6rQczZ
+3. Ant: https://lnkd.in/dQgMsgef
+
+Pipeline Tools:
+1. Jenkins: https://lnkd.in/dPmA6-ff
+2. TravisCI: https://lnkd.in/dxxFaK_X
+3. Argo CD: https://lnkd.in/dK5eXbYi
+
+Monitoring Tools:
+1. Grafana: https://lnkd.in/dX5anVq9
+2. Prometheus: https://lnkd.in/ddxjc9bV
 
 # Best Link For Learning
 |SNO|Title|Link|Link|
