@@ -506,6 +506,66 @@ https://lnkd.in/duzz4D5v
 - 𝐆𝐂𝐏 --> https://lnkd.in/gpUkNfNf
 
 
+# 𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗔𝘇𝘂𝗿𝗲 𝗱𝗮𝘁𝗮 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗶𝗻 𝟮𝟬𝟮𝟰 - 𝟯 𝗺𝗼𝗻𝘁𝗵𝘀 𝗿𝗼𝗮𝗱𝗺𝗮𝗽 🚀
+
+### 𝗠𝗼𝗻𝘁𝗵 𝟭: 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴
+
+- 𝗪𝗲𝗲𝗸 𝟭-𝟮: 𝗕𝗮𝘀𝗶𝗰𝘀 𝗼𝗳 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴
+- Introduction to data pipelines and data processing.
+- Importance of data in decision-making.
+- Role of a Data Engineer in a tech ecosystem.
+
+- 𝗪𝗲𝗲𝗸 𝟯-𝟰: 𝗔𝘇𝘂𝗿𝗲 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀
+- 𝗔𝘇𝘂𝗿𝗲 𝗦𝘁𝗼𝗿𝗮𝗴𝗲: Understanding various storage options - Blob, Queue, Table, and File storage.
+- 𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮 𝗟𝗮𝗸𝗲: Overview of hierarchical data storage for big data analytics.
+- 𝗔𝘇𝘂𝗿𝗲 𝗦𝗤𝗟 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: Basics of relational databases in the Azure environment.
+
+### 𝗠𝗼𝗻𝘁𝗵 𝟮: 𝗧𝗼𝗼𝗹 𝗠𝗮𝘀𝘁𝗲𝗿𝘆
+
+- 𝗪𝗲𝗲𝗸 𝟭-𝟮: 𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮𝗯𝗿𝗶𝗰𝗸𝘀
+- Apache Spark fundamentals.
+- Collaborative big data analytics in a cloud environment.
+- Building and optimizing data workflows.
+
+- 𝗪𝗲𝗲𝗸 𝟯-𝟰: 𝗔𝘇𝘂𝗿𝗲 𝗦𝘆𝗻𝗮𝗽𝘀𝗲 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
+- Combining big data and data warehousing.
+- Creating serverless on-demand SQL pools.
+- Understanding analytics capabilities for large datasets.
+
+### 𝗠𝗼𝗻𝘁𝗵 𝟯: 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀
+- 𝗪𝗲𝗲𝗸 𝟭-𝟮: 𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮 𝗙𝗮𝗰𝘁𝗼𝗿𝘆
+- Data integration and transformation.
+- Building, scheduling, and orchestrating complex data workflows.
+- Incorporating data security best practices.
+
+- 𝗪𝗲𝗲𝗸 𝟯-𝟰: 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀
+- 𝗔𝘇𝘂𝗿𝗲 𝗦𝘁𝗿𝗲𝗮𝗺 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀: Real-time data processing and analytics.
+- Exploring event-driven architectures.
+- Implementing scalable and resilient solutions.
+
+𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀:
+1. [𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗟𝗲𝗮𝗿𝗻]
+(https://lnkd.in/g6GT6vM9)
+- [Azure Fundamentals](https://lnkd.in/gXfCfeVp)
+- [Azure Databricks](https://lnkd.in/g-ZKzxhj)
+- [Azure Synapse Analytics](https://lnkd.in/gv4wM4BR)
+- [Azure Data Factory](https://lnkd.in/gjSCCGa5)
+- [Azure Stream Analytics](https://lnkd.in/ghkFGmf4)
+
+2. [𝗣𝗹𝘂𝗿𝗮𝗹𝘀𝗶𝗴𝗵𝘁]
+(https://lnkd.in/gdpHZ8Ks)
+- "Azure Data Engineer: Implement Data Storage Solutions" by various authors.
+- "Big Data Analytics with Azure Databricks" by various authors.
+- "Introduction to Azure Synapse Analytics" by various authors.
+
+3. [𝗖𝗼𝘂𝗿𝘀𝗲𝗿𝗮]
+(https://www.coursera.org/)
+
+- [Azure Data Engineer Certification](https://lnkd.in/gBPC_zJ4)
+- [Big Data with Azure Synapse Analytics] (https://lnkd.in/g3ExMA75)
+- [Modern Data Warehouse with Azure Synapse Analytics](https://lnkd.in/grr2qntj)
+
+
 # My best top 5 youtube channel to learn dataengineering for FREE...
 
 1. E-Learning bridge(https://www.linkedin.com/in/shashank219/)
@@ -1511,7 +1571,117 @@ Monitoring Tools:
 
 🔗 https://lnkd.in/da7R4zvN
 
+# End-to-End DevOps Learning
 
+![DEVOPS](./images/1710729118750.gif)
+
+GenAI:
+- Learn GenAI for DevOps - https://brij.guru/ai
+
+Linux:
+- The Linux Foundation: https://lnkd.in/epkP5dYQ
+- Linux Documentation: https://lnkd.in/eWNYW246
+- Fedora Project: fedoraproject.org
+
+Scripting:
+- Python: learnpython.org
+- Go: go.dev/tour
+- Automate with Python: automatetheboringstuff.com
+- Golang Bootcamp: https://lnkd.in/eSsK7KUG
+
+Networking:
+- Cisco Networking Academy: netacad.com
+- Networking Fundamentals: https://lnkd.in/eQ62Bfza
+- Networking: A Top-Down Approach: kurose.cslash.net
+- FreeCodeCamp's Course: https://lnkd.in/ecAsMH2w
+
+Git:
+- Git SCM: git-scm.com
+- Try Git: github.com/Try
+- Git Tutorials: https://lnkd.in/eDbQBQfD
+- Git Interactive Tutorial: https://lnkd.in/eqfE2ZC4
+
+Containers:
+- Docker Documentation: docs.docker.com
+- Docker Hub: hub.docker.com
+- Docker Labs: dockerlabs.collabnix.com
+- Kubernetes Fundamentals: https://lnkd.in/eurRUTSt
+
+Cloud:
+- AWS Free Tier: aws.amazon.com/free
+- Microsoft Azure Free Account: https://lnkd.in/ehxD777x
+- Google Cloud Platform Free Tier: cloud.google.com/free
+- Cloud Academy: cloudacademy.com
+
+CI/CD:
+- Jenkins: jenkins.io
+- Travis CI: https://lnkd.in/eDTJtRjB
+- CircleCI: circleci.com
+- GitLab CI/CD: docs.gitlab.com/ee/ci
+
+Orchestration:
+- Kubernetes Documentation: kubernetes.io/docs/home
+- Kubernetes the Hard Way: https://lnkd.in/edWs7_FW
+- CNCF Curriculum: cncf.io
+- Kubernetes Fundamentals: https://lnkd.in/e55BRxGy
+
+Observability:
+- Prometheus: prometheus.io
+- Grafana: grafana.com
+- Elasticsearch: elastic.co
+- Jaeger: https://lnkd.in/eiFkzXwD
+
+Infrastructure as Code (IaC):
+- Terraform: terraform.io
+- AWS CloudFormation: https://lnkd.in/e4wGb2eT
+- Azure Resource Manager: https://lnkd.in/eWzjg94i
+- Deployment Manager: https://lnkd.in/ekAQpT3n
+
+Policy as Code:
+- Open Policy Agent: https://lnkd.in/eG4jMZSU
+- Kyverno: kyverno.io/docs
+- Rego: https://lnkd.in/eD75meCB
+
+Service Mesh:
+- Istio: https://lnkd.in/eaxdAMZC
+- Linkerd: linkerd.io
+- Consul Service Mesh: https://lnkd.in/eEn3eacn
+
+# SQL Road Map
+
+![SQL](./images/1710715223814.gif)
+
+𝟭. 𝗬𝗼𝘂 𝗰𝗮𝗻 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲 𝗦𝗤𝗟 𝗼𝗻 𝘁𝗵𝗲𝘀𝗲 𝘄𝗲𝗯𝘀𝗶𝘁𝗲𝘀, 𝗻𝗼 𝗻𝗲𝗲𝗱 𝘁𝗼 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴.
+- https://sqlbolt.com/
+- https://lnkd.in/eH9Qqa3h
+- https://lnkd.in/ed4-E3vH
+
+𝟮. 𝗜𝗻𝘁𝗿𝗼 𝘁𝗼 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
+- https://lnkd.in/e6GCb-_X
+
+𝟯. 𝗔𝗴𝗴𝗿𝗲𝗴𝗮𝘁𝗲 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀
+- https://lnkd.in/eCfHtrjZ
+
+𝟰. 𝗦𝘂𝗯𝗾𝘂𝗲𝗿𝗶𝗲𝘀 𝘄𝗶𝘁𝗵 𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 
+- https://lnkd.in/eKFgfWNf
+
+𝟱. 𝗦𝗤𝗟 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
+- https://lnkd.in/eSifcBY4
+
+𝟲. 𝟭𝟱 𝗗𝗮𝘆𝘀 𝗼𝗳 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗤𝗟
+- https://lnkd.in/eXm-CvmA
+
+𝟳. 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗦𝗤𝗟
+- https://lnkd.in/eb8qyFmB
+
+𝟴. 𝗦𝗤𝗟 𝗖𝗮𝘀𝗲 𝗦𝘁𝘂𝗱𝘆 𝗮𝗻𝗱 𝟮𝟬+ 𝗦𝗤𝗟 𝗣𝗿𝗼𝗯𝗹𝗲𝗺𝘀
+- https://lnkd.in/eSrPyXKC
+
+𝟵. 𝗣𝗿𝗲𝗽𝗮𝗿𝗲 𝗳𝗼𝗿 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄𝘀
+- https://datalemur.com/
+
+𝟭𝟬. 𝗦𝗤𝗟 𝗠𝗼𝗰𝗸 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 (𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁)
+- https://lnkd.in/ey4hhkDk
 
 # Other Miscellaneous
 
