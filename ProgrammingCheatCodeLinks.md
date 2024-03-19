@@ -1,7 +1,5 @@
 ## Programming Cheat Code Links
 
-Use the links and enjoying codding. Happy lerning.
-
  1. Python : https://lnkd.in/grD8XUS6
  2. Pandas : https://lnkd.in/g4yTJ7CP
  3. NumPy : https://lnkd.in/gg9Uw-km
