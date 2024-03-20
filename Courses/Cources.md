@@ -83,10 +83,6 @@
 20. Microsoft Power BI Analyst : https://lnkd.in/d_ec_Jb9
 21. Microsoft Cybersecurity Analyst : https://lnkd.in/g-SjHf_c
 22. Salesforce Sales Operations : https://lnkd.in/dB6DV_qu
-
-# IBM FREE Cources 
-FREE Certification courses from IBM:
-
 1. Python for Data Science : https://lnkd.in/dYDPhs8f
 2. Machine Learning with Python : https://lnkd.in/dfuDGN45
 3. Docker Essentials: A Developer Introduction : https://lnkd.in/djGyjuT6
@@ -102,28 +98,48 @@ FREE Certification courses from IBM:
 13. DevOps Basics for Everyone : https://lnkd.in/gtKbwf9y
 14. Python for AI & Development Project : https://lnkd.in/gvfJmvDt
 15. Data Engineering Basics for Everyone : https://lnkd.in/gD2GsT8c
-1. Google Data Analytics: 🪢https://lnkd.in/g4dsagCu
-1. DeepLearning .AI TensorFlow Developer 🪢https://lnkd.in/esR3dDft
-1. IBM AI Engineering 🪢https://lnkd.in/efWfVJeV
-1. IBM Cybersecurity Analyst 🪢https://lnkd.in/eU2VSeC9
-1. IBM Data Science 🪢https://lnkd.in/esCNxDwS
-1. IBM Data Analyst 🪢https://lnkd.in/eSphbTPs
-1. IBM Full Stack Software Developer 🪢https://lnkd.in/exfDN6SX
-1. IBM Data Engineering 🪢https://lnkd.in/eE-vCNjd
-1. IBM Data Analytics with Excel and R 🪢 https://lnkd.in/eFpkYzxE
-1. IBM DevOps and Software Engineering 🪢 https://lnkd.in/eQK-muF2
-1. IBM AI Engineering 🪢 https://lnkd.in/e_5ywYgH
-1. IBM Technical Support 🪢 https://lnkd.in/eqkNxDKQ
-1. IBM Machine Learning 🪢 https://lnkd.in/eTWSrjsg
-1. IBM Technical Support 🪢 https://lnkd.in/erNccDBY
-1. Intuit Bookkeeping 🪢 https://lnkd.in/eUtUqWit
-1. Meta Database Engineer 🪢 https://lnkd.in/eDCV6r7F
-1. Meta Social Media Marketing 🪢 https://lnkd.in/eCiKwtwY
-1. Meta Front-End Developer 🪢 https://lnkd.in/eEgRZgDf
-1. Meta Marketing Analytics 🪢 https://lnkd.in/e2Y_csc9
-1. Meta Back-End Developer 🪢 https://lnkd.in/eQzfd_DY
-1. Microsoft Power BI Analyst 🪢 https://lnkd.in/eu2_VHSF
-1. Microsoft Cybersecurity Analyst 🪢 https://lnkd.in/ewNEP5xx
+1. Google Data Analytics: : https://lnkd.in/g4dsagCu
+1. DeepLearning .AI TensorFlow Developer : https://lnkd.in/esR3dDft
+1. Intuit Bookkeeping : https://lnkd.in/eUtUqWit
+1. Meta Database Engineer : https://lnkd.in/eDCV6r7F
+1. Meta Social Media Marketing : https://lnkd.in/eCiKwtwY
+1. Meta Front-End Developer : https://lnkd.in/eEgRZgDf
+1. Meta Marketing Analytics : https://lnkd.in/e2Y_csc9
+1. Meta Back-End Developer : https://lnkd.in/eQzfd_DY
+1. Microsoft Power BI Analyst : https://lnkd.in/eu2_VHSF
+1. Microsoft Cybersecurity Analyst : https://lnkd.in/ewNEP5xx
+1. Getting Started with Data Analytics on AWS : https://lnkd.in/dXGt3_a9
+2. Hands-on Machine Learning with AWS and NVIDIA : https://lnkd.in/dK_ZWzcu
+3. Introduction to Machine Learning on AWS : https://lnkd.in/dswD_Txe
+4. AWS Fundamentals Specialization : https://lnkd.in/gDuRg-Qm
+5. AWS Cloud Technical Essentials : https://lnkd.in/d2xG875a
+6. AWS Cloud Solutions Architect Professional Certificate : https://lnkd.in/dxnAw3da
+7. Architecture Solutions on AWS : https://lnkd.in/dQZzm2Fe
+8. AWS Fundamentals: Migrating to the Cloud : https://lnkd.in/db_MFT25
+9. AWS Cloud Practitioner Essentials : https://lnkd.in/dFVxyqXM
+10. Exam Prep: AWS Certified Cloud Practitioner Foundations : https://lnkd.in/dkzRaEMX
+11. DevOps on AWS: Operate and Monito : https://lnkd.in/dzxsYBnu
+12. DevOps on AWS Specialization : https://lnkd.in/d35fcn3w
+13. Introduction Generative to Al : https://lnkd.in/gkKDae3Q
+14. Generative AI with Large Language Models : https://lnkd.in/g5yK-ATP
+15. Generative Adversarial Networks (GANs) Specialization : https://lnkd.in/gctbCyK8
+16. Introduction to Artificial Intelligence (AI) : https://lnkd.in/gTzkcmsA
+17. Generative AI Primer : https://lnkd.in/gQ-3hdcQ
+18. Natural Language Processing Specialization : https://lnkd.in/gcRNRM3r
+19. Deep Learning Specialization : https://lnkd.in/gmhhbqqk
+20. Generative AI for Data Scientists Specialization : https://lnkd.in/gBxtemRk
+21. IBM Data Science Professional Certificate : https://lnkd.in/gt9HbFWQ
+22. Introduction to Data Science : https://lnkd.in/g_wAtMA3
+23. Learn SQL Basics for Data Science : https://lnkd.in/g-SGx74d
+24. Excel for Business : https://lnkd.in/gDx-KG9X
+25. Statistics for Data Science with Python : https://lnkd.in/gK4ZAJeN
+26. Machine Learning Specialization : https://lnkd.in/gHKYhYFR
+27. Deep Learning : https://lnkd.in/gmhhbqqk
+28. Data Visualization : https://lnkd.in/gd2-aPs7
+29. Linear Algebra : https://lnkd.in/gsBKANaT
+30. R : https://lnkd.in/g2zmDtWJ
+31. PowerBI : https://lnkd.in/gyyCPSkN
+32. Mathematics : https://lnkd.in/gjeFQkaA
 
 # Best Link For Learning
 |SNO|Title|Link|Link|
@@ -141,18 +157,18 @@ FREE Certification courses from IBM:
 
 # Simplilearn is offering free online courses.
 
-1. Introduction to Artificial Intelligence 🔗 https://lnkd.in/d3ScMPXu
-2. Deep Learning for Beginners 🔗 https://lnkd.in/d8zWBFM4
-3. Blockchain Developer 🔗 https://lnkd.in/dqT2tCaC
-4. Python for Beginners 🔗 https://lnkd.in/d2C6nEjk
-5. Basics of Snapchat Marketing 🔗 https://lnkd.in/dKtpTJHC
-6. Applied Data Science with Python 🔗https://lnkd.in/dTf3QUMb
-7. Introduction to Data Analytics Course 🔗 https://lnkd.in/dns7Yvdv
-8. Introduction to Cyber Security 🔗https://lnkd.in/dYvFGEQF
-9. Machine Learning 🔗 https://lnkd.in/dbCHUtmg
-10. GIT Training 🔗 https://lnkd.in/dT2tz7XZ
-11. Azure Fundamentals 🔗 https://lnkd.in/dS-7eQii
-12. Introduction to Cloud Computing 🔗 https://lnkd.in/dED3jPn7
-13. Big Data Hadoop and Spark Developer 🔗 https://lnkd.in/dVNvE8Yt
-14. Agile Scrum Foundation 🔗https://lnkd.in/d6YrDDRS
-15. Computer Architecture 🔗 https://lnkd.in/da7R4zvN
+1. Introduction to Artificial Intelligence : https://lnkd.in/d3ScMPXu
+2. Deep Learning for Beginners : https://lnkd.in/d8zWBFM4
+3. Blockchain Developer : https://lnkd.in/dqT2tCaC
+4. Python for Beginners : https://lnkd.in/d2C6nEjk
+5. Basics of Snapchat Marketing : https://lnkd.in/dKtpTJHC
+6. Applied Data Science with Python : https://lnkd.in/dTf3QUMb
+7. Introduction to Data Analytics Course : https://lnkd.in/dns7Yvdv
+8. Introduction to Cyber Security : https://lnkd.in/dYvFGEQF
+9. Machine Learning : https://lnkd.in/dbCHUtmg
+10. GIT Training : https://lnkd.in/dT2tz7XZ
+11. Azure Fundamentals : https://lnkd.in/dS-7eQii
+12. Introduction to Cloud Computing : https://lnkd.in/dED3jPn7
+13. Big Data Hadoop and Spark Developer : https://lnkd.in/dVNvE8Yt
+14. Agile Scrum Foundation : https://lnkd.in/d6YrDDRS
+15. Computer Architecture : https://lnkd.in/da7R4zvN

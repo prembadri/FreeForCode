@@ -1,8 +1,7 @@
 
 
 # Data Engineering Courses
-
- 1. DE Roadmap: https://lnkd.in/dZBfE3Eq
+ 1. DE Roadmap: https://lnkd.in/dZBfE3Eq - https://dataengineering.wiki/Tutorials/Tutorials
  1. Master Python: https://lnkd.in/e5rCbvP8
  1. Learn SQL: https://lnkd.in/efMKFkfX
  1. Learn MySQL: https://lnkd.in/efk-Mi3c
@@ -371,3 +370,30 @@ Apache Airflow is a powerful open-source platform for orchestrating complex work
 |11|AI Workflow: Enterprise Model Deployment|https://lnkd.in/dV8wHZVx
 |12|Deep Learning for Business|https://lnkd.in/dnMQgjcp
 |13|Building Deep Learning Models with TensorFlow|https://lnkd.in/dexah-qp
+
+
+## 𝟭. 𝗖𝗼𝘂𝗿𝘀𝗲𝘀:
+- 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀 𝗮𝗻𝗱 𝗽𝗿𝗼𝗯𝗮𝗯𝗶𝗹𝗶𝘁𝘆: https://lnkd.in/eev_vMmD
+- 𝗜𝗻𝘁𝗿𝗼 𝘁𝗼 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗣𝘆𝘁𝗵𝗼𝗻: https://lnkd.in/eRByD9YP
+- 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗳𝗼𝗿 𝗕𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀: https://lnkd.in/euiVa5FZ
+- 𝗣𝘆𝘁𝗵𝗼𝗻 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: https://lnkd.in/eys_Uerh
+- 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝘄𝗶𝘁𝗵 𝗣𝘆𝘁𝗵𝗼𝗻: https://lnkd.in/eK7TJgJ9
+- 𝗣𝗮𝗻𝗱𝗮𝘀 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲: https://lnkd.in/eX6_BGzp
+
+## 𝟮. 𝗕𝗼𝗼𝗸𝘀:
+- 𝗔𝗻 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝘁𝗼 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: https://lnkd.in/ejuHcuC5
+- 𝗣𝘆𝘁𝗵𝗼𝗻 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲: https://lnkd.in/eVX8JPGU
+- 𝗛𝗼𝘄 𝘁𝗼 𝗕𝘂𝗶𝗹𝗱 𝗬𝗼𝘂𝗿 𝗖𝗮𝗿𝗲𝗲𝗿 𝗶𝗻 𝗔𝗜: https://lnkd.in/ePMWgjE9
+- 𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵𝗶𝗻𝗴 (𝗔𝗹𝗺𝗼𝘀𝘁) 𝗔𝗻𝘆 𝗠𝗟 𝗣𝗿𝗼𝗯𝗹𝗲𝗺: https://lnkd.in/efPC8xdH
+
+## 𝟯. 𝗚𝗶𝘁𝗵𝘂𝗯:
+- 𝗔𝘄𝗲𝘀𝗼𝗺𝗲 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲: https://lnkd.in/eXE_FAXu
+- 𝗕𝗲𝘀𝘁 𝗼𝗳 𝗠𝗟 𝘄𝗶𝘁𝗵 𝗣𝘆𝘁𝗵𝗼𝗻: https://lnkd.in/eFfkHXi9
+- 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀: https://lnkd.in/eAKnpQm9
+- 𝟱𝟬𝟬 𝗔𝗜 𝗠𝗟 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲: https://lnkd.in/e_j8aCmD
+
+## 𝟰. 𝗠𝗼𝗰𝗸 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄𝘀:
+- 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗝𝗼𝗯 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄: https://lnkd.in/eekkPpFS
+- 𝟭𝟬 𝗠𝗟 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀: https://lnkd.in/ekYV938P
+- 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗚𝘂𝗶𝗱𝗲: https://lnkd.in/e-uf9K9J
+- 𝗟𝗲𝗲𝘁𝗖𝗼𝗱𝗲 𝗣𝘆𝘁𝗵𝗼𝗻 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄: https://lnkd.in/enbuswWb

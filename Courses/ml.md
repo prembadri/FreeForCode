@@ -206,3 +206,35 @@ Reference for Credit Card Fraud Detection
 References for alarm clock
 - https://youtube.com/playlist?list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA
 - https://itsourcecode.com/free-projects/python-projects/alarm-clock-using-python-with-source-code/
+
+# 𝗙𝗥𝗘𝗘 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝘆𝗼𝘂 𝘄𝗶𝗹𝗹 𝗿𝗲𝗴𝗿𝗲𝘁 𝗻𝗼𝘁 𝘁𝗮𝗸𝗶𝗻𝗴 𝗶𝗻 𝟮𝟬𝟮𝟰.
+1. Introduction Generative to Al : https://lnkd.in/detitq8h
+2. Generative AI with Large Language Models : https://lnkd.in/dKkYeknp
+3. Generative Adversarial Networks (GANs) Specialization : https://lnkd.in/dyXgBExM
+4. Introduction to Artificial Intelligence (AI) : https://lnkd.in/d2Awst5W
+5. Generative AI Primer : https://lnkd.in/d5Mxw9m3
+6. Natural Language Processing Specialization : https://lnkd.in/dwHpf5St
+7. Deep Learning Specialization : https://lnkd.in/d6cWvJ_9
+8. Generative AI for Data Scientists Specialization : https://lnkd.in/d-MCw8k5
+9. IBM Data Science Professional Certificate : https://lnkd.in/d2cBszG5
+10. Introduction to Data Science : https://lnkd.in/dKGf-KtB
+11. Learn SQL Basics for Data Science : https://lnkd.in/dCpZ-NRX
+12. Python for Everybody : https://lnkd.in/dicyAtC4
+13. Machine Learning Specialization : https://lnkd.in/dW7wUUcx
+14. Data Science Fundamentals with Python & SQL Specialization : https://lnkd.in/dkfRpT9e
+15. Excel Skills for Data Analytics and Visualization : https://lnkd.in/dgvEw2e5
+16. Crash Course on Python : https://lnkd.in/dsCQJQpk
+17. IBM Data Analytics with Excel and R : https://lnkd.in/duHEEBRR
+18. Excel to MySQL: Analytic Techniques for Business : https://lnkd.in/dfpewZ-b
+19. Advanced Google Analytics : https://lnkd.in/d-n-za6p
+20. Google Project Management : https://lnkd.in/dtTiGX8N
+21. Agile Project Management : https://lnkd.in/d_Zk7zdi
+22. Project Execution: Running the Project : https://lnkd.in/d69b7erj
+23. Foundations of Project Management : https://lnkd.in/dy77uH67
+24. Project Initiation: Starting a Successful Project : https://lnkd.in/dsZFaNmi
+25. Project Planning: Putting It All Together : https://lnkd.in/d5zrVak6
+26. Google Data Analytics : https://lnkd.in/dVAzUSJd
+27. Get Started with Python : https://lnkd.in/diX9mRw6
+28. Learn Python Basics for Data Analysis : https://lnkd.in/dimjFgx5 - https://lnkd.in/dz2AZZB8
+29. Google Advanced Data Analytics Capstone : https://lnkd.in/dcVTcbih
+30. Data Analysis with R Programming : https://lnkd.in/dwpP4xT3
