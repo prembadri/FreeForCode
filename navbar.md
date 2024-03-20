@@ -1,36 +1,36 @@
 * Courses
-  * [Web](web.md)
-  * [API](api.md)
-  * [SQL](sql.md)
-  * [AI ML](ml.md)
-  * [Python](python.md)
-  * [Testing](Testing.md)
-  * [Power Bi](powerbi.md)
-  * [Excel Courses](ExcelCourses.md)
-  * [Code Practice](CodePractice.md)
-  * [Data Engineering](DataEngineeringCourses.md)
-  * [Free Courses Websites](FreeCourcesWebsites.md)
-  * [Youtube Channel Codding](YoutubeChannelforCodding.md)
-  * [Other Courses](Cources.md)
-  * [Programming Cheat Code Links](ProgrammingCheatCodeLinks.md)
-  * [Certificate](CodingCertificate.md)
+  * [Web](Courses/web.md)
+  * [API](Courses/api.md)
+  * [SQL](Courses/sql.md)
+  * [AI ML](Courses/ml.md)
+  * [Python](Courses/python.md)
+  * [Testing](Courses/Testing.md)
+  * [Power Bi](Courses/powerbi.md)
+  * [Excel Courses](Courses/ExcelCourses.md)
+  * [Code Practice](Courses/CodePractice.md)
+  * [Data Engineering](Courses/DataEngineeringCourses.md)
+  * [Free Courses Websites](Courses/FreeCourcesWebsites.md)
+  * [Youtube Channel Codding](Courses/YoutubeChannelforCodding.md)
+  * [Other Courses](Courses/Cources.md)
+  * [Programming Cheat Code Links](Courses/ProgrammingCheatCodeLinks.md)
+  * [Certificate](Courses/CodingCertificate.md)
 
 * Cloud
 
-  * [AWS](AWS.md)
-  * [Azure](Azure.md)
-  * [Cloud Computing](CloudComputing.md)
-  * [Free Certificate](FreeCloudComputingwithCertificate.md)
+  * [AWS](Cloud/AWS.md)
+  * [Azure](Cloud/Azure.md)
+  * [Cloud Computing](Cloud/CloudComputing.md)
+  * [Free Certificate](Cloud/FreeCloudComputingwithCertificate.md)
   
 * DEVOPS
-  * [CI & CD](CICD.md)
-  * [Jenkins](Jenkins.md)
-  * [Youtube Chanel DevOps](YoutubeChanelToDevOps.md)  
+  * [CI & CD](DEVOPS/CICD.md)
+  * [Jenkins](DEVOPS/Jenkins.md)
+  * [Youtube Chanel DevOps](DEVOPS/YoutubeChanelToDevOps.md)  
   
 * Miscellaneous
 
-  * [Miscellaneous](Miscellaneous.md)
-  * [GitHubRepository](GitHubRepository.md)
+  * [Miscellaneous](Miscellaneous/Miscellaneous.md)
+  * [GitHubRepository](Miscellaneous/GitHubRepository.md)
 
 * Blogs
 

@@ -1,4 +1,4 @@
-[![FreeForCodeBanner](./Free%20For%20Code.gif)](https://prembadri.github.io/FreeForCode/#/)
+[![FreeForCodeBanner](./images/Free%20For%20Code.gif)](https://prembadri.github.io/FreeForCode/#/)
 
 Developers and Open Source authors now have a massive amount of services offering free, but it can be hard to find them all to make informed decisions.
 
