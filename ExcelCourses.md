@@ -19,3 +19,18 @@
 1. Format Painter in Excel- https://lnkd.in/gbWUjsST
 1. Repeat Function in Excel- https://lnkd.in/gbHUBnxR
 1. Goal seek function in Excel- https://lnkd.in/gcCR2jeB
+
+
+# 🔥 EXCEL LOOKUP Functions!
+![Banner](./images/ExcelLookup.jpeg)
+
+1. 👉 VLOOKUP vs HLOOKUP vs XLOOKUP! https://lnkd.in/greQCjfY
+1. 👉 How to Use XLOOKUP! : https://lnkd.in/gP8N6X22
+1. 👉 How to Use HLOOKUP! : https://lnkd.in/gjQyMCG9
+1. 👉 How to Use VLOOKUP! : https://lnkd.in/duZTgxKy
+1. 👉 How to Use INDEX! : https://lnkd.in/gytNqj9H
+1. 👉 How to Use MATCH! : https://lnkd.in/gQWpuqYG
+1. 👉 LOOKUP with INDEX & MATCH! : https://lnkd.in/gwxhDxUy
+1. 👉 2-WAY LOOKUPS (XLOOKUP vs INDEX & MATCH)! : https://lnkd.in/guWRTpMs
+1. 👉 LOOKUP with PIVOT Tables! : https://lnkd.in/g8Pff2X4
+1. 👉 Generate VLOOKUP formulas with ChatGPT! : https://lnkd.in/g9EYkXJa

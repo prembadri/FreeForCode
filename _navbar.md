@@ -31,3 +31,10 @@
 
   * [Miscellaneous](Miscellaneous.md)
   * [GitHubRepository](GitHubRepository.md)
+
+* Blogs
+
+  * [API](./Blogs/APIs-EssentialBuildingBlocksofModernSoftware.md)
+  * [Top 7 DataTerms](./Blogs/Top7DataTermsExplained.md)
+  * [API GateWay](./Blogs/APIGateWay.md)
+  * [DevOps Vs DataOps Vs MLOps](./Blogs/DevOpsvsDataOpsvsMLOps.md)

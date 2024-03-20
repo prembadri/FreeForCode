@@ -87,10 +87,6 @@
 # IBM FREE Cources 
 FREE Certification courses from IBM:
 
-No prerequisites or fees required.
-
-Here are 15 FREE courses you don't want to miss:
-
 1. Python for Data Science : https://lnkd.in/dYDPhs8f
 2. Machine Learning with Python : https://lnkd.in/dfuDGN45
 3. Docker Essentials: A Developer Introduction : https://lnkd.in/djGyjuT6
@@ -106,6 +102,28 @@ Here are 15 FREE courses you don't want to miss:
 13. DevOps Basics for Everyone : https://lnkd.in/gtKbwf9y
 14. Python for AI & Development Project : https://lnkd.in/gvfJmvDt
 15. Data Engineering Basics for Everyone : https://lnkd.in/gD2GsT8c
+1. Google Data Analytics: 🪢https://lnkd.in/g4dsagCu
+1. DeepLearning .AI TensorFlow Developer 🪢https://lnkd.in/esR3dDft
+1. IBM AI Engineering 🪢https://lnkd.in/efWfVJeV
+1. IBM Cybersecurity Analyst 🪢https://lnkd.in/eU2VSeC9
+1. IBM Data Science 🪢https://lnkd.in/esCNxDwS
+1. IBM Data Analyst 🪢https://lnkd.in/eSphbTPs
+1. IBM Full Stack Software Developer 🪢https://lnkd.in/exfDN6SX
+1. IBM Data Engineering 🪢https://lnkd.in/eE-vCNjd
+1. IBM Data Analytics with Excel and R 🪢 https://lnkd.in/eFpkYzxE
+1. IBM DevOps and Software Engineering 🪢 https://lnkd.in/eQK-muF2
+1. IBM AI Engineering 🪢 https://lnkd.in/e_5ywYgH
+1. IBM Technical Support 🪢 https://lnkd.in/eqkNxDKQ
+1. IBM Machine Learning 🪢 https://lnkd.in/eTWSrjsg
+1. IBM Technical Support 🪢 https://lnkd.in/erNccDBY
+1. Intuit Bookkeeping 🪢 https://lnkd.in/eUtUqWit
+1. Meta Database Engineer 🪢 https://lnkd.in/eDCV6r7F
+1. Meta Social Media Marketing 🪢 https://lnkd.in/eCiKwtwY
+1. Meta Front-End Developer 🪢 https://lnkd.in/eEgRZgDf
+1. Meta Marketing Analytics 🪢 https://lnkd.in/e2Y_csc9
+1. Meta Back-End Developer 🪢 https://lnkd.in/eQzfd_DY
+1. Microsoft Power BI Analyst 🪢 https://lnkd.in/eu2_VHSF
+1. Microsoft Cybersecurity Analyst 🪢 https://lnkd.in/ewNEP5xx
 
 # Best Link For Learning
 |SNO|Title|Link|Link|
@@ -123,47 +141,18 @@ Here are 15 FREE courses you don't want to miss:
 
 # Simplilearn is offering free online courses.
 
-1. Introduction to Artificial Intelligence
-🔗 https://lnkd.in/d3ScMPXu
-
-2. Deep Learning for Beginners
-🔗 https://lnkd.in/d8zWBFM4
-
-3. Blockchain Developer
-🔗 https://lnkd.in/dqT2tCaC
-
-4. Python for Beginners
-🔗 https://lnkd.in/d2C6nEjk
-
-5. Basics of Snapchat Marketing
-🔗 https://lnkd.in/dKtpTJHC
-
-6. Applied Data Science with Python
-🔗https://lnkd.in/dTf3QUMb
-
-7. Introduction to Data Analytics Course
-🔗 https://lnkd.in/dns7Yvdv
-
-8. Introduction to Cyber Security
-🔗https://lnkd.in/dYvFGEQF
-
-9. Machine Learning
-🔗 https://lnkd.in/dbCHUtmg
-
-10. GIT Training
-🔗 https://lnkd.in/dT2tz7XZ
-
-11. Azure Fundamentals
-🔗 https://lnkd.in/dS-7eQii
-
-12. Introduction to Cloud Computing
-🔗 https://lnkd.in/dED3jPn7
-
-13. Big Data Hadoop and Spark Developer
-🔗 https://lnkd.in/dVNvE8Yt
-
-14. Agile Scrum Foundation
-🔗https://lnkd.in/d6YrDDRS
-
-15. Computer Architecture
-🔗 https://lnkd.in/da7R4zvN
+1. Introduction to Artificial Intelligence 🔗 https://lnkd.in/d3ScMPXu
+2. Deep Learning for Beginners 🔗 https://lnkd.in/d8zWBFM4
+3. Blockchain Developer 🔗 https://lnkd.in/dqT2tCaC
+4. Python for Beginners 🔗 https://lnkd.in/d2C6nEjk
+5. Basics of Snapchat Marketing 🔗 https://lnkd.in/dKtpTJHC
+6. Applied Data Science with Python 🔗https://lnkd.in/dTf3QUMb
+7. Introduction to Data Analytics Course 🔗 https://lnkd.in/dns7Yvdv
+8. Introduction to Cyber Security 🔗https://lnkd.in/dYvFGEQF
+9. Machine Learning 🔗 https://lnkd.in/dbCHUtmg
+10. GIT Training 🔗 https://lnkd.in/dT2tz7XZ
+11. Azure Fundamentals 🔗 https://lnkd.in/dS-7eQii
+12. Introduction to Cloud Computing 🔗 https://lnkd.in/dED3jPn7
+13. Big Data Hadoop and Spark Developer 🔗 https://lnkd.in/dVNvE8Yt
+14. Agile Scrum Foundation 🔗https://lnkd.in/d6YrDDRS
+15. Computer Architecture 🔗 https://lnkd.in/da7R4zvN
