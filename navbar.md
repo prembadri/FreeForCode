@@ -38,3 +38,4 @@
   * [Top 7 DataTerms](./Blogs/Top7DataTermsExplained.md)
   * [API GateWay](./Blogs/APIGateWay.md)
   * [DevOps Vs DataOps Vs MLOps](./Blogs/DevOpsvsDataOpsvsMLOps.md)
+  * [8 Popular Network Protocols](./Blogs/𝟴𝗣𝗼𝗽𝘂𝗹𝗮𝗿𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹𝘀.md)
