@@ -41,12 +41,8 @@
   * [Top 7 DataTerms](./Blogs/Top7DataTermsExplained.md)
   * [7 SQL Joins](./Blogs/7EssentialSQLJoins.md)
   * [𝗧𝗼𝗽 𝟱 𝗞𝗮𝗳𝗸𝗮 𝗨𝘀𝗲𝗖𝗮𝘀𝗲𝘀](./Blogs/𝗧𝗼𝗽𝟱𝗞𝗮𝗳𝗸𝗮𝗨𝘀𝗲𝗖𝗮𝘀𝗲𝘀.md)
-  
   * [DevOps Vs DataOps Vs MLOps](./Blogs/DevOpsvsDataOpsvsMLOps.md)
   * [layers](./Blogs/layers.md)
-  
   * [8 Popular Network Protocols](./Blogs/𝟴𝗣𝗼𝗽𝘂𝗹𝗮𝗿𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹𝘀.md)
   * [𝟖 𝐌𝐮𝐬𝐭 𝐊𝐧𝐨𝐰 𝐋𝐨𝐚𝐝 𝐁𝐚𝐥𝐚𝐧𝐜𝐢𝐧𝐠 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬](./Blogs/𝟖𝐌𝐮𝐬𝐭𝐊𝐧𝐨𝐰𝐋𝐨𝐚𝐝𝐁𝐚𝐥𝐚𝐧𝐜𝐢𝐧𝐠𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬.md)
-  
   * [Youtube System](./Blogs/YoutubeSystem.md)
-  
