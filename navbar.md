@@ -38,6 +38,7 @@
   * [API](./Blogs/APIs-EssentialBuildingBlocksofModernSoftware.md)
   * [API GateWay](./Blogs/APIGateWay.md)
   * [API Testing](./Blogs/APItesting.md)
+  * [OSI Model](./Blogs/OSIModel.md)
   * [Database Types](./Blogs/DatabaseTypes.md)
   * [Top 7 DataTerms](./Blogs/Top7DataTermsExplained.md)
   * [7 SQL Joins](./Blogs/7EssentialSQLJoins.md)
