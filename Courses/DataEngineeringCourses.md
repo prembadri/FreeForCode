@@ -1,5 +1,3 @@
-
-
 # Data Engineering Courses
  1. DE Roadmap: https://lnkd.in/dZBfE3Eq - https://dataengineering.wiki/Tutorials/Tutorials
  1. Master Python: https://lnkd.in/e5rCbvP8
