@@ -140,6 +140,60 @@
 30. R : https://lnkd.in/g2zmDtWJ
 31. PowerBI : https://lnkd.in/gyyCPSkN
 32. Mathematics : https://lnkd.in/gjeFQkaA
+1. Azure Data Scientist Associate : https://lnkd.in/gszH3GD2
+1. Cybersecurity Analyst : https://lnkd.in/gFZPmX_c
+1. Power BI Data Analyst : https://lnkd.in/g45MuT-W
+1. Azure Data Engineering Associate (DP-203) : https://lnkd.in/g4tBxVKD
+1. Azure Developer Associate (AZ-204) : https://lnkd.in/g-cV6YqU
+1. Microsoft Azure Security Engineer Associate (AZ-500) : https://lnkd.in/gCa748X5
+1. 𝗜𝗕𝗠 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 : https://lnkd.in/d9g-SZsx
+1. Google Project Management : https://lnkd.in/dN4Gv65a
+1. 𝗔𝗜 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 : https://lnkd.in/dAQcVs3t
+1. 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗼𝗳 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗣𝗹𝗮𝗻𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 : https://lnkd.in/dUDuWrWZ
+1. SQL for Data Science with Python : https://lnkd.in/g6YNmUnB
+1. Tableau : https://lnkd.in/ggQmzh2c
+1. Microsoft Power BI : https://lnkd.in/guAwnhpm
+1. IBM Data Science : https://lnkd.in/gu4RPKwD
+1. IBM Data Analysts : https://lnkd.in/gyyJvR2D
+1. IBM Data Engineering : https://lnkd.in/gZN9umxi
+1. Big Data : https://lnkd.in/gTgyCUZy
+1. Mathematics : https://lnkd.in/g9n6a-dj
+1. Advanced Data Science : https://lnkd.in/g4qmTTNS
+1. Data Analytics For Python : https://lnkd.in/g-3tsuKG
+1. Python for Data Science , AI and Development : https://lnkd.in/ggHsBA7u
+1. Data Analytics with excel and R : https://lnkd.in/g_cq49dg
+1. HTML AND CSS : https://lnkd.in/gVZ9HdFx
+1. JavaScript : https://lnkd.in/gFURecbH
+1. Bootstrap : https://lnkd.in/gvt9yJ84
+1. React JS : https://lnkd.in/gwGWwEdZ
+1. Git and GitHub : https://lnkd.in/gTpfSHGj
+1. MySQL : https://lnkd.in/gRCdAbuN
+1. MongoDB : https://lnkd.in/g-P9YggE
+1. Django : https://lnkd.in/gV_RZTJR
+1. NodeJS : https://lnkd.in/gcz9xase
+1. Google Crash Course on Python : https://lnkd.in/gGfXtCiW
+1. Meta Android Developer : https://lnkd.in/g8Nnk3Ys
+1. Meta Frontend Developer : https://lnkd.in/gTiGrbAK
+1. Meta Backend Developer : https://lnkd.in/gR82v3Mn
+1. Docker : https://lnkd.in/gyKUWUeR
+1. Google Cloud : https://lnkd.in/gFh93-aE
+1. Java : https://lnkd.in/gQw6Snhu
+1. Data Structures and Algorithm : https://lnkd.in/gVggb6Gg
+1. Google Data Analytics : https://lnkd.in/gQntZtBG
+1. Foundations of Management : https://lnkd.in/gShN_8R8
+1. Project Management Principles and Practice : https://lnkd.in/gerw36TX
+1. Construction Management : https://lnkd.in/gFSVsXQY
+1. Engineering Project Management : https://lnkd.in/gj2xr2_b
+1. Management Consulting : https://lnkd.in/g484mV2p
+1. Supply Chain Management : https://lnkd.in/gbHcBR9q
+1. Human Resource Management - HR for People Managers : https://lnkd.in/gwrkmqMN
+1. Agile Project Management : https://lnkd.in/g__q7Vhf
+1. Scrum Master Certificate : https://lnkd.in/gX8p9gYd
+1. Excel Skills for Data Analytics and Visualization : https://lnkd.in/gJWpQzc8
+1. Risk Management : https://lnkd.in/gbysYUit
+1. Software Product Management : https://lnkd.in/gs_brEGB
+1. UCI Project Management Professional Certificate : https://lnkd.in/gu6MXsFH
+1. AI Product Management : https://lnkd.in/gFciwAYy
 
 # Best Link For Learning
 |SNO|Title|Link|Link|
