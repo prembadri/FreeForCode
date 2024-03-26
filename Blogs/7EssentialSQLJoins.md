@@ -29,3 +29,5 @@
 ## 7. Full Join with Null Check 🔄❓
    - Filters only the records where there is no match in either the left or right table (NULL values).
    - Excellent for identifying records that exist exclusively in one table but not the other.
+
+   ![Banner](../images/sqljoins2.gif)

@@ -395,3 +395,25 @@ Apache Airflow is a powerful open-source platform for orchestrating complex work
 - 𝟭𝟬 𝗠𝗟 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀: https://lnkd.in/ekYV938P
 - 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗚𝘂𝗶𝗱𝗲: https://lnkd.in/e-uf9K9J
 - 𝗟𝗲𝗲𝘁𝗖𝗼𝗱𝗲 𝗣𝘆𝘁𝗵𝗼𝗻 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄: https://lnkd.in/enbuswWb
+
+
+# Delta Lake Tutorial
+✅ introduction To Delta Lake 1 : What is Delta Lake, What is Azure Databricks Delta lake, DeltaLake : https://lnkd.in/g_VBMuZa
+
+✅ Delta Lake tutorial 2 : How to Create delta lake table By path : https://lnkd.in/gn6UijvP
+
+✅ Delta Lake Tutorial 3: How To Create delta lake table in metastore, delta lake table : https://lnkd.in/gaCjzrNp
+
+✅ delta lake tutorial 4 : what is schema enforcement in delta lake : https://lnkd.in/gTaZB2Qk
+
+✅ delta lake tutorial 5 : Delta Lake Timetravel and Audit Log : https://lnkd.in/gAFTRiGs
+
+✅ delta lake tutorial 6 : Delta Lake Vacuum command : https://lnkd.in/gF3w92Us
+
+✅ delta lake tutorial 7 : Delta Lake Restore command : https://lnkd.in/g47_U3x4
+
+✅ delta lake tutorial 8 : Delta Lake Column Mapping: How to Rename and Drop Columns : https://lnkd.in/gcqN_DT5
+
+✅ delta lake tutorial 9 : Small Files Issue : https://lnkd.in/gRbJP7Fh
+
+✅ Download Delta Lake cheat Sheet PDF : https://lnkd.in/gG3aJjZi

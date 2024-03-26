@@ -109,7 +109,7 @@ Apply what you've learned by solving problems with
 
 # SQL Road Map
 
-![SQL](./images/1710715223814.gif)
+![SQL](../images/1710715223814.gif)
 
 ## 𝟭. 𝗬𝗼𝘂 𝗰𝗮𝗻 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲 𝗦𝗤𝗟 𝗼𝗻 𝘁𝗵𝗲𝘀𝗲 𝘄𝗲𝗯𝘀𝗶𝘁𝗲𝘀, 𝗻𝗼 𝗻𝗲𝗲𝗱 𝘁𝗼 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴.
 - https://sqlbolt.com/
@@ -142,3 +142,13 @@ Apply what you've learned by solving problems with
 
 ## 𝟭𝟬. 𝗦𝗤𝗟 𝗠𝗼𝗰𝗸 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 (𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁)
 - https://lnkd.in/ey4hhkDk
+
+# 𝐒𝐐𝐋 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐰𝐢𝐭𝐡 𝐃𝐚𝐭𝐚𝐬𝐞𝐭𝐬
+
+🔴 E-commerce Sales Analysis: (Dataset) Online retail dataset from the UCI Machine Learning Repository : https://lnkd.in/guQYxkrB
+🔴 Social Media Analytics: Twitter API or Twitter datasets are available on platforms like Kaggle : https://lnkd.in/gPyZ-Sjw
+🔴 Healthcare Data Management: MIMIC-III (Medical Information Mart for Intensive Care III) dataset : https://lnkd.in/gN25duPP
+🔴 Retail Inventory Management: Sample retail sales dataset available on platforms like Kaggle : https://lnkd.in/gJipDPyT
+🔴 Financial Portfolio Analysis: Yahoo Finance API or finance datasets available on platforms like Kaggle : https://lnkd.in/gY_v2BJx
+🔴 Real Estate Market Analysis: Zillow dataset : https://lnkd.in/gGUEQPb2
+🔴 Real estate datasets available on platforms like Kaggle : https://lnkd.in/gs2aYYnv 
