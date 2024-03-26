@@ -145,10 +145,10 @@ Apply what you've learned by solving problems with
 
 # 𝐒𝐐𝐋 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐰𝐢𝐭𝐡 𝐃𝐚𝐭𝐚𝐬𝐞𝐭𝐬
 
-🔴 E-commerce Sales Analysis: (Dataset) Online retail dataset from the UCI Machine Learning Repository : https://lnkd.in/guQYxkrB
-🔴 Social Media Analytics: Twitter API or Twitter datasets are available on platforms like Kaggle : https://lnkd.in/gPyZ-Sjw
-🔴 Healthcare Data Management: MIMIC-III (Medical Information Mart for Intensive Care III) dataset : https://lnkd.in/gN25duPP
-🔴 Retail Inventory Management: Sample retail sales dataset available on platforms like Kaggle : https://lnkd.in/gJipDPyT
-🔴 Financial Portfolio Analysis: Yahoo Finance API or finance datasets available on platforms like Kaggle : https://lnkd.in/gY_v2BJx
-🔴 Real Estate Market Analysis: Zillow dataset : https://lnkd.in/gGUEQPb2
-🔴 Real estate datasets available on platforms like Kaggle : https://lnkd.in/gs2aYYnv 
+1. E-commerce Sales Analysis: (Dataset) Online retail dataset from the UCI Machine Learning Repository : https://lnkd.in/guQYxkrB
+1. Social Media Analytics: Twitter API or Twitter datasets are available on platforms like Kaggle : https://lnkd.in/gPyZ-Sjw
+1. Healthcare Data Management: MIMIC-III (Medical Information Mart for Intensive Care III) dataset : https://lnkd.in/gN25duPP
+1. Retail Inventory Management: Sample retail sales dataset available on platforms like Kaggle : https://lnkd.in/gJipDPyT
+1. Financial Portfolio Analysis: Yahoo Finance API or finance datasets available on platforms like Kaggle : https://lnkd.in/gY_v2BJx
+1. Real Estate Market Analysis: Zillow dataset : https://lnkd.in/gGUEQPb2
+1. Real estate datasets available on platforms like Kaggle : https://lnkd.in/gs2aYYnv 
