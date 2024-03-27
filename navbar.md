@@ -42,6 +42,7 @@
   * [Database Types](./Blogs/DatabaseTypes.md)
   * [Top 7 DataTerms](./Blogs/Top7DataTermsExplained.md)
   * [7 SQL Joins](./Blogs/7EssentialSQLJoins.md)
+  * [Mastering SQL](./Blogs/MasteringSQL.md)
   * [Top 5 Kafka UseCases](./Blogs/𝗧𝗼𝗽𝟱𝗞𝗮𝗳𝗸𝗮𝗨𝘀𝗲𝗖𝗮𝘀𝗲𝘀.md)
   * [DevOps Vs DataOps Vs MLOps](./Blogs/DevOpsvsDataOpsvsMLOps.md)
   * [Docker Commands](./Blogs/DockerCommands.md)

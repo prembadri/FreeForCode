@@ -60,3 +60,30 @@ Roadmap for Python
 1. GIT & GitHub: https://lnkd.in/ejshTxFw
 1. Python Portfolio on Github: https://lnkd.in/eB2AanXj
 1. Python Resume Ideas: https://lnkd.in/e_Fb7uNi
+
+
+
+![Banner](../images/PythonRoadmap.gif)
+
+## Web Development with Flask:
+    * Learn Flask: https://lnkd.in/eqAg3jZP
+    * Flask Projects: https://lnkd.in/eqnf7h-W
+    * Learn REST API with Flask: https://lnkd.in/e-TTahQf
+    * Multithreading & Asyncio: https://lnkd.in/e_99Jiwp
+    * Gunicorn & Nginx with Flask: https://lnkd.in/eWxgTNdB
+    * TDD with Python & Flask: https://lnkd.in/eMjweHuZ
+
+## Databases:
+    * Basic RDBMS: https://lnkd.in/ebkPd8-q
+    * Learn SQL: sqlbolt.com & W3Schools.com
+    * PostgreSQL with Python: https://lnkd.in/esKUqNdt
+    * Flask App with PostgreSQL: https://lnkd.in/eTzpcwNc
+
+## Deployment:
+    * Basics of Bash: https://lnkd.in/eZnG8cP6
+    * Basics of Docker: https://lnkd.in/eFEK_aXW
+    * Deploy Flask App with Docker: https://lnkd.in/eTjnFW8Y
+
+## Version Control:
+    * GIT & GitHub: https://lnkd.in/ejshTxFw
+    * Python Portfolio on Github: https://lnkd.in/eB2AanXj

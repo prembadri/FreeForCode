@@ -34,3 +34,12 @@
 1. 👉 2-WAY LOOKUPS (XLOOKUP vs INDEX & MATCH)! : https://lnkd.in/guWRTpMs
 1. 👉 LOOKUP with PIVOT Tables! : https://lnkd.in/g8Pff2X4
 1. 👉 Generate VLOOKUP formulas with ChatGPT! : https://lnkd.in/g9EYkXJa
+
+
+# 🔥 PIVOT TABLES
+
+1. 👉 How to use PIVOT TABLE, with Filter, Slicer, and Pivot Charts! : https://lnkd.in/g8Pff2X4
+1. 👉 How to DISPLAY TEXT in PIVOT TABLE! : https://lnkd.in/eCDZmfg9
+1. 👉 How to find PERCENTILE with PIVOT TABLE! : https://lnkd.in/gmh6VtDW
+1. 👉 How to find MEDIAN with PIVOT TABLE! : https://lnkd.in/gm5zGxTW
+1. 👉 How to create a 9-BOX GRID for TALENT MAPPING with PIVOT TABLE! : https://lnkd.in/gBRf9ryH

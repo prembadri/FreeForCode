@@ -1,6 +1,8 @@
 
 # Machine Learning
 
+![Banner](../images/ML.gif)
+
 1️⃣ 🧮 𝗠𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀 & 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀:
 1.  Linear Algebra, Calculus, and Probability & Statistics -
   https://lnkd.in/eabKGp_p
@@ -8,6 +10,7 @@
 
 2️⃣ 🔯 𝗦𝗤𝗟 & 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀:
 1. https://lnkd.in/ea2DmZ2d
+ 
   
 3️⃣🤖 𝗖𝗼𝗿𝗲 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀 𝗼𝗳 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴:
 1. Google's ML Crash Course - https://lnkd.in/eT7NiGp6

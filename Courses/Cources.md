@@ -1,32 +1,41 @@
 # Google Free Online Courses
-
 |Sno|Course|Link|
 |--|--|--|
 |1|Google Project Management|https://lnkd.in/d-ryKzQJ|
-|2|Agile Project Management|https://lnkd.in/dqcuC-4P|
-|3|Project Execution: Running the Project|https://lnkd.in/dqAQbVrs|
-|4|Foundations of Project Management|https://lnkd.in/dNV-FpWX
-|5|Project Initiation: Starting a Successful Project|https://lnkd.in/duwy6peT
-|6|Project Planning: Putting It All Together|https://lnkd.in/dP9fFsVK
-|7|Google Analytics for Power Users|https://lnkd.in/d2uW7AhP
-|8|Fundamentals of digital marketing|https://lnkd.in/dprBe6CB
-|9|Python Basics for Data Analysis|https://lnkd.in/d9FUWPGc
-|10|Data Science Foundations|https://lnkd.in/dqwYK7Rp
-|11|Advanced Google Analytics|https://lnkd.in/d4zHUvJ9
-|12|Google Cloud Computing Foundations:|https://lnkd.in/d5krrR8q
-|13|Google Cloud Computing Foundations:|https://lnkd.in/ddF9qDtg
-|14|Data, ML, and AI in Google Cloud|https://lnkd.in/dWhMx5Xc
-|15|Google Cloud Computing Foundations|https://lnkd.in/dYN_J3xA
-|16|Machine Learning Crash Course|https://lnkd.in/dRp6kTtJ
-|17|Basics of Machine Learning|https://lnkd.in/dwxfQVn8
-|18|Data Science with Python|https://lnkd.in/d3xrXj6w|
-|19|Google Data Analytics|https://lnkd.in/eEWQpfhx
-|20|IBM Data Analyst|https://lnkd.in/ezcxKmax
-|21|Learn SQL Basics for Data Science|https://lnkd.in/ezFkqs2R
-|22|Excel for Business|https://lnkd.in/e52veyqA
-|23|Python for Everybody|https://lnkd.in/eZ8GCDxZ
-|24|Data Analysis Visualization Foundations|https://lnkd.in/eVD8_uTc
-|25|Machine Learning Specialization|https://lnkd.in/e4RrE_Xb
+|2|Google Project Management|https://lnkd.in/dN4Gv65a|
+|3|Google Data Analytics|https://lnkd.in/eEWQpfhx|
+|4|Google Data Analytics|https://lnkd.in/g4dsagCu|
+|5|Google Data Analytics|https://lnkd.in/gQntZtBG|
+|6|Advanced Google Analytics|https://lnkd.in/d4zHUvJ9|
+|7|Google Analytics for Power Users|https://lnkd.in/d2uW7AhP|
+|8|Google Cloud|https://lnkd.in/gFh93-aE|
+|9|Google Cloud Computing Foundations|https://lnkd.in/dYN_J3xA|
+|10|Google Cloud Computing Foundations:|https://lnkd.in/d5krrR8q|
+|11|Google Cloud Computing Foundations:|https://lnkd.in/ddF9qDtg|
+|12|Data, ML, and AI in Google Cloud|https://lnkd.in/dWhMx5Xc|
+|13|Google Crash Course on Python|https://lnkd.in/gGfXtCiW|
+
+# Free Online Courses
+
+|Sno|Course|Link|
+|--|--|--|
+|1|Agile Project Management|https://lnkd.in/dqcuC-4P|
+|2|Project Execution: Running the Project|https://lnkd.in/dqAQbVrs|
+|3|Foundations of Project Management|https://lnkd.in/dNV-FpWX
+|4|Project Initiation: Starting a Successful Project|https://lnkd.in/duwy6peT
+|5|Project Planning: Putting It All Together|https://lnkd.in/dP9fFsVK
+|6|Fundamentals of digital marketing|https://lnkd.in/dprBe6CB
+|7|Python Basics for Data Analysis|https://lnkd.in/d9FUWPGc
+|8|Data Science Foundations|https://lnkd.in/dqwYK7Rp
+|9|Machine Learning Crash Course|https://lnkd.in/dRp6kTtJ
+|10|Basics of Machine Learning|https://lnkd.in/dwxfQVn8
+|11|Data Science with Python|https://lnkd.in/d3xrXj6w|
+|12|IBM Data Analyst|https://lnkd.in/ezcxKmax
+|13|Learn SQL Basics for Data Science|https://lnkd.in/ezFkqs2R
+|14|Excel for Business|https://lnkd.in/e52veyqA
+|15|Python for Everybody|https://lnkd.in/eZ8GCDxZ
+|16|Data Analysis Visualization Foundations|https://lnkd.in/eVD8_uTc
+|17|Machine Learning Specialization|https://lnkd.in/e4RrE_Xb
 
 # Cybersecurity Courses
 |SNO|Title|Link|
@@ -85,18 +94,18 @@
 |Sno|Course|Link|
 |--|--|--|
 |1|Meta Database Engineer | https://lnkd.in/d7r-c3i4 |
-|1|Meta Social Media Marketing | https://lnkd.in/d8DDAkzD |
-|1|Meta Front-End Developer | https://lnkd.in/gGuvhR9n |
-|1|Meta Marketing Analytics | https://lnkd.in/dF2PTMK6 |
-|1|Meta Back-End Developer | https://lnkd.in/dvF5Yan7 |
-|1|Meta Database Engineer | https://lnkd.in/eDCV6r7F |
-|1|Meta Social Media Marketing | https://lnkd.in/eCiKwtwY |
-|1|Meta Front-End Developer | https://lnkd.in/eEgRZgDf |
-|1|Meta Marketing Analytics | https://lnkd.in/e2Y_csc9 |
-|1|Meta Back-End Developer | https://lnkd.in/eQzfd_DY |
-|1|Meta Android Developer | https://lnkd.in/g8Nnk3Ys |
-|1|Meta Frontend Developer | https://lnkd.in/gTiGrbAK |
-|1|Meta Backend Developer | https://lnkd.in/gR82v3Mn |
+|2|Meta Social Media Marketing | https://lnkd.in/d8DDAkzD |
+|3|Meta Front-End Developer | https://lnkd.in/gGuvhR9n |
+|4|Meta Marketing Analytics | https://lnkd.in/dF2PTMK6 |
+|5|Meta Back-End Developer | https://lnkd.in/dvF5Yan7 |
+|6|Meta Database Engineer | https://lnkd.in/eDCV6r7F |
+|7|Meta Social Media Marketing | https://lnkd.in/eCiKwtwY |
+|8|Meta Front-End Developer | https://lnkd.in/eEgRZgDf |
+|9|Meta Marketing Analytics | https://lnkd.in/e2Y_csc9 |
+|10|Meta Back-End Developer | https://lnkd.in/eQzfd_DY |
+|11|Meta Android Developer | https://lnkd.in/g8Nnk3Ys |
+|12|Meta Frontend Developer | https://lnkd.in/gTiGrbAK |
+|13|Meta Backend Developer | https://lnkd.in/gR82v3Mn |
 
 # Learn for FREE in 2023! 🚀
 1. Project Management Professional Certificate : https://lnkd.in/dSVg_gUX
@@ -118,7 +127,6 @@
 1. DevOps Basics for Everyone : https://lnkd.in/gtKbwf9y
 1. Python for AI & Development Project : https://lnkd.in/gvfJmvDt
 1. Data Engineering Basics for Everyone : https://lnkd.in/gD2GsT8c
-1. Google Data Analytics: : https://lnkd.in/g4dsagCu
 1. DeepLearning .AI TensorFlow Developer : https://lnkd.in/esR3dDft
 1. Intuit Bookkeeping : https://lnkd.in/eUtUqWit
 1. Microsoft Power BI Analyst : https://lnkd.in/eu2_VHSF
@@ -160,7 +168,6 @@
 1. Azure Data Engineering Associate (DP-203) : https://lnkd.in/g4tBxVKD
 1. Azure Developer Associate (AZ-204) : https://lnkd.in/g-cV6YqU
 1. Microsoft Azure Security Engineer Associate (AZ-500) : https://lnkd.in/gCa748X5
-1. Google Project Management : https://lnkd.in/dN4Gv65a
 1. 𝗔𝗜 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 : https://lnkd.in/dAQcVs3t
 1. 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗼𝗳 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗣𝗹𝗮𝗻𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 : https://lnkd.in/dUDuWrWZ
 1. SQL for Data Science with Python : https://lnkd.in/g6YNmUnB
@@ -181,12 +188,9 @@
 1. MongoDB : https://lnkd.in/g-P9YggE
 1. Django : https://lnkd.in/gV_RZTJR
 1. NodeJS : https://lnkd.in/gcz9xase
-1. Google Crash Course on Python : https://lnkd.in/gGfXtCiW
 1. Docker : https://lnkd.in/gyKUWUeR
-1. Google Cloud : https://lnkd.in/gFh93-aE
 1. Java : https://lnkd.in/gQw6Snhu
 1. Data Structures and Algorithm : https://lnkd.in/gVggb6Gg
-1. Google Data Analytics : https://lnkd.in/gQntZtBG
 1. Foundations of Management : https://lnkd.in/gShN_8R8
 1. Project Management Principles and Practice : https://lnkd.in/gerw36TX
 1. Construction Management : https://lnkd.in/gFSVsXQY
