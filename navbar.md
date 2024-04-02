@@ -33,6 +33,7 @@
 
   * [Miscellaneous](Miscellaneous/Miscellaneous.md)
   * [GitHubRepository](Miscellaneous/GitHubRepository.md)
+  * [50 Life Rules That Are Golden](Miscellaneous/50LifeRulesThatAreGolden.md)
 
 * Blogs
 

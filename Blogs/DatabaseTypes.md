@@ -27,3 +27,6 @@ Spatial, or geospatial, databases focus on data related to locations and geograp
 Understanding these database types equips you with the knowledge to select the appropriate database that aligns with the specific needs and goals of your project or application.
 
 Blog Credits to in/abhishek-chandragiri.
+
+
+![Banner](../images/typesofdatabase1.gif.gif)
