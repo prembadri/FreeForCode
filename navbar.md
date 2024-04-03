@@ -8,6 +8,7 @@
   * [Testing](Courses/Testing.md)
   * [Power Bi](Courses/powerbi.md)
   * [Excel Courses](Courses/ExcelCourses.md)
+  * [Full Stack](./Courses/FullStack.md)
   * [Code Practice](Courses/CodePractice.md)
   * [Data Engineering](Courses/DataEngineeringCourses.md)
   * [DATA VISUALIZATION](Courses/DATAVISUALIZATION.md)
@@ -34,12 +35,16 @@
   * [Miscellaneous](Miscellaneous/Miscellaneous.md)
   * [GitHubRepository](Miscellaneous/GitHubRepository.md)
   * [50 Life Rules That Are Golden](Miscellaneous/50LifeRulesThatAreGolden.md)
+  * [Careers](./Miscellaneous/Careers.md)
+  * [9 Rules To Life](./Miscellaneous/9RulesToLive.md)
+  * [26 Tools For PM](./Miscellaneous/26ToolsForPM.md)
 
 * Blogs
 
   * [API](./Blogs/APIs-EssentialBuildingBlocksofModernSoftware.md)
   * [API GateWay](./Blogs/APIGateWay.md)
   * [API Testing](./Blogs/APItesting.md)
+  * [API Guide](./Blogs/APIGuide.md)
   * [OSI Model](./Blogs/OSIModel.md)
   * [Database Types](./Blogs/DatabaseTypes.md)
   * [Top 7 DataTerms](./Blogs/Top7DataTermsExplained.md)
@@ -53,3 +58,6 @@
   * [8 Must Know Load Balancing Algorithms](./Blogs/𝟖𝐌𝐮𝐬𝐭𝐊𝐧𝐨𝐰𝐋𝐨𝐚𝐝𝐁𝐚𝐥𝐚𝐧𝐜𝐢𝐧𝐠𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬.md)
   * [Youtube System](./Blogs/YoutubeSystem.md)
   * [Top 8 Types Of Cyber Attacks](./Blogs/Top8TypesOfCyberAttacks.md)
+  * [Performance Tuning](./Blogs/performancetuning.md)
+  * [Linux Commands](./Blogs/LinuxCommands.md)
+  * [API Guide](./Blogs/APIGuide.md)

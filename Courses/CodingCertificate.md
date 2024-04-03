@@ -64,3 +64,18 @@
 27. Introduction to Web Development :  IBM Full Stack Software Developer Professional Certificate : https://lnkd.in/d_wA7bRd
 29. IBM DevOps and Software Engineering Professional Certificate : https://lnkd.in/d-KBCzsy
 30. Meta Android Developer Professional Certificate : https://lnkd.in/dcvd6cS3
+
+
+# Microsoft
+
+1. 📌Python for beginners 🔗 https://lnkd.in/drQMQsBK
+1. 📌 Get started with Azure Cosmos DB 🔗 https://lnkd.in/dmt_gm5Q
+1. 📌 Introduction to Machine Learning 🔗 https://lnkd.in/dg3Kh6ZN
+1. 📌 Get started with Azure Cosmos DB 🔗 https://lnkd.in/dmt_gm5Q
+1. 📌 Get started with AI on Azure 🔗 https://lnkd.in/d79qWhcV
+1. 📌 Introduction to Data Science with Python 🔗 https://lnkd.in/db7-zBD7
+1. 📌 Microsoft Azure Fundamentals 🔗 https://lnkd.in/dUhs6GMJ
+1. 📌 Secure your cloud data 🔗 https://lnkd.in/dwnGZUGw
+1. 📌 Automate development tasks by using GitHub 🔗 https://lnkd.in/dudMeYs4
+1. 📌 Refine and test machine learning models 🔗 https://lnkd.in/dKWRAPPT
+1. 📌 Write your first code using C# 🔗 https://lnkd.in/dT3wXBwg

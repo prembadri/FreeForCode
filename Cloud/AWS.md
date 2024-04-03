@@ -26,3 +26,27 @@
 24. Build and Deploy a LAMP server on AWS [https://lnkd.in/dNP6msQy](https://lnkd.in/dNP6msQy "https://lnkd.in/dnp6msqy")  
 25. All About AWS Lambda and Serverless [https://lnkd.in/dip9ZWm5](https://lnkd.in/dip9ZWm5 "https://lnkd.in/dip9zwm5")  
 26. Serverless computing in AWS [https://lnkd.in/dGsj5JTm](https://lnkd.in/dGsj5JTm "https://lnkd.in/dgsj5jtm")
+1. AWS Cloud Practitioner Essentials https://lnkd.in/d7igqqud
+2. AWS Cloud Technical Essentials https://lnkd.in/dDeJsX-v
+3. AWS Fundamentals Specialization https://lnkd.in/dJqHWwnp
+4. AWS Cloud Solutions Architect Professional Certificate https://lnkd.in/dzTW5qzS
+5. Getting Started with Data Analytics on AWS https://lnkd.in/dMCXx3dp
+6. A Practical Introduction to Cloud Computing https://lnkd.in/dGFePPAx
+7. Cloud Computing With Amazon Web Services https://lnkd.in/dKNyYk3S
+8. Starting your Career with Amazon AWS https://lnkd.in/dYNtJE42
+9. Amazon Web Services (AWS) - Zero to Hero https://lnkd.in/dytfNFGq
+10. Amazon Web Services - Learning and Implementing AWS Solution https://lnkd.in/dgZDXu4j
+11. Serverless computing in AWS https://lnkd.in/dk2xif7a
+12. AWS Certified Solutions Architect Associate Introduction https://lnkd.in/d3P3AmZr
+13. All About AWS Lambda and Serverless https://lnkd.in/dpY2ZtuE
+14. AWS Tutorials - DynamoDB and Database Migration Service https://lnkd.in/dMN-6sdr
+15. Multitier architecture with AWS https://lnkd.in/dgSXqkTK
+16. Amazon Web Services (AWS): CloudFormation https://lnkd.in/d-8aHpqc
+17. AWS VPC Transit Gateway - Hands On Learning! https://lnkd.in/dnsmqF8R
+18. Frontend is for Everyone https://lnkd.in/g6MgpfVB
+19. AWS For Beginners https://lnkd.in/dxVXNWaN
+20. AWS for Beginners: First step to start your Cloud Computing career https://lnkd.in/dUrdxuzQ
+21. Getting Started with AWS Services Fundamentals for Beginners https://lnkd.in/dmBdR_Nk
+22. DevOps on AWS Specialization https://lnkd.in/d34WCGwn
+23. AWS Cloud Technology Consultant https://lnkd.in/dBDyA_QQ
+24. Generative AI with LLM https://lnkd.in/dCJ-bFst

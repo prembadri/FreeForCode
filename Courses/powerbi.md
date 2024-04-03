@@ -59,3 +59,16 @@
 3. PowerBi: https://lnkd.in/d4RnYuJG
 4. SQL: https://www.w3schools.com
 5. Python: https://lnkd.in/dcJi-aMB
+
+
+# Youtube Channels For BA 
+
+![Banner](../images/BAChannels.jpeg)
+
+|Sno|Topic| | | | | |
+|--|--|--|--|--|--|--|
+|1| Excel | Excel Is Fun : https://www.youtube.com/@excelisfun | Chandoo : https://www.youtube.com/@chandoo_ | 
+|2| SQL   | Alex The Analyst : https://www.youtube.com/@AlexTheAnalyst | Sqlbelle : https://www.youtube.com/@sqlbelle | 
+|3| Python /R | Tutorials Point : https://www.youtube.com/@TutorialsPoint_ | Programming With Mosh : https://www.youtube.com/@programmingwithmosh| TechWorld With Nana :https://www.youtube.com/@TechWorldwithNana | 
+|4| BI Tools| MicrosoftPowerBI : https://www.youtube.com/@MicrosoftPowerBI | Tableau : https://www.youtube.com/@Tableau-eo8gj | Guy in a cube : https://www.youtube.com/@GuyInACube| 
+|5| Business Analytical Concepts | Cody Baldwin : https://www.youtube.com/@codymbaldwin | The Perfect BA : https://www.youtube.com/@ThePrefectBA| Bridging The Gap : https://www.youtube.com/@BridgingTheGapYT| BA Blocks : https://www.youtube.com/@BABLOCKS| The BA Tutor : https://www.youtube.com/@TheBATutor | 
