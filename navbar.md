@@ -1,17 +1,19 @@
-* Courses
-  * [Web](Courses/web.md)
-  * [API](Courses/api.md)
+* Data & AI & ML
   * [SQL](Courses/sql.md)
   * [AI](Courses/AI.md)
   * [ML](Courses/ml.md)
   * [Python](Courses/python.md)
-  * [Testing](Courses/Testing.md)
   * [Power Bi](Courses/powerbi.md)
   * [Excel Courses](Courses/ExcelCourses.md)
-  * [Full Stack](./Courses/FullStack.md)
-  * [Code Practice](Courses/CodePractice.md)
   * [Data Engineering](Courses/DataEngineeringCourses.md)
   * [DATA VISUALIZATION](Courses/DATAVISUALIZATION.md)
+
+* Courses
+  * [Web](Courses/web.md)
+  * [API](Courses/api.md)
+  * [Testing](Courses/Testing.md)
+  * [Full Stack](./Courses/FullStack.md)
+  * [Code Practice](Courses/CodePractice.md)
   * [Free Courses Websites](Courses/FreeCourcesWebsites.md)
   * [Youtube Channel Codding](Courses/YoutubeChannelforCodding.md)
   * [Other Courses](Courses/Cources.md)
@@ -19,7 +21,6 @@
   * [Certificate](Courses/CodingCertificate.md)
 
 * Cloud
-
   * [AWS](Cloud/AWS.md)
   * [Azure](Cloud/Azure.md)
   * [Cloud Computing](Cloud/CloudComputing.md)
@@ -38,6 +39,7 @@
   * [Careers](./Miscellaneous/Careers.md)
   * [9 Rules To Life](./Miscellaneous/9RulesToLive.md)
   * [26 Tools For PM](./Miscellaneous/26ToolsForPM.md)
+  * [7 Places to Stay Silent](./Miscellaneous/7PlacestoStaySilent.md)
 
 * Blogs
 

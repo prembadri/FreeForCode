@@ -1,4 +1,4 @@
-# 9 Rules To Live
+# 9 Rules To Life
 
 1. Life Begins Where Fear Ends.
 1. Risk Is Always Better Than Regret.
