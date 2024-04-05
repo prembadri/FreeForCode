@@ -16,3 +16,16 @@
  1. Testing APIs with Postman - https://lnkd.in/eCPnGTGi
  1. API Security - https://lnkd.in/e79ZYfPa
  1. APIs for Everyone - https://lnkd.in/e4WGDffA
+
+
+# 9 Free API Courses You Should Look Into in 2024
+
+1. Introduction to API and RESTful API : https://lnkd.in/e_66wvG6
+2. Designing Restful APIs : https://lnkd.in/eVmCKZ3a   
+3. RESTful API using Postman : https://lnkd.in/eY6CtK5b
+4. Introduction to API Testing : https://lnkd.in/ece36r5E
+5. Introduction to Postman API : https://lnkd.in/ewqGKRPU
+6. API For Beginners : https://lnkd.in/eRVAQDdX
+7. RestAPI Manual Testing For Beginners : https://lnkd.in/ewE7Y4Xx
+8. Professional RESTful API Design Using Python Flask : https://lnkd.in/ew-Dacx7
+9. More Free Courses : https://lnkd.in/epiaZC6s

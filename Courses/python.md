@@ -33,7 +33,8 @@
 5. Python Portfolio on Github: https://lnkd.in/eB2AanXj
 6. Python Resume Ideas: https://lnkd.in/e_Fb7uNi
 
-Roadmap for Python
+# Roadmap for Python
+
 1. Basic Python: https://lnkd.in/eb4ke-9P
 1. Advanced Python: https://lnkd.in/eysAqzGf
 1. Python for Data Science, Analytics & Engineering: https://lnkd.in/e-YB25Tg
@@ -62,6 +63,7 @@ Roadmap for Python
 1. Python Resume Ideas: https://lnkd.in/e_Fb7uNi
 
 
+## https://github.com/prembadri/awesome-python-projects 
 
 ![Banner](../images/PythonRoadmap.gif)
 
@@ -87,3 +89,21 @@ Roadmap for Python
 ## Version Control:
     * GIT & GitHub: https://lnkd.in/ejshTxFw
     * Python Portfolio on Github: https://lnkd.in/eB2AanXj
+
+
+1. 𝗖𝗦𝟱𝟬𝗣 𝗳𝗿𝗼𝗺 𝗛𝗮𝗿𝘃𝗮𝗿𝗱 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 - https://lnkd.in/db9J9rTZ
+1. 𝗣𝘆𝘁𝗵𝗼𝗻 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗯𝘆 𝗜𝗕𝗠 - https://lnkd.in/dYDPhs8f
+1. 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝘁𝗼 𝗣𝘆𝘁𝗵𝗼𝗻 𝗯𝘆 𝗨𝗱𝗮𝗰𝗶𝘁𝘆 - https://lnkd.in/d276-W_2
+1. 𝗟𝗲𝗮𝗿𝗻 𝗣𝘆𝘁𝗵𝗼𝗻 𝗯𝗮𝘀𝗶𝗰𝘀 - https://learnpython.org
+1. 𝗟𝗲𝗮𝗿𝗻 𝗣𝘆𝘁𝗵𝗼𝗻 - 𝗙𝘂𝗹𝗹 𝗖𝗼𝘂𝗿𝘀𝗲 - https://lnkd.in/ddzsCv3g
+6. Machine Learning with Python - https://lnkd.in/d46GH7Ms
+7. Python for Beginners (2023) - https://lnkd.in/dNmdWBbh
+8. Learn Python for Total Beginners - https://lnkd.in/de-9jxY4
+9. Python for Data Science, AI & Development - https://lnkd.in/ddptfRha
+10. Python for Everybody Specialization - https://lnkd.in/d_6jwkrR
+11. Crash Course on Python - https://lnkd.in/d5riX4ie
+12. Google IT Automation with Python Professional Certificate -https://lnkd.in/dHJJc2gB
+13. Python 3 Programming Specialization - https://lnkd.in/dbrtiZq9
+14. Get Started with Python by Google - https://lnkd.in/dcFc6i9T
+15. Programming in Python by Meta - https://lnkd.in/dHyETcG2
+16. Data Analysis with Python by IBM - https://lnkd.in/dCkR_UFW

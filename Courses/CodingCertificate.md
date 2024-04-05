@@ -71,7 +71,6 @@
 1. 📌Python for beginners 🔗 https://lnkd.in/drQMQsBK
 1. 📌 Get started with Azure Cosmos DB 🔗 https://lnkd.in/dmt_gm5Q
 1. 📌 Introduction to Machine Learning 🔗 https://lnkd.in/dg3Kh6ZN
-1. 📌 Get started with Azure Cosmos DB 🔗 https://lnkd.in/dmt_gm5Q
 1. 📌 Get started with AI on Azure 🔗 https://lnkd.in/d79qWhcV
 1. 📌 Introduction to Data Science with Python 🔗 https://lnkd.in/db7-zBD7
 1. 📌 Microsoft Azure Fundamentals 🔗 https://lnkd.in/dUhs6GMJ

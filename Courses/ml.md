@@ -241,3 +241,72 @@ References for alarm clock
 28. Learn Python Basics for Data Analysis : https://lnkd.in/dimjFgx5 - https://lnkd.in/dz2AZZB8
 29. Google Advanced Data Analytics Capstone : https://lnkd.in/dcVTcbih
 30. Data Analysis with R Programming : https://lnkd.in/dwpP4xT3
+
+1) IBM Data Science Professional Certificate :-
+🔗  https://lnkd.in/gZYKPv2q
+
+2) Coding Interview Preparation :-
+🔗 https://lnkd.in/gktucK6V
+
+3) Data Structures and Algorithms Specialization:-
+🔗 https://lnkd.in/gAiquq9e
+
+4) Learn HTML and CSS :-
+🔗 https://lnkd.in/gb5YD59d
+
+5) Introduction to Web Development with HTML, CSS, JavaScript:-
+🔗 https://lnkd.in/gys2aGBj
+
+6) HTML, CSS, and Javascript for Web Developers :-
+🔗 https://lnkd.in/g3DQ-8K2
+
+7) Python for Cybersecurity Specialization:-
+🔗 https://lnkd.in/gtYfzgNx
+
+8) Google Cybersecurity Professional Certificate:-
+🔗 https://lnkd.in/gDgYuHVS
+
+9) Microsoft Cybersecurity Analyst Professional Certificate:-
+🔗 https://lnkd.in/gBqGwdmR
+
+10) IBM Data Science Professional Certificate :-
+🔗  https://lnkd.in/gZYKPv2q
+
+11) Data Science Specialization:-
+🔗https://lnkd.in/gFqb59Ys
+
+12) Python for Data Science, AI & Development:-
+🔗https://lnkd.in/gsgBys3g
+
+13) Google Data Analytics Professional Certificate:-
+🔗https://lnkd.in/gEkR6DRb
+
+14) Applied Data Science with Python Specialization:-
+🔗https://lnkd.in/gdhdXcxh
+
+15) Foundations of Data Science:-
+🔗 https://lnkd.in/gfrMPcF7
+
+16) IBM Data Analyst Professional Certificate:-
+🔗https://lnkd.in/gjrzuQcH
+
+17) Python Project for Data Science :-
+🔗 https://lnkd.in/gN4e-J73
+
+18) Data Science Fundamentals with Python and SQL Specialization:-
+🔗 https://lnkd.in/gZQu7CvW
+
+19) A Crash Course in Data Science:-
+🔗 https://lnkd.in/guHnAEUU
+
+20) Microsoft Power BI Data Analyst Professional Certificate:-
+🔗 https://lnkd.in/gspbeMba
+
+21) Machine Learning Specialization :-
+🔗https://lnkd.in/gAYkNJ4p
+
+22) Generative AI for Data Scientists Specialization :-
+🔗 https://lnkd.in/gu7mVjzS
+
+23) Introduction to Artificial Intelligence (AI) :-
+🔗  https://lnkd.in/gg4mNsf3
