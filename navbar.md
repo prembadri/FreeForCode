@@ -13,6 +13,7 @@
   * [API](Courses/api.md)
   * [Testing](Courses/Testing.md)
   * [Full Stack](./Courses/FullStack.md)
+  * [Chat GPT](./Courses/ChartGPT.md)
   * [Code Practice](Courses/CodePractice.md)
   * [Free Courses Websites](Courses/FreeCourcesWebsites.md)
   * [Youtube Channel Codding](Courses/YoutubeChannelforCodding.md)

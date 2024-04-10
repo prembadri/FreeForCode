@@ -417,3 +417,16 @@ Apache Airflow is a powerful open-source platform for orchestrating complex work
 ✅ delta lake tutorial 9 : Small Files Issue : https://lnkd.in/gRbJP7Fh
 
 ✅ Download Delta Lake cheat Sheet PDF : https://lnkd.in/gG3aJjZi
+
+
+## Projects 
+
+1. Build End-to-end Azure Project :https://lnkd.in/g2TuFmJm
+2. Build Delta Lake Project using PySpark and Databricks:https://lnkd.in/dFy3vYkb
+3. Master in PowerBi :https://lnkd.in/dD3xt2Zy
+4. Master in Azure Data Factory: https://lnkd.in/dBnQrfAZ
+5. Master in Python:https://lnkd.in/dUgDtfdM
+6. Solve the real-time problem of Databricks:https://lnkd.in/dCjUuEGe
+7. Solve PySpark Interview Questions: https://lnkd.in/dtWNG7Ku
+8. Solve real-time time problem of Logic App:https://lnkd.in/d-eYJMvU
+9. Microsoft Fabric Tutorial and Project: https://lnkd.in/g5HMBBZQ
