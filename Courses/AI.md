@@ -97,3 +97,26 @@ NVIDIA has released FREE AI online courses.
 7. Building RAG Agents with LLMs : https://lnkd.in/ev5auDW5
 8. Building A Brain in 10 Minutes : https://lnkd.in/eiMaNGHi
 9. Accelerate Data Science Workflows with Zero Code Changes : https://lnkd.in/ewYDMUCE
+
+
+# Google AI Program
+
+Generative AI is shaping our future, and it's moving fast! Google's making it easy for everyone with these 9 free courses:
+
+Introduction to Generative AI - https://lnkd.in/eNu-_kgd
+
+Introduction to Large Language Models - https://lnkd.in/esgJai37
+
+Introduction to Responsible AI - https://lnkd.in/eMbycrw8
+
+Introduction to Image Generation - https://lnkd.in/eYmTamdk
+
+Encoder-Decoder Architecture - https://lnkd.in/eqQugaDQ
+
+Transformer Models and BERT Model - https://lnkd.in/eZQS9e5G
+
+Create Image Captioning Models - https://lnkd.in/ebq9rJQM
+
+Introduction to Generative AI Studio - https://lnkd.in/eqJDSRPw
+
+Responsible AI: Applying AI Principles with Google Cloud - https://lnkd.in/e6HgvynH

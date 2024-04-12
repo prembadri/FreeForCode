@@ -2,6 +2,7 @@
   * [SQL](Courses/sql.md)
   * [AI](Courses/AI.md)
   * [ML](Courses/ml.md)
+  * [Chat GPT](./Courses/ChartGPT.md)
   * [Python](Courses/python.md)
   * [Power Bi](Courses/powerbi.md)
   * [Excel Courses](Courses/ExcelCourses.md)
@@ -13,7 +14,7 @@
   * [API](Courses/api.md)
   * [Testing](Courses/Testing.md)
   * [Full Stack](./Courses/FullStack.md)
-  * [Chat GPT](./Courses/ChartGPT.md)
+
   * [Code Practice](Courses/CodePractice.md)
   * [Free Courses Websites](Courses/FreeCourcesWebsites.md)
   * [Youtube Channel Codding](Courses/YoutubeChannelforCodding.md)
