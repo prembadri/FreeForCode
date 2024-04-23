@@ -1,4 +1,7 @@
-﻿## ❇️   40 Youtube channels to learn coding for free
+﻿## 40 Youtube channels to learn coding for free
+
+![Banner](../images/YoutubeChannel.gif)
+
 
 |Sno|Language| Channel  |
 |--|--|--|

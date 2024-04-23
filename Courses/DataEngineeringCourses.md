@@ -71,6 +71,7 @@ https://lnkd.in/gnqU7N26
 4. Uber Data Analytics Project On GCP
 Video Link - https://lnkd.in/dWnCppX5
 5. Building Data Model and Writing ETL Job - https://lnkd.in/dQSm-d_k
+1. IPL Data Analysis - https://lnkd.in/dQiMq6PJ
 
 # Project
 So here are 7 great examples and other resources you can use to inspire your next data engineering project.

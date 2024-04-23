@@ -103,20 +103,22 @@ NVIDIA has released FREE AI online courses.
 
 Generative AI is shaping our future, and it's moving fast! Google's making it easy for everyone with these 9 free courses:
 
-Introduction to Generative AI - https://lnkd.in/eNu-_kgd
+1. Introduction to Generative AI - https://lnkd.in/eNu-_kgd
+1. Introduction to Large Language Models - https://lnkd.in/esgJai37
+1. Introduction to Responsible AI - https://lnkd.in/eMbycrw8
+1. Introduction to Image Generation - https://lnkd.in/eYmTamdk
+1. Encoder-Decoder Architecture - https://lnkd.in/eqQugaDQ
+1. Transformer Models and BERT Model - https://lnkd.in/eZQS9e5G
+1. Create Image Captioning Models - https://lnkd.in/ebq9rJQM
+1. Introduction to Generative AI Studio - https://lnkd.in/eqJDSRPw
+1. Responsible AI: Applying AI Principles with Google Cloud - https://lnkd.in/e6HgvynH
 
-Introduction to Large Language Models - https://lnkd.in/esgJai37
-
-Introduction to Responsible AI - https://lnkd.in/eMbycrw8
-
-Introduction to Image Generation - https://lnkd.in/eYmTamdk
-
-Encoder-Decoder Architecture - https://lnkd.in/eqQugaDQ
-
-Transformer Models and BERT Model - https://lnkd.in/eZQS9e5G
-
-Create Image Captioning Models - https://lnkd.in/ebq9rJQM
-
-Introduction to Generative AI Studio - https://lnkd.in/eqJDSRPw
-
-Responsible AI: Applying AI Principles with Google Cloud - https://lnkd.in/e6HgvynH
+1. https://bit.ly/3vUzMrH
+1. https://bit.ly/3Jlw25Q
+1. https://bit.ly/3JkLcIq
+1. https://bit.ly/3Jka4A3
+1. https://bit.ly/3Jhs0vd
+1. https://bit.ly/4azk04z
+1. https://bit.ly/3JomXZG
+1. https://bit.ly/3JkYgO8
+1. https://bit.ly/4axv8z6

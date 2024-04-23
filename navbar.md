@@ -6,6 +6,7 @@
   * [Python](Courses/python.md)
   * [Power Bi](Courses/powerbi.md)
   * [Excel Courses](Courses/ExcelCourses.md)
+  * [Data Science](Courses/DataScience.md)
   * [Data Engineering](Courses/DataEngineeringCourses.md)
   * [DATA VISUALIZATION](Courses/DATAVISUALIZATION.md)
 
@@ -49,6 +50,7 @@
   * [API GateWay](./Blogs/APIGateWay.md)
   * [API Testing](./Blogs/APItesting.md)
   * [API Guide](./Blogs/APIGuide.md)
+  * [API Tools](./Blogs/𝗔𝗣𝗜𝗧𝗼𝗼𝗹𝘀.md)
   * [OSI Model](./Blogs/OSIModel.md)
   * [Database Types](./Blogs/DatabaseTypes.md)
   * [Top 7 DataTerms](./Blogs/Top7DataTermsExplained.md)
@@ -64,4 +66,3 @@
   * [Top 8 Types Of Cyber Attacks](./Blogs/Top8TypesOfCyberAttacks.md)
   * [Performance Tuning](./Blogs/performancetuning.md)
   * [Linux Commands](./Blogs/LinuxCommands.md)
-  * [API Guide](./Blogs/APIGuide.md)
